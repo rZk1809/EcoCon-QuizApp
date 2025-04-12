@@ -8,6 +8,7 @@ import random
 from datetime import datetime
 # Removed werkzeug imports if not using auth
 from functools import wraps # Still needed if keeping login_required temporarily
+from datetime import datetime
 
 # --- Configuration ---
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
@@ -77,6 +78,9 @@ def before_request():
              print("Error: Could not find or create test user in before_request.")
              # flash("Error setting up user session.", "error") # Careful with flash here
 
+@app.context_processor
+def inject_now():
+    return {'now': datetime.utcnow()}
 
 # --- Routes ---
 @app.route('/')

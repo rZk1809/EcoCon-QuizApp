@@ -1,21 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Quiz Progress</title>
-     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
-</head>
-<body>
-    <div class="container"> {# <--- Add this div #}
-        <h1>Quiz Progress for {{ username }}</h1>
-        <div id="progress-list">
-            <p>Loading progress...</p>
-        </div>
-        <div id="error-message" style="color: red; margin-top: 10px;"></div>
-        <p style="text-align: center; margin-top: 20px;"><a href="{{ url_for('index') }}">Back to Week Selection</a></p> {# Centered link #}
-    </div> {# <--- Close the div #}
+{% extends 'base.html' %} {# <-- Inherit from base.html #}
 
+{% block title %}My Progress - EcoCon Quiz App{% endblock %} {# <-- Set page title #}
+
+{% block content %} {# <-- Wrap main content in this block #}
+    {# Note: Header, Footer, Flash Messages are handled by base.html #}
+
+    <h1>Quiz Progress for {{ username }}</h1> {# Username passed from app.py #}
+
+    <div id="progress-list">
+        <p>Loading progress...</p>
+        {# Progress table will be populated here by progress.js #}
+    </div>
+
+    <div id="error-message" style="color: red; margin-top: 10px;">
+        {# Potential errors loaded by progress.js #}
+    </div>
+
+    {# "Back" link - Already centered via CSS if using <p> tag #}
+    <p style="text-align: center; margin-top: 20px;"><a href="{{ url_for('index') }}">Back to Week Selection</a></p>
+
+{% endblock %} {# <-- End content block #}
+
+{% block scripts %} {# <-- Optional block for page-specific scripts #}
+    {# Ensure progress.js is loaded #}
     <script src="{{ url_for('static', filename='js/progress.js') }}"></script>
-</body>
-</html>
+{% endblock %}

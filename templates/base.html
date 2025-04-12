@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}EcoCon Quiz App{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    {% block head_extra %}{% endblock %}
+</head>
+<body>
+    {# --- Header Section (Simplified Nav) --- #}
+    <header class="main-header">
+        <div class="header-content container">
+            <div class="logo">
+                <a href="{{ url_for('index') }}">EcoCon Quiz</a>
+            </div>
+            {# Simplified Nav for single 'testuser' #}
+            <nav class="main-nav">
+                 <span class="welcome-user">Welcome, {{ session.username | default('User') }}!</span>
+                 <a href="{{ url_for('progress_page') }}">My Progress</a>
+                 {# Removed Login/Signup/Logout links #}
+            </nav>
+        </div>
+    </header>
+    {# --- End Header --- #}
+
+    {# --- Main Content Area --- #}
+    <main class="main-content">
+        <div class="container">
+            {% with messages = get_flashed_messages(with_categories=true) %}
+              {% if messages %}
+                <ul class=flashes>
+                {% for category, message in messages %}
+                  <li class="{{ category }}">{{ message }}</li>
+                {% endfor %}
+                </ul>
+              {% endif %}
+            {% endwith %}
+
+            {# Where child template content will be inserted #}
+            {% block content %}
+            {% endblock %}
+        </div>
+    </main>
+    {# --- End Main Content --- #}
+
+    {# --- Footer Section --- #}
+    <footer class="main-footer">
+        <div class="container">
+            <p>&copy; {{ now.year }} Conservation Economics Quiz App. All rights reserved.</p>
+            <p style="margin-top: 5px; font-size: 0.85em;">Built by Rohith Ganesh Kanchi from VIT - C</p>
+        </div>
+    </footer>
+    {# --- End Footer --- #}
+
+    {# Optional: Block for page-specific JavaScript near end of body #}
+    {% block scripts %}{% endblock %}
+</body>
+</html>

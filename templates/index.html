@@ -1,58 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Course Quiz Selector</title>
-    {# Ensure you use the correct CSS file name #}
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
-</head>
-<body>
-    {# If using the enhanced CSS, keep the container #}
-    <div class="container">
-        {# Removed the <nav> block with login/logout/signup links #}
+{% extends 'base.html' %} {# <-- This line is crucial #}
 
-        <h1>Conservation Economics Quiz & Notes</h1> {# Updated Title #}
+{% block title %}Homepage - EcoCon Quiz App{% endblock %} {# <-- Sets the page title #}
 
-        {# Flash messages section (keep if app.py uses flash) #}
-        {% with messages = get_flashed_messages(with_categories=true) %}
-          {% if messages %}
-            <ul class=flashes>
-            {% for category, message in messages %}
-              <li class="{{ category }}">{{ message }}</li>
-            {% endfor %}
-            </ul>
-          {% endif %}
-        {% endwith %}
+{% block content %} {# <-- Wraps the unique content for this page #}
 
-        <h2>Select an Action by Week</h2>
-        {# Grid layout for week selection #}
-        <div class="week-selector-grid">
-             {# This version assumes 'testuser' is always active via session #}
-             {% for week in range(1, total_weeks + 1) %}
-                  {% if week in available_weeks %}
-                      <div class="week-item">
-                          <span class="week-title">Week {{ week }}</span>
-                          <div class="week-actions">
-                              <a href="{{ url_for('view_notes', week_number=week) }}" class="btn btn-notes" target="_blank">View Notes</a>
-                              <a href="{{ url_for('quiz_page', week_number=week) }}" class="btn btn-quiz">Take Quiz</a>
-                          </div>
-                      </div>
-                  {% else %}
-                       <div class="week-item unavailable">
-                           <span class="week-title">Week {{ week }}</span>
-                           <div class="week-actions">
-                                <span>(No Quiz Data)</span>
-                           </div>
-                       </div>
-                  {% endif %}
-             {% endfor %}
-             {# Removed the login/signup prompt list item #}
-        </div> {# Close week-selector-grid #}
-        <hr>
-        {# Simple welcome/progress link for the simulated 'testuser' #}
-        <p style="text-align: center;">Welcome, {{ session.username | default('User') }}! | <a href="{{ url_for('progress_page') }}">View My Progress</a></p>
+    <h1>Conservation Economics Quiz & Notes</h1>
+    <h2>Choose Your convienience </h2>
 
-    </div> {# Close container #}
-</body>
-</html>
+    <div class="week-selector-grid">
+        {# Logic assumes 'testuser' session is set by before_request #}
+        {% for week in range(1, total_weeks + 1) %}
+            {% if week in available_weeks %} {# Check if JSON data exists for this week #}
+                <div class="week-item">
+                    <span class="week-title">Week {{ week }}</span>
+                    <div class="week-actions">
+                        <a href="{{ url_for('view_notes', week_number=week) }}" class="btn btn-notes" target="_blank">View Notes</a>
+                        <a href="{{ url_for('quiz_page', week_number=week) }}" class="btn btn-quiz">Take Quiz</a>
+                    </div>
+                </div>
+            {% else %}
+                 <div class="week-item unavailable">
+                     <span class="week-title">Week {{ week }}</span>
+                     <div class="week-actions">
+                          <span>(No Quiz Data)</span>
+                     </div>
+                 </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+    <hr>
+    {# Progress link is now handled in the header within base.html #}
+
+{% endblock %} {# <-- End content block #}

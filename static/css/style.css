@@ -362,10 +362,69 @@ tbody tr:hover td { background-color: var(--hover-bg-color); color: #fff; }
      font-style: normal; /* Override italic */
 }
 
+/* Modify existing .header-content rule */
+.header-content {
+    display: flex;
+    /* Changed from space-between to center items initially */
+    justify-content: center;
+    align-items: center;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+    position: relative; /* Add relative positioning */
+}
+
+/* Modify existing .logo a rule (or .logo rule if styling the div) */
+.logo {
+    text-align: center; /* Center text within the logo container */
+    /* Remove any specific positioning if previously added */
+}
+.logo a {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.6em;
+    font-weight: 700;
+    color: var(--accent-color);
+    text-decoration: none;
+    text-shadow: var(--text-glow);
+    /* Remove margin-right if it was added */
+}
+.logo a:hover { color: #fff; }
+
+
+/* Modify existing nav.main-nav rule */
+nav.main-nav {
+    /* Position the nav absolutely to the right */
+    position: absolute;
+    right: 20px; /* Adjust padding/margin as needed */
+    top: 50%;
+    transform: translateY(-50%);
+    /* Remove previous alignment/border/padding if they conflict */
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+/* Keep existing nav.main-nav a and other nav styles */
+nav.main-nav a { /* Styles for links inside */ }
+nav.main-nav span.welcome-user { /* Styles for welcome text */ }
 
 .unanswered-info {
     font-style: italic;
     color: var(--text-muted);
     font-size: 0.9em;
     margin-top: 5px;
+}
+
+/* Modify existing nav.main-nav a rule */
+nav.main-nav a {
+    /* Change this color value */
+    color: var(--success-color); /* Changed from --accent-color */
+    text-decoration: none;
+    margin-left: 15px;
+    transition: color var(--transition-speed), text-shadow var(--transition-speed);
+}
+
+/* Optional: Change hover color too */
+nav.main-nav a:hover {
+    color: #fff; /* Or maybe var(--success-color) with text-shadow */
+    text-shadow: 0 0 8px var(--success-color); /* Optional glow */
 }
