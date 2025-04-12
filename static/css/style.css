@@ -304,3 +304,68 @@ tbody tr:hover td { background-color: var(--hover-bg-color); color: #fff; }
     button#submit-btn { font-size: 1em; padding: 12px 25px;}
     th, td { padding: 8px; }
 }
+
+
+/* Detailed Results Styling */
+#detailed-results-list {
+    list-style-type: none; /* Use the number from JS */
+    padding-left: 0;
+    text-align: left; /* Align text left within the centered container */
+    margin-top: 20px;
+}
+
+#detailed-results-list .result-item {
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    background-color: rgba(255, 255, 255, 0.03); /* Subtle background */
+}
+#detailed-results-list .result-item.incorrect-result {
+    border-left: 5px solid var(--danger-color); /* Red border for incorrect */
+}
+
+#detailed-results-list .result-item p strong {
+     font-size: 1.1em;
+     color: var(--text-color);
+     margin-bottom: 10px;
+}
+
+.result-options {
+    list-style-type: none;
+    padding-left: 20px; /* Indent options */
+    margin-top: 10px;
+}
+
+.result-options li {
+    padding: 5px 0;
+    margin: 0;
+    border: none;
+    background: none;
+    box-shadow: none;
+    transition: none; /* No hover effects needed here */
+}
+.result-options li:hover { transform: none; } /* Disable hover */
+
+.result-options .correct-answer {
+    color: var(--success-color);
+    font-weight: 600; /* Make correct answer bold */
+}
+
+.result-options .user-answer {
+    font-style: italic; /* Italicize user's answer */
+    /* Optional: Add background or different border if needed */
+    /* border-bottom: 1px dashed var(--text-muted); */
+}
+.result-options .user-answer.correct-answer {
+     /* If user answer IS the correct answer, keep correct style */
+     font-style: normal; /* Override italic */
+}
+
+
+.unanswered-info {
+    font-style: italic;
+    color: var(--text-muted);
+    font-size: 0.9em;
+    margin-top: 5px;
+}

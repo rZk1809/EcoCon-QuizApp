@@ -7,20 +7,30 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
-     <div class="container"> {# <--- Add this div #}
+     <div class="container">
         <h1>Quiz for Week {{ week_number }}</h1>
         <div id="quiz-container">
             <p>Loading questions...</p>
+            {# Questions will be rendered here by JS #}
         </div>
         <div id="error-message" style="color: red; margin-top: 10px;"></div>
         <button id="submit-btn" style="display: none;">Submit Answers</button>
+
+        {# Updated Results Container #}
         <div id="results-container" style="display: none;">
             <h2>Results</h2>
-            <p id="score"></p>
+            <p id="score"></p> {# Score will be shown here #}
+            <hr>
+            <h3>Review Your Answers:</h3>
+            <ol id="detailed-results-list">
+                {# Detailed results will be populated here by JS #}
+            </ol>
+            <hr>
             <a href="{{ url_for('index') }}">Back to Week Selection</a> |
             <a href="{{ url_for('progress_page') }}">View My Progress</a>
         </div>
-    </div> {# <--- Close the div #}
+        {# End Updated Results Container #}
+    </div>
 
     <script>
         const currentWeekNumber = {{ week_number }};

@@ -165,72 +165,102 @@ def get_quiz_questions(week_number):
             "id": f"q_{i}", "question": mcq.get("question", "N/A"),
             "options": mcq.get("options", []) })
     return jsonify(frontend_mcqs)
-
-
 @app.route('/api/submit', methods=['POST'])
-# Add @login_required back if needed
+# Add @login_required back if using authentication
 def submit_quiz():
-    user_id = session.get('user_id') # Get simulated user ID
+    # Get user_id if using authentication, otherwise handle testuser
+    user_id = session.get('user_id') # Assuming simple testuser logic for now
 
     data = request.get_json()
     if not data: return jsonify({"error": "No data received"}), 400
 
     week_number = data.get('week_number')
-    answers = data.get('answers')
+    answers = data.get('answers') # Expected: { "q_0": 1, "q_1": 3, ... }
 
     if week_number is None or answers is None or not isinstance(answers, dict):
         return jsonify({"error": "Missing or invalid data"}), 400
 
-    # Use simpler session key
+    # Use the simpler session key for testuser logic
     questions_key = f'quiz_week_{week_number}_questions'
     original_mcqs_with_answers = session.get(questions_key)
 
     if not original_mcqs_with_answers: return jsonify({"error": "Quiz data/session expired"}), 400
-    if len(answers) != len(original_mcqs_with_answers): return jsonify({"error": "Answer count mismatch"}), 400
+    # Ensure number of answers matches questions served (using keys count)
+    # We should ideally check if all question_ids match, but count is a basic check
+    if len(answers) != len(original_mcqs_with_answers):
+         return jsonify({"error": "Answer count mismatch."}), 400
 
     score = 0
     total_questions = len(original_mcqs_with_answers)
-    results_log = []
+    results_log = [] # Will store detailed results for frontend
 
-    # --- Grading Logic (Simplified) ---
     for i, mcq in enumerate(original_mcqs_with_answers):
-        question_id = f"q_{i}"; selected_index = answers.get(question_id); is_correct = False
-        valid_selection = False; correct_index = -1
+        question_id = f"q_{i}"
+        selected_index = answers.get(question_id)
+        is_correct = False
+        valid_selection = False
+        correct_index = -1
+
+        # Validate selected_index
         if selected_index is not None:
              try: selected_index = int(selected_index); valid_selection = True
              except (ValueError, TypeError): selected_index = None
-        options = mcq.get('options', []); correct_text = mcq.get('correct_answer_text')
+
+        options = mcq.get('options', [])
+        correct_text = mcq.get('correct_answer_text')
+
+        # Find correct index based on text stored during parsing
         if correct_text and isinstance(options, list) and options:
             try: correct_index = options.index(correct_text)
             except ValueError: correct_index = -1
+
+        # Grade
         if valid_selection and correct_index != -1 and selected_index == correct_index:
             is_correct = True; score += 1
-        results_log.append({
-            "question_text": mcq.get("question", "N/A"), "options_text": json.dumps(options),
-            "selected_option_index": selected_index, "correct_option_index": correct_index,
-            "is_correct": is_correct })
-    # --- End Grading ---
 
-    # --- Save to Database ---
-    save_message = "(Results not saved - no user session)"
+        # Add detailed info to results_log for frontend display AND database saving
+        results_log.append({
+            "question_id": question_id, # Include the temporary ID
+            "question_text": mcq.get("question", "N/A"),
+            "options": options, # Send the options list
+            "selected_option_index": selected_index, # User's answer index (or None)
+            "correct_option_index": correct_index, # Correct answer index (or -1)
+            "is_correct": is_correct
+        })
+
+    # --- Save to Database (Only if user_id exists) ---
+    db_save_error = None
     if user_id:
         try:
             attempt = QuizAttempt( user_id=user_id, week_number=week_number, score=score,
                 total_questions=total_questions, timestamp=datetime.utcnow() )
             db.session.add(attempt); db.session.flush()
-            for log_data in results_log:
-                answer = AnswerLog(attempt_id=attempt.id, **log_data)
+            for item in results_log: # Use detailed log for DB saving
+                answer = AnswerLog(
+                    attempt_id=attempt.id,
+                    question_text=item["question_text"],
+                    options_text=json.dumps(item["options"]), # Save options as JSON string
+                    selected_option_index=item["selected_option_index"],
+                    correct_option_index=item["correct_option_index"],
+                    is_correct=item["is_correct"] )
                 db.session.add(answer)
-            db.session.commit(); save_message = "(Results saved)"
+            db.session.commit();
             print(f"Attempt saved for user {user_id}, week {week_number}.")
         except Exception as e:
-             db.session.rollback(); print(f"Error saving attempt: {e}"); save_message = "(Error saving)"
+             db.session.rollback(); print(f"Error saving attempt: {e}");
+             db_save_error = "Error saving results."
     else: print("Warning: User not in session, attempt not saved.")
     # --- End Save DB ---
 
-    session.pop(questions_key, None)
-    return jsonify({"message": f"Quiz submitted! {save_message}", "score": score, "total_questions": total_questions})
+    session.pop(questions_key, None) # Clear quiz data from session
 
+    # --- Return detailed results to frontend ---
+    return jsonify({
+        "message": f"Quiz submitted! {db_save_error or '(Results not saved - no user session)' if not user_id else '(Results saved)'}",
+        "score": score,
+        "total_questions": total_questions,
+        "results": results_log # Send the detailed log
+    })
 
 @app.route('/api/progress', methods=['GET'])
 # Add @login_required back if needed
