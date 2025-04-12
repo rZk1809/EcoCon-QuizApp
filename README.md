@@ -90,3 +90,15 @@ This project provides a web application built with Flask for students to take we
 * **Deployment:** This setup runs locally. For online hosting accessible to others, you would need to deploy it to a platform like PythonAnywhere, Render, Google Cloud Run, etc., which involves additional steps (like configuring a production WSGI server like Gunicorn and likely migrating the database).
 
 
+## Deployment Notes (PythonAnywhere)
+
+* The live version uses MySQL provided by PythonAnywhere.
+* Environment variables (like `DATABASE_URL`, `FLASK_SECRET_KEY`) are set via the PythonAnywhere Web tab UI (or WSGI file as a fallback).
+* The `preprocess_mcqs.py` script needs to be run on the PythonAnywhere server via a Bash console after uploading the `mcq_pdfs` folder there.
+* Static files need to be configured under the "Static files" section of the Web tab.
+* The WSGI configuration file needs to point to your project path and import the Flask `app` object correctly.
+* Remember to click the "Reload" button on the Web tab after making configuration changes.
+
+
+* To access the website from your end, use the below link
+   `https://rohithgk.pythonanywhere.com/`
