@@ -8,11 +8,13 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
-    {# If using the enhanced CSS, keep the container, otherwise remove it #}
+    {# If using the enhanced CSS, keep the container #}
     <div class="container">
-        <h1>Conservation Economics Quiz</h1>
+        {# Removed the <nav> block with login/logout/signup links #}
 
-        {# Remove flash message block if not needed by your current app.py #}
+        <h1>Conservation Economics Quiz & Notes</h1> {# Updated Title #}
+
+        {# Flash messages section (keep if app.py uses flash) #}
         {% with messages = get_flashed_messages(with_categories=true) %}
           {% if messages %}
             <ul class=flashes>
@@ -23,24 +25,34 @@
           {% endif %}
         {% endwith %}
 
-        <h2>Select a Week</h2>
-        {# Make sure class="week-selector-horizontal" is present if using the enhanced CSS #}
-        <ul class="week-selector-horizontal">
-            {# This version assumes 'testuser' is always active via session #}
-            {# It loops through available weeks based on JSON files found #}
-            {% for week in range(1, total_weeks + 1) %}
-                 {% if week in available_weeks %}
-                     <li><a href="{{ url_for('quiz_page', week_number=week) }}">Week {{ week }}</a></li>
-                 {% else %}
-                     {# Style unavailable weeks if using enhanced CSS #}
-                      <li class="unavailable">Week {{ week }} (No questions)</li>
-                 {% endif %}
-            {% endfor %}
-        </ul>
+        <h2>Select an Action by Week</h2>
+        {# Grid layout for week selection #}
+        <div class="week-selector-grid">
+             {# This version assumes 'testuser' is always active via session #}
+             {% for week in range(1, total_weeks + 1) %}
+                  {% if week in available_weeks %}
+                      <div class="week-item">
+                          <span class="week-title">Week {{ week }}</span>
+                          <div class="week-actions">
+                              <a href="{{ url_for('view_notes', week_number=week) }}" class="btn btn-notes" target="_blank">View Notes</a>
+                              <a href="{{ url_for('quiz_page', week_number=week) }}" class="btn btn-quiz">Take Quiz</a>
+                          </div>
+                      </div>
+                  {% else %}
+                       <div class="week-item unavailable">
+                           <span class="week-title">Week {{ week }}</span>
+                           <div class="week-actions">
+                                <span>(No Quiz Data)</span>
+                           </div>
+                       </div>
+                  {% endif %}
+             {% endfor %}
+             {# Removed the login/signup prompt list item #}
+        </div> {# Close week-selector-grid #}
         <hr>
-         {# Simple welcome/progress link for the 'testuser' #}
+        {# Simple welcome/progress link for the simulated 'testuser' #}
         <p style="text-align: center;">Welcome, {{ session.username | default('User') }}! | <a href="{{ url_for('progress_page') }}">View My Progress</a></p>
 
-    </div>
+    </div> {# Close container #}
 </body>
 </html>
