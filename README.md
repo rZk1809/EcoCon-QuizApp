@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project provides a web application built with Flask for students to take weekly multiple-choice quizzes based on the content of the "Conservation Economics" course ([cite: 11966]). The application parses questions from pre-generated weekly MCQ PDF files, stores them in JSON format, and serves 10 random questions per week to the user via a web interface. It uses a simple SQLite database to track quiz attempts and progress for a default user.
+This project provides a web application built with Flask for students to take weekly multiple-choice quizzes based on the content of the "Conservation Economics" course. The application parses questions from pre-generated weekly MCQ PDF files, stores them in JSON format, and serves 10 random questions per week to the user via a web interface. It uses a simple SQLite database to track quiz attempts and progress for a default user.
 
 **Workflow:**
 
