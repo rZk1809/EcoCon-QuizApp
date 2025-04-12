@@ -1,0 +1,838 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the primary focus of Module 8 in the Conservation Economics course?",
+    "options": [
+      "Externalities and market power",
+      "The design of the tax system",
+      "Public sector and conservation",
+      "The Minamata disaster"
+    ],
+    "correct_answer_text": "Public sector and conservation"
+  },
+  {
+    "question_number": 2,
+    "question": "How many lectures are included in Module 8?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correct_answer_text": "Three"
+  },
+  {
+    "question_number": 3,
+    "question": "What is the first lecture in Module 8 about?",
+    "options": [
+      "Public goods",
+      "Common resources",
+      "Externalities",
+      "Tax systems"
+    ],
+    "correct_answer_text": "Externalities"
+  },
+  {
+    "question_number": 4,
+    "question": "According to the text, when are markets usually a good way to organize economic activity?",
+    "options": [
+      "Always",
+      "Never",
+      "Usually",
+      "Occasionally"
+    ],
+    "correct_answer_text": "Usually"
+  },
+  {
+    "question_number": 5,
+    "question": "What is one reason markets are considered a good way to organize economic activity?",
+    "options": [
+      "Government regulation",
+      "Limited choice",
+      "Absence of free will",
+      "Free will and choice"
+    ],
+    "correct_answer_text": "Free will and choice"
+  },
+  {
+    "question_number": 6,
+    "question": "What is an example of environmental damage mentioned in the text?",
+    "options": [
+      "The Love Canal",
+      "The Bhopal gas tragedy",
+      "The Minamata disaster",
+      "All of the above"
+    ],
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "question_number": 7,
+    "question": "What caused the Minamata disaster?",
+    "options": [
+      "Untreated waste containing mercury",
+      "Release of dioxins",
+      "Bhopal gas leak",
+      "London smog"
+    ],
+    "correct_answer_text": "Untreated waste containing mercury"
+  },
+  {
+    "question_number": 8,
+    "question": "What was the Chisso factory manufacturing?",
+    "options": [
+      "Mercury",
+      "Dioxins",
+      "Acetaldehyde",
+      "MIC gas"
+    ],
+    "correct_answer_text": "Acetaldehyde"
+  },
+  {
+    "question_number": 9,
+    "question": "What was the right option for the Chisso factory regarding waste disposal?",
+    "options": [
+      "Dumping it into the sea",
+      "Treating the waste before disposal",
+      "Accumulating it in large quantities",
+      "Shutting down the refrigeration unit"
+    ],
+    "correct_answer_text": "Treating the waste before disposal"
+  },
+  {
+    "question_number": 10,
+    "question": "What were some of the observed effects of mercury contamination in Minamata?",
+    "options": [
+      "Dying fish",
+      "Bizarre cat symptoms",
+      "Neurological disorders in humans",
+      "All of the above"
+    ],
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "question_number": 11,
+    "question": "What was the approximate cost of the Minamata disaster in terms of compensation?",
+    "options": [
+      "Millions of yens",
+      "Billions of yens",
+      "Trillions of yens",
+      "Millions of dollars"
+    ],
+    "correct_answer_text": "Billions of yens"
+  },
+  {
+    "question_number": 12,
+    "question": "What is another environmental disaster mentioned besides Minamata?",
+    "options": [
+      "London smog of 1952",
+      "Seveso plant incident",
+      "Love Canal waste dump",
+      "All of the above"
+    ],
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "question_number": 13,
+    "question": "What was the Love Canal primarily used for before being sold?",
+    "options": [
+      "A school",
+      "An industrial waste dump",
+      "A fishing village",
+      "A sugarcane farm"
+    ],
+    "correct_answer_text": "An industrial waste dump"
+  },
+  {
+    "question_number": 14,
+    "question": "What was the primary reason for the Bhopal gas tragedy?",
+    "options": [
+      "Proper maintenance",
+      "Cost-cutting measures",
+      "Lack of regulation",
+      "Natural disaster"
+    ],
+    "correct_answer_text": "Cost-cutting measures"
+  },
+  {
+    "question_number": 15,
+    "question": "What company was involved in the Bhopal gas tragedy?",
+    "options": [
+      "Chisso Corporation",
+      "Union Carbide Corporation",
+      "Chisso Factory",
+      "None of the above"
+    ],
+    "correct_answer_text": "Union Carbide Corporation"
+  },
+  {
+    "question_number": 16,
+    "question": "What is a market failure?",
+    "options": [
+      "Efficient allocation of resources",
+      "Reaching the optimum level of welfare",
+      "A situation where the market fails to allocate resources efficiently",
+      "Increased welfare of buyers and sellers"
+    ],
+    "correct_answer_text": "A situation where the market fails to allocate resources efficiently"
+  },
+  {
+    "question_number": 17,
+    "question": "What are two major causes of market failure mentioned?",
+    "options": [
+      "Externality and market power",
+      "Regulation and corrective taxes",
+      "Public goods and common resources",
+      "Private goods and club goods"
+    ],
+    "correct_answer_text": "Externality and market power"
+  },
+  {
+    "question_number": 18,
+    "question": "What is an externality?",
+    "options": [
+      "The impact of one person's actions on themselves",
+      "The impact of market power on prices",
+      "The impact of one person's actions on the well-being of a bystander",
+      "The efficient allocation of resources"
+    ],
+    "correct_answer_text": "The impact of one person's actions on the well-being of a bystander"
+  },
+  {
+    "question_number": 19,
+    "question": "In the context of externalities, who are bystanders?",
+    "options": [
+      "The actors performing the actions",
+      "Those directly involved in the transaction",
+      "Those indirectly affected by the actions",
+      "Government regulators"
+    ],
+    "correct_answer_text": "Those indirectly affected by the actions"
+  },
+  {
+    "question_number": 20,
+    "question": "What is market power?",
+    "options": [
+      "The ability of a single economic actor to influence market prices",
+      "The government's control over markets",
+      "The total demand for a good",
+      "The efficient allocation of resources"
+    ],
+    "correct_answer_text": "The ability of a single economic actor to influence market prices"
+  },
+  {
+    "question_number": 21,
+    "question": "What are the two types of externalities discussed?",
+    "options": [
+      "Positive and negative",
+      "Production and consumption",
+      "Private and social",
+      "Market and non-market"
+    ],
+    "correct_answer_text": "Positive and negative"
+  },
+  {
+    "question_number": 22,
+    "question": "What is a negative externality?",
+    "options": [
+      "A positive impact on a bystander",
+      "A negative impact on a bystander",
+      "A benefit to the actor",
+      "An efficient allocation of resources"
+    ],
+    "correct_answer_text": "A negative impact on a bystander"
+  },
+  {
+    "question_number": 23,
+    "question": "What is a positive externality?",
+    "options": [
+      "A negative impact on a bystander",
+      "A positive impact on a bystander",
+      "A cost to the actor",
+      "An inefficient allocation of resources"
+    ],
+    "correct_answer_text": "A positive impact on a bystander"
+  },
+  {
+    "question_number": 24,
+    "question": "What is a production externality?",
+    "options": [
+      "An externality caused by consumption",
+      "An externality caused by production",
+      "An externality caused by regulation",
+      "An externality caused by market power"
+    ],
+    "correct_answer_text": "An externality caused by production"
+  },
+  {
+    "question_number": 25,
+    "question": "What is a consumption externality?",
+    "options": [
+      "An externality caused by production",
+      "An externality caused by consumption",
+      "An externality caused by taxation",
+      "An externality caused by market failure"
+    ],
+    "correct_answer_text": "An externality caused by consumption"
+  },
+  {
+    "question_number": 26,
+    "question": "What is private marginal cost?",
+    "options": [
+      "The cost to society of producing an additional unit",
+      "The direct cost to producers of producing an additional unit",
+      "The benefit to consumers of consuming an additional unit",
+      "The total cost of production"
+    ],
+    "correct_answer_text": "The direct cost to producers of producing an additional unit"
+  },
+  {
+    "question_number": 27,
+    "question": "What is social marginal cost?",
+    "options": [
+      "The direct cost to producers",
+      "The cost to society of producing an additional unit",
+      "The benefit to consumers",
+      "The marginal damage caused by pollution"
+    ],
+    "correct_answer_text": "The cost to society of producing an additional unit"
+  },
+  {
+    "question_number": 28,
+    "question": "In a negative production externality, how does the social marginal cost relate to the private marginal",
+    "options": [
+      "SMC < PMC",
+      "SMC = PMC",
+      "SMC > PMC",
+      "SMC is unrelated to PMC"
+    ],
+    "correct_answer_text": "SMC > PMC"
+  },
+  {
+    "question_number": 29,
+    "question": "What is marginal damage (MD)?",
+    "options": [
+      "The private marginal cost",
+      "The social marginal cost",
+      "The cost imposed on others due to production",
+      "The total cost of production"
+    ],
+    "correct_answer_text": "The cost imposed on others due to production"
+  },
+  {
+    "question_number": 30,
+    "question": "In a negative production externality, what happens to the supply curve?",
+    "options": [
+      "It shifts to the right",
+      "It shifts to the left",
+      "It remains unchanged",
+      "It becomes vertical"
+    ],
+    "correct_answer_text": "It shifts to the left"
+  },
+  {
+    "question_number": 31,
+    "question": "What is private marginal benefit?",
+    "options": [
+      "The cost to consumers",
+      "The benefit to producers",
+      "The direct benefit to consumers of consuming an additional unit",
+      "The social benefit of consumption"
+    ],
+    "correct_answer_text": "The direct benefit to consumers of consuming an additional unit"
+  },
+  {
+    "question_number": 32,
+    "question": "What is social marginal benefit?",
+    "options": [
+      "The private marginal benefit",
+      "The private marginal benefit minus any cost imposed on others",
+      "The total benefit to society",
+      "The marginal damage caused by consumption"
+    ],
+    "correct_answer_text": "The private marginal benefit minus any cost imposed on others"
+  },
+  {
+    "question_number": 33,
+    "question": "In a negative production externality, how does the social marginal benefit relate to the private",
+    "options": [
+      "SMB < PMB",
+      "SMB = PMB",
+      "SMB > PMB",
+      "SMB is unrelated to PMB"
+    ],
+    "correct_answer_text": "SMB = PMB"
+  },
+  {
+    "question_number": 34,
+    "question": "What is deadweight loss?",
+    "options": [
+      "The total cost of production",
+      "The total benefit to society",
+      "A loss of economic efficiency",
+      "An efficient allocation of resources"
+    ],
+    "correct_answer_text": "A loss of economic efficiency"
+  },
+  {
+    "question_number": 35,
+    "question": "What is a negative consumption externality?",
+    "options": [
+      "When consumption benefits others",
+      "When consumption harms others",
+      "When production benefits others",
+      "When production harms others"
+    ],
+    "correct_answer_text": "When consumption harms others"
+  },
+  {
+    "question_number": 36,
+    "question": "In a negative consumption externality, how does the social marginal cost relate to the private",
+    "options": [
+      "SMC < PMC",
+      "SMC = PMC",
+      "SMC > PMC",
+      "SMC is unrelated to PMC"
+    ],
+    "correct_answer_text": "SMC = PMC"
+  },
+  {
+    "question_number": 37,
+    "question": "In a negative consumption externality, what happens to the demand curve?",
+    "options": [
+      "It shifts to the right",
+      "It shifts to the left",
+      "It remains unchanged",
+      "It becomes vertical"
+    ],
+    "correct_answer_text": "It shifts to the left"
+  },
+  {
+    "question_number": 38,
+    "question": "In a negative consumption externality, how does the social marginal benefit relate to the private",
+    "options": [
+      "SMB = PMB",
+      "SMB > PMB",
+      "SMB < PMB",
+      "SMB is unrelated to PMB"
+    ],
+    "correct_answer_text": "SMB < PMB"
+  },
+  {
+    "question_number": 39,
+    "question": "What is a positive production externality?",
+    "options": [
+      "When production harms others",
+      "When production benefits others",
+      "When consumption harms others",
+      "When consumption benefits others"
+    ],
+    "correct_answer_text": "When production benefits others"
+  },
+  {
+    "question_number": 40,
+    "question": "In a positive production externality, how does the social marginal cost relate to the private marginal",
+    "options": [
+      "SMC > PMC",
+      "SMC = PMC",
+      "SMC < PMC",
+      "SMC is unrelated to PMC"
+    ],
+    "correct_answer_text": "SMC < PMC"
+  },
+  {
+    "question_number": 41,
+    "question": "In a positive production externality, what happens to the supply curve?",
+    "options": [
+      "It shifts to the left",
+      "It shifts to the right",
+      "It remains unchanged",
+      "It becomes vertical"
+    ],
+    "correct_answer_text": "It shifts to the right"
+  },
+  {
+    "question_number": 42,
+    "question": "What is a positive consumption externality?",
+    "options": [
+      "When consumption harms others",
+      "When consumption benefits others",
+      "When production harms others",
+      "When production benefits others"
+    ],
+    "correct_answer_text": "When consumption benefits others"
+  },
+  {
+    "question_number": 43,
+    "question": "In a positive consumption externality, how does the social marginal cost relate to the private",
+    "options": [
+      "SMC > PMC",
+      "SMC = PMC",
+      "SMC < PMC",
+      "SMC is unrelated to PMC"
+    ],
+    "correct_answer_text": "SMC = PMC"
+  },
+  {
+    "question_number": 44,
+    "question": "In a positive consumption externality, what happens to the demand curve?",
+    "options": [
+      "It shifts to the left",
+      "It shifts to the right",
+      "It remains unchanged",
+      "It becomes vertical"
+    ],
+    "correct_answer_text": "It shifts to the right"
+  },
+  {
+    "question_number": 45,
+    "question": "What is one solution mentioned for dealing with externalities?",
+    "options": [
+      "Ignoring them",
+      "Private sector solutions",
+      "Public sector solutions",
+      "Both B and C"
+    ],
+    "correct_answer_text": "Both B and C"
+  },
+  {
+    "question_number": 46,
+    "question": "What is regulation as a solution to externalities?",
+    "options": [
+      "Government intervention to control actions",
+      "Private bargaining",
+      "Corrective taxes",
+      "Subsidies"
+    ],
+    "correct_answer_text": "Government intervention to control actions"
+  },
+  {
+    "question_number": 47,
+    "question": "What are corrective taxes?",
+    "options": [
+      "Taxes designed to increase government revenue",
+      "Taxes designed to induce private decision-makers to account for social costs",
+      "Taxes on positive externalities",
+      "Taxes on private goods"
+    ],
+    "correct_answer_text": "Taxes designed to induce private decision-makers to account for social costs"
+  },
+  {
+    "question_number": 48,
+    "question": "What is another name for corrective taxes?",
+    "options": [
+      "Pigouvian taxes",
+      "Environmental taxes",
+      "Revenue taxes",
+      "Progressive taxes"
+    ],
+    "correct_answer_text": "Pigouvian taxes"
+  },
+  {
+    "question_number": 49,
+    "question": "What is the purpose of corrective taxes?",
+    "options": [
+      "To increase government revenue",
+      "To deter negative externalities",
+      "To subsidize positive externalities",
+      "To regulate market power"
+    ],
+    "correct_answer_text": "To deter negative externalities"
+  },
+  {
+    "question_number": 50,
+    "question": "What are corrective subsidies?",
+    "options": [
+      "Government payments to discourage negative externalities",
+      "Government payments to encourage positive externalities",
+      "Taxes on positive externalities",
+      "Subsidies for private goods"
+    ],
+    "correct_answer_text": "Government payments to encourage positive externalities"
+  },
+  {
+    "question_number": 51,
+    "question": "What are tradable pollution permits?",
+    "options": [
+      "Government-set prices for pollution",
+      "Government-set quantities of allowable pollution",
+      "Taxes on pollution",
+      "Subsidies for pollution control"
+    ],
+    "correct_answer_text": "Government-set quantities of allowable pollution"
+  },
+  {
+    "question_number": 52,
+    "question": "In the tradable pollution permits system, what does the government set?",
+    "options": [
+      "The price of pollution",
+      "The quantity of pollution",
+      "Both price and quantity",
+      "Neither price nor quantity"
+    ],
+    "correct_answer_text": "The quantity of pollution"
+  },
+  {
+    "question_number": 53,
+    "question": "What is the Coase theorem?",
+    "options": [
+      "Private parties can always solve externality problems",
+      "Government intervention is always necessary for externality problems",
+      "Private parties can solve externality problems if they can bargain without cost",
+      "Externalities cannot be solved"
+    ],
+    "correct_answer_text": "Private parties can solve externality problems if they can bargain without cost"
+  },
+  {
+    "question_number": 54,
+    "question": "What is a crucial condition for the Coase theorem to work effectively?",
+    "options": [
+      "Government regulation",
+      "High taxes",
+      "Well-defined property rights",
+      "Absence of bargaining"
+    ],
+    "correct_answer_text": "Well-defined property rights"
+  },
+  {
+    "question_number": 55,
+    "question": "What is a common resource?",
+    "options": [
+      "A rival and excludable good",
+      "A rival but non-excludable good",
+      "A non-rival and excludable good",
+      "A non-rival and non-excludable good"
+    ],
+    "correct_answer_text": "A rival but non-excludable good"
+  },
+  {
+    "question_number": 56,
+    "question": "What is a public good?",
+    "options": [
+      "A rival and excludable good",
+      "A rival but non-excludable good",
+      "A non-rival and excludable good",
+      "A non-rival and non-excludable good"
+    ],
+    "correct_answer_text": "A non-rival and non-excludable good"
+  },
+  {
+    "question_number": 57,
+    "question": "What is excludability?",
+    "options": [
+      "Preventing someone from using a good",
+      "Diminishing the use of a good for others",
+      "Sharing a resource",
+      "The total supply of a good"
+    ],
+    "correct_answer_text": "Preventing someone from using a good"
+  },
+  {
+    "question_number": 58,
+    "question": "What is rivalry in consumption?",
+    "options": [
+      "One person's use diminishes others' use",
+      "Sharing a resource equally",
+      "Preventing someone from using a good",
+      "The total demand for a good"
+    ],
+    "correct_answer_text": "One person's use diminishes others' use"
+  },
+  {
+    "question_number": 59,
+    "question": "What are private goods?",
+    "options": [
+      "Rival and excludable",
+      "Rival but non-excludable",
+      "Non-rival and excludable",
+      "Non-rival and non-excludable"
+    ],
+    "correct_answer_text": "Rival and excludable"
+  },
+  {
+    "question_number": 60,
+    "question": "What are club goods?",
+    "options": [
+      "Rival and excludable",
+      "Rival but non-excludable",
+      "Non-rival and excludable",
+      "Non-rival and non-excludable"
+    ],
+    "correct_answer_text": "Non-rival and excludable"
+  },
+  {
+    "question_number": 61,
+    "question": "What is the tragedy of the commons?",
+    "options": [
+      "Efficient use of common resources",
+      "Overexploitation of shared resources",
+      "Equal sharing of resources",
+      "Private ownership of resources"
+    ],
+    "correct_answer_text": "Overexploitation of shared resources"
+  },
+  {
+    "question_number": 62,
+    "question": "What is a solution to the tragedy of the commons?",
+    "options": [
+      "Privatization",
+      "Government regulation",
+      "Social arrangements",
+      "All of the above"
+    ],
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "question_number": 63,
+    "question": "What is a free rider?",
+    "options": [
+      "Someone who pays for a public good",
+      "Someone who benefits from a public good without paying",
+      "Someone who owns a private good",
+      "Someone who regulates markets"
+    ],
+    "correct_answer_text": "Someone who benefits from a public good without paying"
+  },
+  {
+    "question_number": 64,
+    "question": "What is a solution to the free rider problem?",
+    "options": [
+      "Public sector provision",
+      "Social norms and sanctions",
+      "Voluntary organizations",
+      "All of the above"
+    ],
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "question_number": 65,
+    "question": "What is crowding out?",
+    "options": [
+      "Increased private sector activity due to public good provision",
+      "Decreased private sector activity due to public good provision",
+      "Efficient allocation of resources",
+      "Market equilibrium"
+    ],
+    "correct_answer_text": "Decreased private sector activity due to public good provision"
+  },
+  {
+    "question_number": 66,
+    "question": "What is contracting out?",
+    "options": [
+      "Government providing services directly",
+      "Government hiring private firms to provide services",
+      "Private sector regulation",
+      "Market failure"
+    ],
+    "correct_answer_text": "Government hiring private firms to provide services"
+  },
+  {
+    "question_number": 67,
+    "question": "What is the main source of funding for government spending on conservation?",
+    "options": [
+      "Private donations",
+      "International aid",
+      "Taxes",
+      "Government borrowing"
+    ],
+    "correct_answer_text": "Taxes"
+  },
+  {
+    "question_number": 68,
+    "question": "What percentage of GDP do some European Union countries spend on environmental",
+    "options": [
+      "0.5-1%",
+      "1.2-1.4%",
+      "5-7%",
+      "10-12%"
+    ],
+    "correct_answer_text": "1.2-1.4%"
+  },
+  {
+    "question_number": 69,
+    "question": "What is mentioned as an example of government spending on conservation in India?",
+    "options": [
+      "MGNREGS",
+      "Clean Ganga Mission",
+      "Shola forest conservation",
+      "All of the above"
+    ],
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "question_number": 70,
+    "question": "What is the approximate amount allocated to pollution control in the Indian environment ministry's",
+    "options": [
+      "3100 crores",
+      "460 crores",
+      "1000 crores",
+      "2000 crores"
+    ],
+    "correct_answer_text": "460 crores"
+  },
+  {
+    "question_number": 71,
+    "question": "What unique ecosystem is mentioned in relation to Karnataka's budget?",
+    "options": [
+      "Mangrove forests",
+      "Grasslands",
+      "Shola forests",
+      "Rainforests"
+    ],
+    "correct_answer_text": "Shola forests"
+  },
+  {
+    "question_number": 72,
+    "question": "What percentage of MGNREGS work is planned for water conservation?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correct_answer_text": "75%"
+  },
+  {
+    "question_number": 73,
+    "question": "What is mentioned as an example of a project under the Clean Ganga Mission?",
+    "options": [
+      "A sewage plant in Varanasi",
+      "A mangrove zoo",
+      "A dam construction",
+      "A highway project"
+    ],
+    "correct_answer_text": "A sewage plant in Varanasi"
+  },
+  {
+    "question_number": 74,
+    "question": "What is the planned capacity of the Varanasi sewage plant (in litres)?",
+    "options": [
+      "1 crore litres",
+      "10 crore litres",
+      "14 crore litres",
+      "20 crore litres"
+    ],
+    "correct_answer_text": "14 crore litres"
+  },
+  {
+    "question_number": 75,
+    "question": "What project is mentioned in relation to the Jharkhali area?",
+    "options": [
+      "A dam",
+      "A sewage plant",
+      "The world's first mangrove zoo",
+      "A sugarcane farm"
+    ],
+    "correct_answer_text": "The world's first mangrove zoo"
+  },
+  {
+    "question_number": 76,
+    "question": "Why is the study of taxes important in conservation economics?",
+    "options": [
+      "Taxes fund conservation efforts",
+      "Taxes harm the environment",
+      "Taxes have no relation to conservation",
+      "Taxes are irrelevant to government spending"
+    ],
+    "correct_answer_text": "Taxes fund conservation efforts"
+  }
+]

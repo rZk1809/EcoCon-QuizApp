@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Quiz Progress</title>
+     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container"> {# <--- Add this div #}
+        <h1>Quiz Progress for {{ username }}</h1>
+        <div id="progress-list">
+            <p>Loading progress...</p>
+        </div>
+        <div id="error-message" style="color: red; margin-top: 10px;"></div>
+        <p style="text-align: center; margin-top: 20px;"><a href="{{ url_for('index') }}">Back to Week Selection</a></p> {# Centered link #}
+    </div> {# <--- Close the div #}
+
+    <script src="{{ url_for('static', filename='js/progress.js') }}"></script>
+</body>
+</html>

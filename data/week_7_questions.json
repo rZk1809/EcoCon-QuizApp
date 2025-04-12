@@ -1,0 +1,937 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the main topic of Module 7?",
+    "options": [
+      "Surplus and market efficiency only",
+      "Markets, welfare, and conservation",
+      "The cost of taxation only",
+      "International trade only"
+    ],
+    "correct_answer_text": "Markets, welfare, and conservation"
+  },
+  {
+    "question_number": 2,
+    "question": "How many lectures are included in Module 7?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correct_answer_text": "Three"
+  },
+  {
+    "question_number": 3,
+    "question": "What is the first lecture in Module 7 about?",
+    "options": [
+      "Market efficiency",
+      "Cost of taxation",
+      "International trade",
+      "Surplus"
+    ],
+    "correct_answer_text": "Surplus"
+  },
+  {
+    "question_number": 4,
+    "question": "According to the text, why does trade make everyone better off?",
+    "options": [
+      "Government regulation",
+      "It's not explicitly stated",
+      "Market organization",
+      "Maximization of self-interest"
+    ],
+    "correct_answer_text": "Maximization of self-interest"
+  },
+  {
+    "question_number": 5,
+    "question": "What is a key characteristic of a market system?",
+    "options": [
+      "Centralized price setting",
+      "Government control",
+      "Individual decision-making",
+      "Limited consumer choice"
+    ],
+    "correct_answer_text": "Individual decision-making"
+  },
+  {
+    "question_number": 6,
+    "question": "What are buyers primarily trying to maximize in a market?",
+    "options": [
+      "Seller profits",
+      "Government revenue",
+      "Their own surplus or welfare",
+      "Market efficiency"
+    ],
+    "correct_answer_text": "Their own surplus or welfare"
+  },
+  {
+    "question_number": 7,
+    "question": "What are sellers primarily trying to maximize in a market?",
+    "options": [
+      "Buyer welfare",
+      "Market equilibrium",
+      "Their own surplus or welfare",
+      "Government regulation"
+    ],
+    "correct_answer_text": "Their own surplus or welfare"
+  },
+  {
+    "question_number": 8,
+    "question": "What determines the value a buyer places on a good?",
+    "options": [
+      "The seller's cost",
+      "The market price",
+      "The buyer's individual needs and preferences",
+      "International trade agreements"
+    ],
+    "correct_answer_text": "The buyer's individual needs and preferences"
+  },
+  {
+    "question_number": 9,
+    "question": "What is consumer surplus?",
+    "options": [
+      "Amount a buyer pays minus the good's value",
+      "The seller's profit",
+      "Amount a buyer is willing to pay minus the amount actually paid",
+      "The market equilibrium price"
+    ],
+    "correct_answer_text": "Amount a buyer is willing to pay minus the amount actually paid"
+  },
+  {
+    "question_number": 10,
+    "question": "What is willingness to pay an indication of?",
+    "options": [
+      "Seller's cost",
+      "Market price",
+      "The value of a good to a buyer",
+      "Tax revenue"
+    ],
+    "correct_answer_text": "The value of a good to a buyer"
+  },
+  {
+    "question_number": 11,
+    "question": "If a buyer's value for a good is less than the price, will they purchase it?",
+    "options": [
+      "Yes, always",
+      "Yes, if they have sufficient funds",
+      "No, probably not",
+      "It depends on the seller"
+    ],
+    "correct_answer_text": "No, probably not"
+  },
+  {
+    "question_number": 12,
+    "question": "In the cake example, how many potential buyers are there?",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "correct_answer_text": "Five"
+  },
+  {
+    "question_number": 13,
+    "question": "In the cake example, who valued the cake the most?",
+    "options": [
+      "Shyam",
+      "Sita",
+      "Gita",
+      "Ram"
+    ],
+    "correct_answer_text": "Ram"
+  },
+  {
+    "question_number": 14,
+    "question": "What does the demand schedule show?",
+    "options": [
+      "Quantity supplied at each price",
+      "Producer surplus",
+      "Quantity demanded at each price",
+      "Market equilibrium"
+    ],
+    "correct_answer_text": "Quantity demanded at each price"
+  },
+  {
+    "question_number": 15,
+    "question": "What is the law of demand?",
+    "options": [
+      "Price increase, quantity supplied increase",
+      "Price decrease, quantity demanded increase",
+      "Price increase, quantity demanded increase",
+      "Price decrease, quantity supplied increase"
+    ],
+    "correct_answer_text": "Price decrease, quantity demanded increase"
+  },
+  {
+    "question_number": 16,
+    "question": "What does the area between the demand curve and the price represent?",
+    "options": [
+      "Producer surplus",
+      "Tax revenue",
+      "Consumer surplus",
+      "Deadweight loss"
+    ],
+    "correct_answer_text": "Consumer surplus"
+  },
+  {
+    "question_number": 17,
+    "question": "What happens to consumer surplus when prices decrease?",
+    "options": [
+      "It stays the same",
+      "It decreases",
+      "It increases",
+      "It becomes zero"
+    ],
+    "correct_answer_text": "It increases"
+  },
+  {
+    "question_number": 18,
+    "question": "Why do different goods have different costs for sellers?",
+    "options": [
+      "Only because of differences in raw materials",
+      "Because of differences in production costs and seller efficiency",
+      "Solely due to market demand",
+      "Because of government regulation"
+    ],
+    "correct_answer_text": "Because of differences in production costs and seller efficiency"
+  },
+  {
+    "question_number": 19,
+    "question": "What is producer surplus?",
+    "options": [
+      "Amount a seller pays minus the good's cost",
+      "The buyer's profit",
+      "Amount a seller is paid for a good minus the seller's cost",
+      "The market equilibrium price"
+    ],
+    "correct_answer_text": "Amount a seller is paid for a good minus the seller's cost"
+  },
+  {
+    "question_number": 20,
+    "question": "If a seller's cost is higher than the market price, will they sell the good?",
+    "options": [
+      "Yes, always",
+      "Yes, if they have enough inventory",
+      "No, probably not",
+      "It depends on the buyer"
+    ],
+    "correct_answer_text": "No, probably not"
+  },
+  {
+    "question_number": 21,
+    "question": "What does the supply schedule show?",
+    "options": [
+      "Quantity demanded at each price",
+      "Consumer surplus",
+      "Quantity supplied at each price",
+      "Market equilibrium"
+    ],
+    "correct_answer_text": "Quantity supplied at each price"
+  },
+  {
+    "question_number": 22,
+    "question": "What is the law of supply?",
+    "options": [
+      "Price increase, quantity demanded increase",
+      "Price decrease, quantity supplied increase",
+      "Price increase, quantity supplied increase",
+      "Price decrease, quantity demanded increase"
+    ],
+    "correct_answer_text": "Price increase, quantity supplied increase"
+  },
+  {
+    "question_number": 23,
+    "question": "What does the area between the supply curve and the price represent?",
+    "options": [
+      "Consumer surplus",
+      "Tax revenue",
+      "Producer surplus",
+      "Deadweight loss"
+    ],
+    "correct_answer_text": "Producer surplus"
+  },
+  {
+    "question_number": 24,
+    "question": "What happens to producer surplus when prices increase?",
+    "options": [
+      "It stays the same",
+      "It decreases",
+      "It increases",
+      "It becomes zero"
+    ],
+    "correct_answer_text": "It increases"
+  },
+  {
+    "question_number": 25,
+    "question": "What is total surplus?",
+    "options": [
+      "Consumer surplus minus producer surplus",
+      "Consumer surplus plus producer surplus",
+      "Tax revenue minus deadweight loss",
+      "Market equilibrium price"
+    ],
+    "correct_answer_text": "Consumer surplus plus producer surplus"
+  },
+  {
+    "question_number": 26,
+    "question": "How can total surplus be maximized?",
+    "options": [
+      "By favoring either producers or consumers",
+      "By maximizing value to buyers and minimizing cost to sellers",
+      "By increasing taxes",
+      "By decreasing market competition"
+    ],
+    "correct_answer_text": "By maximizing value to buyers and minimizing cost to sellers"
+  },
+  {
+    "question_number": 27,
+    "question": "What is efficiency in resource allocation?",
+    "options": [
+      "Minimizing consumer surplus",
+      "Maximizing producer surplus",
+      "Maximizing total surplus",
+      "Minimizing tax revenue"
+    ],
+    "correct_answer_text": "Maximizing total surplus"
+  },
+  {
+    "question_number": 28,
+    "question": "Where is total surplus maximized in a market?",
+    "options": [
+      "At any point on the demand curve",
+      "At any point on the supply curve",
+      "At the market equilibrium",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "At the market equilibrium"
+  },
+  {
+    "question_number": 29,
+    "question": "Why does the government need revenue?",
+    "options": [
+      "To fund its operations and initiatives",
+      "To increase consumer surplus",
+      "To decrease producer surplus",
+      "To control international trade"
+    ],
+    "correct_answer_text": "To fund its operations and initiatives"
+  },
+  {
+    "question_number": 30,
+    "question": "How does the government primarily raise revenue?",
+    "options": [
+      "Printing more money",
+      "Borrowing from other countries",
+      "Through taxation",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "Through taxation"
+  },
+  {
+    "question_number": 31,
+    "question": "If a tax is imposed only on sellers, what happens to the supply curve?",
+    "options": [
+      "It shifts to the right",
+      "It remains unchanged",
+      "It shifts to the left",
+      "It becomes vertical"
+    ],
+    "correct_answer_text": "It shifts to the left"
+  },
+  {
+    "question_number": 32,
+    "question": "If a tax is imposed only on buyers, what happens to the demand curve?",
+    "options": [
+      "It shifts to the right",
+      "It remains unchanged",
+      "It shifts to the left",
+      "It becomes horizontal"
+    ],
+    "correct_answer_text": "It shifts to the left"
+  },
+  {
+    "question_number": 33,
+    "question": "In the case of taxation, who bears the burden of the tax?",
+    "options": [
+      "Only the seller",
+      "Only the buyer",
+      "The burden is shared between the buyer and seller",
+      "The government bears the burden"
+    ],
+    "correct_answer_text": "The burden is shared between the buyer and seller"
+  },
+  {
+    "question_number": 34,
+    "question": "What is tax revenue?",
+    "options": [
+      "The total amount of tax imposed",
+      "The amount paid by buyers",
+      "The amount paid by sellers",
+      "The amount collected by the government"
+    ],
+    "correct_answer_text": "The amount collected by the government"
+  },
+  {
+    "question_number": 35,
+    "question": "How is tax revenue calculated?",
+    "options": [
+      "Size of tax / quantity sold",
+      "Size of tax + quantity sold",
+      "Size of tax - quantity sold",
+      "Size of tax * quantity sold"
+    ],
+    "correct_answer_text": "Size of tax * quantity sold"
+  },
+  {
+    "question_number": 36,
+    "question": "What is a deadweight loss?",
+    "options": [
+      "A gain in total surplus",
+      "Tax revenue collected by the government",
+      "A fall in total surplus due to market distortion",
+      "Increased market efficiency"
+    ],
+    "correct_answer_text": "A fall in total surplus due to market distortion"
+  },
+  {
+    "question_number": 37,
+    "question": "What causes deadweight loss in the context of taxation?",
+    "options": [
+      "Increased market efficiency",
+      "Higher consumer surplus",
+      "Higher producer surplus",
+      "Prevented gains from trade"
+    ],
+    "correct_answer_text": "Prevented gains from trade"
+  },
+  {
+    "question_number": 38,
+    "question": "How does the elasticity of demand and supply affect deadweight loss?",
+    "options": [
+      "Deadweight loss is unaffected by elasticity",
+      "Deadweight loss decreases with elasticity",
+      "Deadweight loss increases with elasticity",
+      "Deadweight loss is only affected by supply elasticity"
+    ],
+    "correct_answer_text": "Deadweight loss increases with elasticity"
+  },
+  {
+    "question_number": 39,
+    "question": "What does the Laffer curve illustrate?",
+    "options": [
+      "The relationship between tax rates and tax revenue",
+      "The relationship between elasticity and consumer surplus",
+      "The relationship between government spending and economic growth",
+      "The relationship between producer surplus and market equilibrium"
+    ],
+    "correct_answer_text": "The relationship between tax rates and tax revenue"
+  },
+  {
+    "question_number": 40,
+    "question": "According to the Laffer curve, what happens to tax revenue as tax rates increase?",
+    "options": [
+      "It continuously increases",
+      "It continuously decreases",
+      "It increases, then decreases",
+      "It remains constant"
+    ],
+    "correct_answer_text": "It increases, then decreases"
+  },
+  {
+    "question_number": 41,
+    "question": "What is international trade?",
+    "options": [
+      "Exchange of goods within a country",
+      "Exchange of capital, goods, and services across international borders",
+      "The process of taxation",
+      "The production of goods within a country"
+    ],
+    "correct_answer_text": "Exchange of capital, goods, and services across international borders"
+  },
+  {
+    "question_number": 42,
+    "question": "What has been the trend in international trade over time?",
+    "options": [
+      "Significant decrease",
+      "Significant increase",
+      "It has remained constant",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "Significant increase"
+  },
+  {
+    "question_number": 43,
+    "question": "What are some of the items that constitute a large portion of global trade?",
+    "options": [
+      "Only agricultural products",
+      "Cars, electronic microcircuits, medicaments, and gold",
+      "Only services",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "Cars, electronic microcircuits, medicaments, and gold"
+  },
+  {
+    "question_number": 44,
+    "question": "Which country is the largest exporter of goods, according to the text?",
+    "options": [
+      "United States",
+      "Germany",
+      "China",
+      "India"
+    ],
+    "correct_answer_text": "China"
+  },
+  {
+    "question_number": 45,
+    "question": "Which country is the largest importer of goods, according to the text?",
+    "options": [
+      "China",
+      "Germany",
+      "United States",
+      "India"
+    ],
+    "correct_answer_text": "United States"
+  },
+  {
+    "question_number": 46,
+    "question": "What is one environmental implication of international trade?",
+    "options": [
+      "Reduced air pollution",
+      "Increased biodiversity",
+      "Increased world pollution",
+      "It has no environmental implications"
+    ],
+    "correct_answer_text": "Increased world pollution"
+  },
+  {
+    "question_number": 47,
+    "question": "How does international trade affect national emission reduction targets?",
+    "options": [
+      "It always helps meet the targets",
+      "It has no effect on the targets",
+      "It can undermine the targets",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "It can undermine the targets"
+  },
+  {
+    "question_number": 48,
+    "question": "What is one health implication of international trade, according to the text?",
+    "options": [
+      "Reduced disease burden",
+      "Increased life expectancy",
+      "Increased disease burden from pollution",
+      "It has no health implications"
+    ],
+    "correct_answer_text": "Increased disease burden from pollution"
+  },
+  {
+    "question_number": 49,
+    "question": "What is one benefit of international trade?",
+    "options": [
+      "Reduced variety of goods",
+      "Increased market power of firms",
+      "Increased variety of goods",
+      "Decreased competition"
+    ],
+    "correct_answer_text": "Increased variety of goods"
+  },
+  {
+    "question_number": 50,
+    "question": "How does specialization impact prices?",
+    "options": [
+      "It leads to higher prices",
+      "It has no effect on prices",
+      "It leads to lower prices",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "It leads to lower prices"
+  },
+  {
+    "question_number": 51,
+    "question": "How does increased competition affect market power?",
+    "options": [
+      "It increases market power",
+      "It has no effect on market power",
+      "It reduces market power",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "It reduces market power"
+  },
+  {
+    "question_number": 52,
+    "question": "What is an example of an organization with significant market power?",
+    "options": [
+      "The World Trade Organization (WTO)",
+      "The United Nations (UN)",
+      "The Organization of Petroleum Exporting Countries (OPEC)",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "The Organization of Petroleum Exporting Countries (OPEC)"
+  },
+  {
+    "question_number": 53,
+    "question": "What is the main argument for understanding international trade's implications?",
+    "options": [
+      "To completely stop international trade",
+      "To ignore the negative impacts",
+      "To better regulate it and balance benefits and drawbacks",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "To better regulate it and balance benefits and drawbacks"
+  },
+  {
+    "question_number": 54,
+    "question": "According to the text, what is one of the reasons why international trade is growing?",
+    "options": [
+      "It is not explicitly stated",
+      "Increased government regulation",
+      "Decreased demand for goods",
+      "Improved transportation and communication"
+    ],
+    "correct_answer_text": "It is not explicitly stated"
+  },
+  {
+    "question_number": 55,
+    "question": "What is a potential negative consequence of international trade, according to the text?",
+    "options": [
+      "Increased consumer surplus",
+      "Reduced producer surplus",
+      "Increased pollution",
+      "Increased market efficiency"
+    ],
+    "correct_answer_text": "Increased pollution"
+  },
+  {
+    "question_number": 56,
+    "question": "What is one potential benefit of specialization due to international trade?",
+    "options": [
+      "Reduced quality of goods",
+      "Higher prices",
+      "Economies of scale and lower prices",
+      "Increased market power"
+    ],
+    "correct_answer_text": "Economies of scale and lower prices"
+  },
+  {
+    "question_number": 57,
+    "question": "What is a key challenge in balancing the benefits and drawbacks of international trade?",
+    "options": [
+      "It is not explicitly stated",
+      "Ignoring the environmental impact",
+      "Finding ways to mitigate environmental damage while retaining benefits",
+      "Promoting increased market power"
+    ],
+    "correct_answer_text": "Finding ways to mitigate environmental damage while retaining benefits"
+  },
+  {
+    "question_number": 58,
+    "question": "What is the significance of the year 1913 in the context of the provided text?",
+    "options": [
+      "It marks the beginning of international trade",
+      "It represents a baseline year for comparing global export values",
+      "It is the year of maximum trade",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "It represents a baseline year for comparing global export values"
+  },
+  {
+    "question_number": 59,
+    "question": "What is a key factor influencing the cost of goods for sellers?",
+    "options": [
+      "Only buyer demand",
+      "Seller efficiency and production costs",
+      "Government regulations only",
+      "International trade agreements"
+    ],
+    "correct_answer_text": "Seller efficiency and production costs"
+  },
+  {
+    "question_number": 60,
+    "question": "What is a key factor determining the value of goods for buyers?",
+    "options": [
+      "Only market price",
+      "Buyer preferences and needs",
+      "Seller costs only",
+      "Government regulations"
+    ],
+    "correct_answer_text": "Buyer preferences and needs"
+  },
+  {
+    "question_number": 61,
+    "question": "In the context of taxation, what is the significance of the Laffer Curve?",
+    "options": [
+      "It shows the relationship between tax rates and deadweight loss",
+      "It shows the relationship between tax rates and tax revenue",
+      "It shows the relationship between tax rates and consumer surplus",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "It shows the relationship between tax rates and tax revenue"
+  },
+  {
+    "question_number": 62,
+    "question": "What is a major factor influencing the amount of deadweight loss from taxation?",
+    "options": [
+      "The size of the tax",
+      "The elasticity of supply and demand",
+      "The type of good being taxed",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "The elasticity of supply and demand"
+  },
+  {
+    "question_number": 63,
+    "question": "What is the relationship between the price a buyer pays and the value they place on a good?",
+    "options": [
+      "The price is always higher than the value",
+      "The price is always lower than the value",
+      "The relationship is not stated",
+      "The relationship varies; consumer surplus reflects the difference"
+    ],
+    "correct_answer_text": "The relationship varies; consumer surplus reflects the difference"
+  },
+  {
+    "question_number": 64,
+    "question": "What is the relationship between the price a seller receives and their cost of production?",
+    "options": [
+      "The price is always higher than the cost",
+      "The price is always lower than the cost",
+      "The relationship is not stated",
+      "The relationship varies; producer surplus reflects the difference"
+    ],
+    "correct_answer_text": "The relationship varies; producer surplus reflects the difference"
+  },
+  {
+    "question_number": 65,
+    "question": "What is the primary goal of economic planning, according to the text?",
+    "options": [
+      "Maximizing consumer surplus",
+      "Maximizing producer surplus",
+      "Maximizing total surplus",
+      "Minimizing deadweight loss"
+    ],
+    "correct_answer_text": "Maximizing total surplus"
+  },
+  {
+    "question_number": 66,
+    "question": "How does taxation affect total surplus?",
+    "options": [
+      "It increases total surplus",
+      "It has no impact on total surplus",
+      "It decreases total surplus",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "It decreases total surplus"
+  },
+  {
+    "question_number": 67,
+    "question": "What is a key characteristic of a competitive market?",
+    "options": [
+      "A small number of buyers and sellers",
+      "Government price controls",
+      "A large number of buyers and sellers",
+      "Limited product variety"
+    ],
+    "correct_answer_text": "A large number of buyers and sellers"
+  },
+  {
+    "question_number": 68,
+    "question": "What is the role of government in a market economy?",
+    "options": [
+      "Only to collect taxes",
+      "To ensure a fair and efficient market",
+      "To control prices",
+      "It has no role in a market economy"
+    ],
+    "correct_answer_text": "To ensure a fair and efficient market"
+  },
+  {
+    "question_number": 69,
+    "question": "What happens to the equilibrium point when a tax is imposed?",
+    "options": [
+      "It remains unchanged",
+      "It shifts, depending on whether the tax is on buyers or sellers",
+      "It disappears",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "It shifts, depending on whether the tax is on buyers or sellers"
+  },
+  {
+    "question_number": 70,
+    "question": "What are the components of total surplus in a market with taxation?",
+    "options": [
+      "Only consumer and producer surplus",
+      "Consumer surplus, producer surplus, tax revenue",
+      "Consumer surplus, producer surplus, tax revenue, deadweight loss",
+      "Only tax revenue and deadweight loss"
+    ],
+    "correct_answer_text": "Consumer surplus, producer surplus, tax revenue, deadweight loss"
+  },
+  {
+    "question_number": 71,
+    "question": "How is the tax revenue represented graphically?",
+    "options": [
+      "A triangle",
+      "A circle",
+      "A rectangle",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "A rectangle"
+  },
+  {
+    "question_number": 72,
+    "question": "How is the deadweight loss represented graphically?",
+    "options": [
+      "A rectangle",
+      "A triangle",
+      "A circle",
+      "A line"
+    ],
+    "correct_answer_text": "A triangle"
+  },
+  {
+    "question_number": 73,
+    "question": "What is the ideal tax size according to the Laffer curve?",
+    "options": [
+      "The highest possible tax rate",
+      "The lowest possible tax rate",
+      "The tax rate that maximizes tax revenue",
+      "It does not suggest an ideal tax size"
+    ],
+    "correct_answer_text": "The tax rate that maximizes tax revenue"
+  },
+  {
+    "question_number": 74,
+    "question": "What is one factor that should influence the determination of the optimal tax size?",
+    "options": [
+      "Only tax revenue maximization",
+      "Only deadweight loss minimization",
+      "Both tax revenue maximization and deadweight loss minimization",
+      "Ignoring both tax revenue and deadweight loss"
+    ],
+    "correct_answer_text": "Both tax revenue maximization and deadweight loss minimization"
+  },
+  {
+    "question_number": 75,
+    "question": "What is a potential economic consequence of the disease burden from pollution caused by",
+    "options": [
+      "Increased economic growth",
+      "Reduced healthcare costs",
+      "Increased healthcare costs",
+      "No economic consequences"
+    ],
+    "correct_answer_text": "Increased healthcare costs"
+  },
+  {
+    "question_number": 76,
+    "question": "According to the text, what is one reason why a country might specialize in producing certain",
+    "options": [
+      "To reduce international trade",
+      "To increase market power",
+      "To achieve economies of scale",
+      "To decrease competition"
+    ],
+    "correct_answer_text": "To achieve economies of scale"
+  },
+  {
+    "question_number": 77,
+    "question": "What is a limitation of relying solely on national emission reduction targets to address pollution?",
+    "options": [
+      "International trade can undermine these efforts",
+      "They are not effective",
+      "They are too costly to implement",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "International trade can undermine these efforts"
+  },
+  {
+    "question_number": 78,
+    "question": "What is one of the key challenges in managing the environmental impact of international trade?",
+    "options": [
+      "Ignoring the environmental impact completely",
+      "Promoting only benefits of trade",
+      "Balancing environmental protection and economic gains",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "Balancing environmental protection and economic gains"
+  },
+  {
+    "question_number": 79,
+    "question": "According to the text, what is the approximate current value of global exports in goods and",
+    "options": [
+      "$5 trillion",
+      "$10 trillion",
+      "$25 trillion",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "$25 trillion"
+  },
+  {
+    "question_number": 80,
+    "question": "What is one way that international trade can lead to increased pollution?",
+    "options": [
+      "Reduced transportation of goods",
+      "Increased production and transportation distances",
+      "It does not increase pollution",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "Increased production and transportation distances"
+  },
+  {
+    "question_number": 81,
+    "question": "What is the purpose of the provided graph showing the value of global exports over time?",
+    "options": [
+      "To show a constant value",
+      "To demonstrate a decline in trade",
+      "To illustrate the growth of international trade",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "To illustrate the growth of international trade"
+  },
+  {
+    "question_number": 82,
+    "question": "What is one of the primary reasons why buyers might have different valuations for the same good?",
+    "options": [
+      "Uniform preferences and needs",
+      "Identical economic status",
+      "Differing needs and preferences",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "Differing needs and preferences"
+  },
+  {
+    "question_number": 83,
+    "question": "What is one reason why sellers might have different costs for producing the same good?",
+    "options": [
+      "Uniform production efficiency",
+      "Identical production technologies",
+      "Varying production efficiency and methods",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "Varying production efficiency and methods"
+  },
+  {
+    "question_number": 84,
+    "question": "What is the key concept that explains why buyers and sellers engage in trade in a market",
+    "options": [
+      "Government intervention",
+      "Externalities",
+      "Maximization of self-interest",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "Maximization of self-interest"
+  },
+  {
+    "question_number": 85,
+    "question": "What is the primary aim of economic policies related to market efficiency?",
+    "options": [
+      "Minimizing the welfare of individual agents",
+      "Maximizing the total welfare of society",
+      "Promoting government intervention",
+      "It is not explicitly stated"
+    ],
+    "correct_answer_text": "Maximizing the total welfare of society"
+  }
+]

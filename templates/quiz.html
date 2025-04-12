@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz - Week {{ week_number }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+     <div class="container"> {# <--- Add this div #}
+        <h1>Quiz for Week {{ week_number }}</h1>
+        <div id="quiz-container">
+            <p>Loading questions...</p>
+        </div>
+        <div id="error-message" style="color: red; margin-top: 10px;"></div>
+        <button id="submit-btn" style="display: none;">Submit Answers</button>
+        <div id="results-container" style="display: none;">
+            <h2>Results</h2>
+            <p id="score"></p>
+            <a href="{{ url_for('index') }}">Back to Week Selection</a> |
+            <a href="{{ url_for('progress_page') }}">View My Progress</a>
+        </div>
+    </div> {# <--- Close the div #}
+
+    <script>
+        const currentWeekNumber = {{ week_number }};
+    </script>
+    <script src="{{ url_for('static', filename='js/quiz.js') }}"></script>
+</body>
+</html>

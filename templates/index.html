@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Quiz Selector</title>
+    {# Ensure you use the correct CSS file name #}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    {# If using the enhanced CSS, keep the container, otherwise remove it #}
+    <div class="container">
+        <h1>Conservation Economics Quiz</h1>
+
+        {# Remove flash message block if not needed by your current app.py #}
+        {% with messages = get_flashed_messages(with_categories=true) %}
+          {% if messages %}
+            <ul class=flashes>
+            {% for category, message in messages %}
+              <li class="{{ category }}">{{ message }}</li>
+            {% endfor %}
+            </ul>
+          {% endif %}
+        {% endwith %}
+
+        <h2>Select a Week</h2>
+        {# Make sure class="week-selector-horizontal" is present if using the enhanced CSS #}
+        <ul class="week-selector-horizontal">
+            {# This version assumes 'testuser' is always active via session #}
+            {# It loops through available weeks based on JSON files found #}
+            {% for week in range(1, total_weeks + 1) %}
+                 {% if week in available_weeks %}
+                     <li><a href="{{ url_for('quiz_page', week_number=week) }}">Week {{ week }}</a></li>
+                 {% else %}
+                     {# Style unavailable weeks if using enhanced CSS #}
+                      <li class="unavailable">Week {{ week }} (No questions)</li>
+                 {% endif %}
+            {% endfor %}
+        </ul>
+        <hr>
+         {# Simple welcome/progress link for the 'testuser' #}
+        <p style="text-align: center;">Welcome, {{ session.username | default('User') }}! | <a href="{{ url_for('progress_page') }}">View My Progress</a></p>
+
+    </div>
+</body>
+</html>

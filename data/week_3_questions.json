@@ -1,0 +1,761 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the primary focus of Module 3?",
+    "options": [
+      "Climate change only",
+      "Impacts of human activities on conservation",
+      "Plastics and their environmental impact",
+      "Oil spills and mining exclusively"
+    ],
+    "correct_answer_text": "Impacts of human activities on conservation"
+  },
+  {
+    "question_number": 2,
+    "question": "Which three impacts are highlighted in Module 3?",
+    "options": [
+      "Climate change, pollution, deforestation",
+      "Climate change, plastics, oil spills",
+      "Climate change, plastics, mining",
+      "Plastics, oil spills, deforestation"
+    ],
+    "correct_answer_text": "Climate change, plastics, mining"
+  },
+  {
+    "question_number": 3,
+    "question": "How is climate defined in the text?",
+    "options": [
+      "Daily weather patterns",
+      "Short-term atmospheric conditions",
+      "A composite of average regional conditions over 30 years",
+      "The temperature of a specific location"
+    ],
+    "correct_answer_text": "A composite of average regional conditions over 30 years"
+  },
+  {
+    "question_number": 4,
+    "question": "What distinguishes climate from weather?",
+    "options": [
+      "Geographic location",
+      "Temporal scale",
+      "Atmospheric pressure",
+      "Precipitation levels"
+    ],
+    "correct_answer_text": "Temporal scale"
+  },
+  {
+    "question_number": 5,
+    "question": "What is the classical time period for averaging climate data?",
+    "options": [
+      "10 years",
+      "20 years",
+      "30 years",
+      "50 years"
+    ],
+    "correct_answer_text": "30 years"
+  },
+  {
+    "question_number": 6,
+    "question": "How many components constitute the climate system?",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "correct_answer_text": "Five"
+  },
+  {
+    "question_number": 7,
+    "question": "Name one component of the climate system.",
+    "options": [
+      "Stratosphere",
+      "Ionosphere",
+      "Hydrosphere",
+      "Mesosphere"
+    ],
+    "correct_answer_text": "Hydrosphere"
+  },
+  {
+    "question_number": 8,
+    "question": "What defines climate change according to the text?",
+    "options": [
+      "Short-term temperature fluctuations",
+      "Seasonal variations in weather",
+      "Statistically significant variations persisting for decades",
+      "Changes in a single climate variable"
+    ],
+    "correct_answer_text": "Statistically significant variations persisting for decades"
+  },
+  {
+    "question_number": 9,
+    "question": "What are anthropogenic changes?",
+    "options": [
+      "Naturally occurring climate shifts",
+      "Changes in Earth's orbit",
+      "Human-induced changes in the atmosphere or land use",
+      "Variations in solar energy output"
+    ],
+    "correct_answer_text": "Human-induced changes in the atmosphere or land use"
+  },
+  {
+    "question_number": 10,
+    "question": "Give an example of a natural internal process affecting climate.",
+    "options": [
+      "Volcanic eruptions",
+      "Changes in plate tectonics",
+      "Greenhouse gas emissions",
+      "Deforestation"
+    ],
+    "correct_answer_text": "Changes in plate tectonics"
+  },
+  {
+    "question_number": 11,
+    "question": "What is an example of an external forcing on the climate system?",
+    "options": [
+      "Ocean currents",
+      "Changes in Earth's orbit",
+      "Photosynthesis",
+      "Burning fossil fuels"
+    ],
+    "correct_answer_text": "Changes in Earth's orbit"
+  },
+  {
+    "question_number": 12,
+    "question": "What is anthropogenic forcing?",
+    "options": [
+      "Forces of nature",
+      "Climate change due to human activities",
+      "Changes in Earth's orbit",
+      "Solar radiation variations"
+    ],
+    "correct_answer_text": "Climate change due to human activities"
+  },
+  {
+    "question_number": 13,
+    "question": "Which gas is mentioned as a significant greenhouse gas?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correct_answer_text": "Carbon dioxide"
+  },
+  {
+    "question_number": 14,
+    "question": "How do humans contribute significantly to carbon dioxide release?",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Burning fossil fuels",
+      "Planting trees"
+    ],
+    "correct_answer_text": "Burning fossil fuels"
+  },
+  {
+    "question_number": 15,
+    "question": "What is a consequence of deforestation related to climate change?",
+    "options": [
+      "Increased carbon dioxide absorption",
+      "Reduced carbon dioxide absorption",
+      "Increased oxygen production",
+      "No impact on carbon dioxide levels"
+    ],
+    "correct_answer_text": "Reduced carbon dioxide absorption"
+  },
+  {
+    "question_number": 16,
+    "question": "What is a potential response to climate forcing?",
+    "options": [
+      "Increased photosynthesis",
+      "Changes in ocean currents",
+      "Decreased volcanic activity",
+      "Reduced greenhouse gas emissions"
+    ],
+    "correct_answer_text": "Changes in ocean currents"
+  },
+  {
+    "question_number": 17,
+    "question": "What is one observed biological response to climate change?",
+    "options": [
+      "Decreased mutation rates",
+      "Increased heterozygosity",
+      "Changes in species sex ratios",
+      "No change in species distribution"
+    ],
+    "correct_answer_text": "Changes in species sex ratios"
+  },
+  {
+    "question_number": 18,
+    "question": "What does phenology refer to?",
+    "options": [
+      "Study of ecosystems",
+      "Timing of biological processes",
+      "Species migration patterns",
+      "Changes in species distribution"
+    ],
+    "correct_answer_text": "Timing of biological processes"
+  },
+  {
+    "question_number": 19,
+    "question": "What is one consequence of altered phenology?",
+    "options": [
+      "Increased food availability for all species",
+      "Improved pollination success",
+      "Food shortages for some species",
+      "No impact on species survival"
+    ],
+    "correct_answer_text": "Food shortages for some species"
+  },
+  {
+    "question_number": 20,
+    "question": "How does climate change affect the sea level?",
+    "options": [
+      "Decreased sea level due to evaporation",
+      "No impact on sea level",
+      "Increased sea level due to melting ice and water expansion",
+      "Sea level remains constant"
+    ],
+    "correct_answer_text": "Increased sea level due to melting ice and water expansion"
+  },
+  {
+    "question_number": 21,
+    "question": "What is one method of mitigating climate change?",
+    "options": [
+      "Increasing greenhouse gas emissions",
+      "Deforestation",
+      "Reducing greenhouse gas emissions",
+      "Burning fossil fuels"
+    ],
+    "correct_answer_text": "Reducing greenhouse gas emissions"
+  },
+  {
+    "question_number": 22,
+    "question": "What is adaptation in the context of climate change?",
+    "options": [
+      "Reducing greenhouse gas emissions",
+      "Adjusting to climate change impacts",
+      "Preventing climate change",
+      "Ignoring climate change effects"
+    ],
+    "correct_answer_text": "Adjusting to climate change impacts"
+  },
+  {
+    "question_number": 23,
+    "question": "What is REDD?",
+    "options": [
+      "Increasing emissions from deforestation",
+      "Reducing emissions from deforestation and forest degradation",
+      "Reforestation efforts",
+      "No impact on climate change"
+    ],
+    "correct_answer_text": "Reducing emissions from deforestation and forest degradation"
+  },
+  {
+    "question_number": 24,
+    "question": "What is one characteristic of plastics?",
+    "options": [
+      "Biodegradable",
+      "Water-soluble",
+      "Mouldable when soft",
+      "Naturally occurring"
+    ],
+    "correct_answer_text": "Mouldable when soft"
+  },
+  {
+    "question_number": 25,
+    "question": "What are plastics made from?",
+    "options": [
+      "Inorganic minerals",
+      "Organic polymers",
+      "Metallic compounds",
+      "Water and minerals"
+    ],
+    "correct_answer_text": "Organic polymers"
+  },
+  {
+    "question_number": 26,
+    "question": "When were the earliest known synthetic plastics made?",
+    "options": [
+      "19th century",
+      "20th century",
+      "1600 B.C.",
+      "1000 A.D."
+    ],
+    "correct_answer_text": "1600 B.C."
+  },
+  {
+    "question_number": 27,
+    "question": "What factor significantly increased plastic production during World War II?",
+    "options": [
+      "Increased availability of petroleum",
+      "Decreased demand for metal",
+      "Increased demand for metal",
+      "Decreased availability of petroleum"
+    ],
+    "correct_answer_text": "Decreased demand for metal"
+  },
+  {
+    "question_number": 28,
+    "question": "What is the approximate annual increase in plastic production?",
+    "options": [
+      "1 percent",
+      "3 percent",
+      "5 percent",
+      "10 percent"
+    ],
+    "correct_answer_text": "5 percent"
+  },
+  {
+    "question_number": 29,
+    "question": "What is a major problem with disposing of plastics?",
+    "options": [
+      "They are easily recycled",
+      "They are biodegradable",
+      "They are not easily biodegradable",
+      "They are expensive to dispose of"
+    ],
+    "correct_answer_text": "They are not easily biodegradable"
+  },
+  {
+    "question_number": 30,
+    "question": "What is a harmful byproduct of burning plastics?",
+    "options": [
+      "Water vapor",
+      "Carbon dioxide",
+      "Dioxins",
+      "Oxygen"
+    ],
+    "correct_answer_text": "Dioxins"
+  },
+  {
+    "question_number": 31,
+    "question": "What are nurdles?",
+    "options": [
+      "Large plastic fragments",
+      "Microplastic particles",
+      "Resin granules used in plastic production",
+      "Recycled plastic pellets"
+    ],
+    "correct_answer_text": "Resin granules used in plastic production"
+  },
+  {
+    "question_number": 32,
+    "question": "What size classifies plastic as macro debris?",
+    "options": [
+      "Less than 5 mm",
+      "5-20 mm",
+      "Greater than 20 mm",
+      "Less than 1 mm"
+    ],
+    "correct_answer_text": "Greater than 20 mm"
+  },
+  {
+    "question_number": 33,
+    "question": "What size classifies plastic as meso debris?",
+    "options": [
+      "Less than 5 mm",
+      "5-20 mm",
+      "Greater than 20 mm",
+      "Less than 1 mm"
+    ],
+    "correct_answer_text": "5-20 mm"
+  },
+  {
+    "question_number": 34,
+    "question": "What size classifies plastic as micro debris?",
+    "options": [
+      "Less than 5 mm",
+      "5-20 mm",
+      "Greater than 20 mm",
+      "Less than 1 mm"
+    ],
+    "correct_answer_text": "Less than 5 mm"
+  },
+  {
+    "question_number": 35,
+    "question": "What is one way microplastics are formed?",
+    "options": [
+      "Natural processes",
+      "Photosynthesis",
+      "Fragmentation of larger plastics",
+      "Volcanic activity"
+    ],
+    "correct_answer_text": "Fragmentation of larger plastics"
+  },
+  {
+    "question_number": 36,
+    "question": "What is photolysis?",
+    "options": [
+      "Breakdown due to light",
+      "Production of light",
+      "Absorption of light",
+      "Reflection of light"
+    ],
+    "correct_answer_text": "Breakdown due to light"
+  },
+  {
+    "question_number": 37,
+    "question": "How can plastic ingestion affect animals?",
+    "options": [
+      "Improved digestion",
+      "Increased energy levels",
+      "Blockage of the alimentary canal",
+      "No negative effects"
+    ],
+    "correct_answer_text": "Blockage of the alimentary canal"
+  },
+  {
+    "question_number": 38,
+    "question": "What is entanglement in the context of plastics?",
+    "options": [
+      "Ingestion of plastic",
+      "Accumulation of toxins",
+      "Animals trapped in plastic debris",
+      "Habitat alteration"
+    ],
+    "correct_answer_text": "Animals trapped in plastic debris"
+  },
+  {
+    "question_number": 39,
+    "question": "What are persistent bioaccumulative toxic substances?",
+    "options": [
+      "Substances that degrade quickly",
+      "Substances that do not accumulate in organisms",
+      "Substances that accumulate and persist in organisms",
+      "Harmless chemicals added to plastics"
+    ],
+    "correct_answer_text": "Substances that accumulate and persist in organisms"
+  },
+  {
+    "question_number": 40,
+    "question": "Give an example of a persistent bioaccumulative toxic substance.",
+    "options": [
+      "Water",
+      "Oxygen",
+      "Bisphenol A",
+      "Carbon dioxide"
+    ],
+    "correct_answer_text": "Bisphenol A"
+  },
+  {
+    "question_number": 41,
+    "question": "What is one way plastics alter habitats?",
+    "options": [
+      "Increased biodiversity",
+      "Improved water quality",
+      "Provision of shelter for some organisms",
+      "No change in habitat"
+    ],
+    "correct_answer_text": "Provision of shelter for some organisms"
+  },
+  {
+    "question_number": 42,
+    "question": "How can plastics facilitate the spread of invasive species?",
+    "options": [
+      "Preventing their dispersal",
+      "Reducing their numbers",
+      "Acting as rafts for transport",
+      "No impact on invasive species"
+    ],
+    "correct_answer_text": "Acting as rafts for transport"
+  },
+  {
+    "question_number": 43,
+    "question": "What is one level at which microplastics can have an impact?",
+    "options": [
+      "Ecosystem level",
+      "Subcellular level",
+      "Population level",
+      "All of the above"
+    ],
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "question_number": 44,
+    "question": "What is a key aspect of the 'reduce, reuse, recycle' approach?",
+    "options": [
+      "Increased plastic production",
+      "Decreased plastic consumption",
+      "Ignoring plastic waste",
+      "No impact on plastic waste"
+    ],
+    "correct_answer_text": "Decreased plastic consumption"
+  },
+  {
+    "question_number": 45,
+    "question": "What role do incentives play in addressing plastic waste?",
+    "options": [
+      "No role",
+      "They discourage responsible behavior",
+      "They encourage responsible behavior",
+      "They have no impact"
+    ],
+    "correct_answer_text": "They encourage responsible behavior"
+  },
+  {
+    "question_number": 46,
+    "question": "What are bioplastics?",
+    "options": [
+      "Petroleum-based plastics",
+      "Plastics made from natural products",
+      "Recycled plastics",
+      "Non-biodegradable plastics"
+    ],
+    "correct_answer_text": "Plastics made from natural products"
+  },
+  {
+    "question_number": 47,
+    "question": "What economic principle is highlighted regarding plastic use and its consequences?",
+    "options": [
+      "Unlimited resources",
+      "People respond to incentives",
+      "No trade-offs exist",
+      "Only short-term costs matter"
+    ],
+    "correct_answer_text": "People respond to incentives"
+  },
+  {
+    "question_number": 48,
+    "question": "What is an externality related to plastic use?",
+    "options": [
+      "Benefits of plastic use",
+      "Costs of plastic production",
+      "Costs of plastic waste borne by society",
+      "No external costs"
+    ],
+    "correct_answer_text": "Costs of plastic waste borne by society"
+  },
+  {
+    "question_number": 49,
+    "question": "How can governments improve market outcomes regarding plastic?",
+    "options": [
+      "Ignoring the issue",
+      "Promoting only plastic production",
+      "Internalizing externalities through taxes and subsidies",
+      "Discouraging plastic recycling"
+    ],
+    "correct_answer_text": "Internalizing externalities through taxes and subsidies"
+  },
+  {
+    "question_number": 50,
+    "question": "What is LID in the context of ecosystem disturbances?",
+    "options": [
+      "Large Infrequent Disturbance",
+      "Little Impact Disturbance",
+      "Localized Impact Disturbance",
+      "Long-term Impact Disturbance"
+    ],
+    "correct_answer_text": "Large Infrequent Disturbance"
+  },
+  {
+    "question_number": 51,
+    "question": "What determines the impact of a disturbance on an ecosystem?",
+    "options": [
+      "Size of disturbance only",
+      "State of the ecosystem only",
+      "Frequency of disturbance only",
+      "All of the above"
+    ],
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "question_number": 52,
+    "question": "What is resilience in an ecosystem?",
+    "options": [
+      "Inability to recover from disturbance",
+      "Ability to recover from disturbance",
+      "Resistance to any change",
+      "No impact from disturbances"
+    ],
+    "correct_answer_text": "Ability to recover from disturbance"
+  },
+  {
+    "question_number": 53,
+    "question": "What is the potential outcome of repeated large disturbances?",
+    "options": [
+      "Ecosystem recovery",
+      "No change in ecosystem",
+      "Permanent ecosystem alteration",
+      "Increased biodiversity"
+    ],
+    "correct_answer_text": "Permanent ecosystem alteration"
+  },
+  {
+    "question_number": 54,
+    "question": "What is a key factor determining the impact of a disturbance on a community?",
+    "options": [
+      "The species composition of the community",
+      "The size of the disturbance",
+      "The prior state of the community",
+      "All of the above"
+    ],
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "question_number": 55,
+    "question": "What is one factor affecting the impact of an ecosystem disturbance?",
+    "options": [
+      "Size of the disturbance",
+      "Frequency of the disturbance",
+      "Initial state of the ecosystem",
+      "All of the above"
+    ],
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "question_number": 56,
+    "question": "In the context of ecosystem disturbances, what does LID stand for?",
+    "options": [
+      "Large, Immediate Disturbance",
+      "Limited, Infrequent Disturbance",
+      "Large, Infrequent Disturbance",
+      "Localized, Intense Disturbance"
+    ],
+    "correct_answer_text": "Large, Infrequent Disturbance"
+  },
+  {
+    "question_number": 57,
+    "question": "What is the likely outcome for a community subjected to multiple large infrequent disturbances?",
+    "options": [
+      "Complete and quick recovery",
+      "No change to the community",
+      "A permanent shift to an altered state",
+      "Increased biodiversity"
+    ],
+    "correct_answer_text": "A permanent shift to an altered state"
+  },
+  {
+    "question_number": 58,
+    "question": "What aspect of community dynamics is illustrated by the ups and downs in the graph?",
+    "options": [
+      "Complete destruction",
+      "Natural variation",
+      "External forcing",
+      "Human impact"
+    ],
+    "correct_answer_text": "Natural variation"
+  },
+  {
+    "question_number": 59,
+    "question": "In the context of the text, what does the altered state of a community represent?",
+    "options": [
+      "Improved condition",
+      "Normal condition",
+      "Condition after a disturbance",
+      "No change in condition"
+    ],
+    "correct_answer_text": "Condition after a disturbance"
+  },
+  {
+    "question_number": 60,
+    "question": "What is the recovery period in the graph?",
+    "options": [
+      "Time to return to the initial state",
+      "Time when disturbance occurs",
+      "Time of complete destruction",
+      "No change in community condition"
+    ],
+    "correct_answer_text": "Time to return to the initial state"
+  },
+  {
+    "question_number": 61,
+    "question": "According to the text, what is one factor influencing the impact of a disturbance on an ecosystem?",
+    "options": [
+      "The species present in the ecosystem",
+      "The size of the disturbance",
+      "The frequency of similar disturbances",
+      "All of the above"
+    ],
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "question_number": 62,
+    "question": "What is the significance of the recovery period after a large infrequent disturbance?",
+    "options": [
+      "It signifies irreversible damage",
+      "It shows the ecosystem's ability to return to a previous state",
+      "It signifies a continuous state of change",
+      "It shows the ecosystem is unaffected"
+    ],
+    "correct_answer_text": "It shows the ecosystem's ability to return to a previous state"
+  },
+  {
+    "question_number": 63,
+    "question": "What is a possible consequence of multiple large infrequent disturbances on an ecosystem?",
+    "options": [
+      "Enhanced resilience",
+      "Unchanged state",
+      "No noticeable effect",
+      "Inability to return to its normal state"
+    ],
+    "correct_answer_text": "Inability to return to its normal state"
+  },
+  {
+    "question_number": 64,
+    "question": "What does the text suggest about the impact of repeated disturbances on an ecosystem's state?",
+    "options": [
+      "They have no lasting effect",
+      "They lead to improved conditions",
+      "They can cause a permanent shift to an altered state",
+      "They enhance natural variation"
+    ],
+    "correct_answer_text": "They can cause a permanent shift to an altered state"
+  },
+  {
+    "question_number": 65,
+    "question": "What aspect of ecosystem dynamics is highlighted in the text regarding disturbances?",
+    "options": [
+      "Static nature of ecosystems",
+      "Resistance and resilience of ecosystems",
+      "Irreversible changes only",
+      "No change in ecosystem"
+    ],
+    "correct_answer_text": "Resistance and resilience of ecosystems"
+  },
+  {
+    "question_number": 66,
+    "question": "What is the main concept illustrated by the graph of community state over time?",
+    "options": [
+      "Linear progression",
+      "Ecosystem stability",
+      "Impact of disturbances on ecosystem dynamics",
+      "No impact of disturbances"
+    ],
+    "correct_answer_text": "Impact of disturbances on ecosystem dynamics"
+  },
+  {
+    "question_number": 67,
+    "question": "The text emphasizes that ecosystem responses to disturbances depend on what?",
+    "options": [
+      "Only the size of the disturbance",
+      "The size, frequency and previous state of the ecosystem",
+      "Only the frequency of the disturbance",
+      "Only the previous state of the ecosystem"
+    ],
+    "correct_answer_text": "The size, frequency and previous state of the ecosystem"
+  },
+  {
+    "question_number": 68,
+    "question": "What is the implication of an ecosystem failing to return to its normal state after a disturbance?",
+    "options": [
+      "It signifies complete ecosystem collapse",
+      "It indicates temporary change",
+      "It suggests a permanent alteration of the ecosystem",
+      "It demonstrates ecosystem resilience"
+    ],
+    "correct_answer_text": "It suggests a permanent alteration of the ecosystem"
+  },
+  {
+    "question_number": 69,
+    "question": "According to the provided text, what is a factor that influences the impact of a disturbance on an",
+    "options": [
+      "The size of the disturbance",
+      "The prior condition of the ecosystem",
+      "The frequency of disturbances",
+      "All of the above"
+    ],
+    "correct_answer_text": "All of the above"
+  }
+]

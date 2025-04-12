@@ -1,0 +1,772 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the primary focus of Module 11?",
+    "options": [
+      "Consumer choice",
+      "Asymmetric information",
+      "Valuation of natural resources",
+      "Practical issues in economics and conservation"
+    ],
+    "correct_answer_text": "Practical issues in economics and conservation"
+  },
+  {
+    "question_number": 2,
+    "question": "How many lectures are included in Module 11?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correct_answer_text": "Three"
+  },
+  {
+    "question_number": 3,
+    "question": "What is the eco-mark used to certify?",
+    "options": [
+      "Organic products",
+      "FSC certified forests",
+      "Sustainable products",
+      "BS6 compliant vehicles"
+    ],
+    "correct_answer_text": "Sustainable products"
+  },
+  {
+    "question_number": 4,
+    "question": "What does the 'India Organic' mark indicate?",
+    "options": [
+      "Sustainable manufacturing",
+      "FSC certified materials",
+      "Organic agriculture",
+      "BS6 vehicle standards"
+    ],
+    "correct_answer_text": "Organic agriculture"
+  },
+  {
+    "question_number": 5,
+    "question": "What is a concern regarding pesticides?",
+    "options": [
+      "They are unsustainable",
+      "They harm biodiversity",
+      "They are bioaccumulative toxins",
+      "They increase production costs"
+    ],
+    "correct_answer_text": "They are bioaccumulative toxins"
+  },
+  {
+    "question_number": 6,
+    "question": "What does the FSC mark certify?",
+    "options": [
+      "Organic products",
+      "Products from sustainably managed forests",
+      "Rainforest Alliance certified products",
+      "ISO 14000 environmental management"
+    ],
+    "correct_answer_text": "Products from sustainably managed forests"
+  },
+  {
+    "question_number": 8,
+    "question": "What does the 'FSC Recycled' label signify?",
+    "options": [
+      "100% FSC certified materials",
+      "Materials from FSC certified forests",
+      "Post-consumer material and possibly pre-consumer material",
+      "Only pre-consumer materials"
+    ],
+    "correct_answer_text": "Post-consumer material and possibly pre-consumer material"
+  },
+  {
+    "question_number": 9,
+    "question": "Which organization issues the FSC certification?",
+    "options": [
+      "Rainforest Alliance",
+      "ISO 14000",
+      "Forest Stewardship Council",
+      "India Organic"
+    ],
+    "correct_answer_text": "Forest Stewardship Council"
+  },
+  {
+    "question_number": 10,
+    "question": "What does the Rainforest Alliance label signify?",
+    "options": [
+      "Sustainable forestry",
+      "Environmental management",
+      "Protection of rainforest biodiversity",
+      "Organic agriculture"
+    ],
+    "correct_answer_text": "Protection of rainforest biodiversity"
+  },
+  {
+    "question_number": 11,
+    "question": "What does the ISO 14000 label represent?",
+    "options": [
+      "Sustainable forestry",
+      "Organic agriculture",
+      "Environmental management",
+      "Rainforest Alliance certification"
+    ],
+    "correct_answer_text": "Environmental management"
+  },
+  {
+    "question_number": 12,
+    "question": "Which company is mentioned as using 100% renewable energy in its offices, retail locations, and",
+    "options": [
+      "Maruti Suzuki",
+      "Tetra Pak",
+      "Apple",
+      "Tata"
+    ],
+    "correct_answer_text": "Apple"
+  },
+  {
+    "question_number": 13,
+    "question": "What does Tetra Pak highlight regarding its paperboard?",
+    "options": [
+      "It's 100% recycled",
+      "It's from FSC certified forests and other controlled sources",
+      "It's organic",
+      "It's BS6 compliant"
+    ],
+    "correct_answer_text": "It's from FSC certified forests and other controlled sources"
+  },
+  {
+    "question_number": 14,
+    "question": "What does BS6 stand for?",
+    "options": [
+      "Bharat Standard 6",
+      "Bio Standard 6",
+      "Forest Stewardship Council",
+      "India Organic Standard"
+    ],
+    "correct_answer_text": "Bharat Standard 6"
+  },
+  {
+    "question_number": 15,
+    "question": "What is the main question raised regarding environmental standards and company claims?",
+    "options": [
+      "Are standards sufficient?",
+      "Are companies truthful?",
+      "Is consumer choice effective?",
+      "Are prices accurate?"
+    ],
+    "correct_answer_text": "Are standards sufficient?"
+  },
+  {
+    "question_number": 16,
+    "question": "What is a potential drawback of environmentally friendly practices?",
+    "options": [
+      "Reduced consumer demand",
+      "Increased production costs",
+      "Negative publicity",
+      "Lower quality products"
+    ],
+    "correct_answer_text": "Increased production costs"
+  },
+  {
+    "question_number": 17,
+    "question": "What is mentioned as a cheaper alternative to sustainably managed forests?",
+    "options": [
+      "Recycled materials",
+      "Unsustainably managed forests",
+      "Organic farms",
+      "Imported timber"
+    ],
+    "correct_answer_text": "Unsustainably managed forests"
+  },
+  {
+    "question_number": 18,
+    "question": "What is a potential consequence of buying a BS4 car?",
+    "options": [
+      "Higher running costs",
+      "Lower resale value",
+      "Increased pollution",
+      "Reduced fuel efficiency"
+    ],
+    "correct_answer_text": "Increased pollution"
+  },
+  {
+    "question_number": 19,
+    "question": "What is the core dilemma faced by consumers regarding sustainability?",
+    "options": [
+      "Cost vs. quality",
+      "Brand loyalty vs. value",
+      "Convenience vs. ethics",
+      "Cost vs. sustainability"
+    ],
+    "correct_answer_text": "Cost vs. sustainability"
+  },
+  {
+    "question_number": 20,
+    "question": "What does sustainability primarily entail?",
+    "options": [
+      "Short-term resource use",
+      "Long-term resource management",
+      "Economic growth",
+      "Technological advancement"
+    ],
+    "correct_answer_text": "Long-term resource management"
+  },
+  {
+    "question_number": 21,
+    "question": "What is a budget constraint?",
+    "options": [
+      "A limit on consumer income",
+      "A limit on consumer wants",
+      "A limit on consumption bundles a consumer can afford",
+      "A limit on production capacity"
+    ],
+    "correct_answer_text": "A limit on consumption bundles a consumer can afford"
+  },
+  {
+    "question_number": 22,
+    "question": "Why is decision-making crucial in economics?",
+    "options": [
+      "Unlimited wants and limited resources",
+      "Competition between producers",
+      "Government regulations",
+      "Technological progress"
+    ],
+    "correct_answer_text": "Unlimited wants and limited resources"
+  },
+  {
+    "question_number": 23,
+    "question": "In the samosa and lassi example, what is the budget constraint?",
+    "options": [
+      "20 samosas",
+      "10 glasses of lassi",
+      "100 rupees",
+      "18 samosas and 1 lassi"
+    ],
+    "correct_answer_text": "100 rupees"
+  },
+  {
+    "question_number": 24,
+    "question": "What is an indifference curve?",
+    "options": [
+      "A curve showing different prices",
+      "A curve showing different quantities",
+      "A curve showing consumption bundles that provide equal satisfaction",
+      "A curve showing production possibilities"
+    ],
+    "correct_answer_text": "A curve showing consumption bundles that provide equal satisfaction"
+  },
+  {
+    "question_number": 25,
+    "question": "What does the marginal rate of substitution represent?",
+    "options": [
+      "The rate at which a consumer is willing to trade one good for another",
+      "The change in price of a good",
+      "The change in quantity demanded",
+      "The rate of technological progress"
+    ],
+    "correct_answer_text": "The rate at which a consumer is willing to trade one good for another"
+  },
+  {
+    "question_number": 26,
+    "question": "What is the law of diminishing marginal returns?",
+    "options": [
+      "Decreasing returns on investment",
+      "Decreasing marginal product with increasing input",
+      "Increasing marginal utility",
+      "Increasing opportunity cost"
+    ],
+    "correct_answer_text": "Decreasing marginal product with increasing input"
+  },
+  {
+    "question_number": 27,
+    "question": "Which statement about indifference curves is true?",
+    "options": [
+      "Higher curves indicate less satisfaction",
+      "Indifference curves cross",
+      "Indifference curves are upward sloping",
+      "Higher curves are preferred to lower ones"
+    ],
+    "correct_answer_text": "Higher curves are preferred to lower ones"
+  },
+  {
+    "question_number": 28,
+    "question": "Why do indifference curves not cross?",
+    "options": [
+      "It would violate the assumption of more is always better",
+      "It would be illogical mathematically",
+      "It would imply that less of both goods gives the same satisfaction as more",
+      "It would contradict the law of diminishing marginal returns"
+    ],
+    "correct_answer_text": "It would imply that less of both goods gives the same satisfaction as more"
+  },
+  {
+    "question_number": 29,
+    "question": "What is a characteristic of indifference curves for perfect substitutes?",
+    "options": [
+      "Bowed inwards",
+      "Right-angled",
+      "Straight lines",
+      "Circular"
+    ],
+    "correct_answer_text": "Straight lines"
+  },
+  {
+    "question_number": 30,
+    "question": "What is a characteristic of indifference curves for perfect complements?",
+    "options": [
+      "Straight lines",
+      "Right-angled",
+      "Bowed outwards",
+      "Circular"
+    ],
+    "correct_answer_text": "Right-angled"
+  },
+  {
+    "question_number": 31,
+    "question": "What determines the consumer's optimum?",
+    "options": [
+      "The lowest indifference curve",
+      "The point where marginal cost equals marginal benefit",
+      "The highest indifference curve that touches the budget constraint",
+      "The point where supply equals demand"
+    ],
+    "correct_answer_text": "The highest indifference curve that touches the budget constraint"
+  },
+  {
+    "question_number": 32,
+    "question": "What is a normal good?",
+    "options": [
+      "A good whose demand decreases with income",
+      "A good whose demand increases with income",
+      "A good whose price is always high",
+      "A good whose price is always low"
+    ],
+    "correct_answer_text": "A good whose demand increases with income"
+  },
+  {
+    "question_number": 33,
+    "question": "What is an inferior good?",
+    "options": [
+      "A good whose demand increases with income",
+      "A good whose demand decreases with income",
+      "A good with a high price",
+      "A good with a low price"
+    ],
+    "correct_answer_text": "A good whose demand decreases with income"
+  },
+  {
+    "question_number": 34,
+    "question": "What is the income effect?",
+    "options": [
+      "A change in consumption due to a price change",
+      "A change in consumption due to a change in income",
+      "A change in consumption due to a change in taste",
+      "A change in consumption due to advertising"
+    ],
+    "correct_answer_text": "A change in consumption due to a change in income"
+  },
+  {
+    "question_number": 36,
+    "question": "What is the law of demand?",
+    "options": [
+      "Price increase leads to quantity demanded increase",
+      "Price decrease leads to quantity demanded increase",
+      "Price increase leads to quantity supplied decrease",
+      "Price decrease leads to quantity supplied decrease"
+    ],
+    "correct_answer_text": "Price decrease leads to quantity demanded increase"
+  },
+  {
+    "question_number": 37,
+    "question": "What are Veblen goods?",
+    "options": [
+      "Goods whose demand increases with price",
+      "Goods whose demand decreases with price",
+      "Goods with constant demand",
+      "Goods with inelastic demand"
+    ],
+    "correct_answer_text": "Goods whose demand increases with price"
+  },
+  {
+    "question_number": 38,
+    "question": "What are Giffen goods?",
+    "options": [
+      "Luxury goods",
+      "Normal goods",
+      "Inferior goods whose demand increases with price",
+      "Goods with perfectly elastic demand"
+    ],
+    "correct_answer_text": "Inferior goods whose demand increases with price"
+  },
+  {
+    "question_number": 39,
+    "question": "What is a key assumption in consumer choice theory?",
+    "options": [
+      "Consumers are irrational",
+      "Consumers have unlimited resources",
+      "Consumers maximize utility",
+      "Consumers have complete ignorance of preferences"
+    ],
+    "correct_answer_text": "Consumers maximize utility"
+  },
+  {
+    "question_number": 40,
+    "question": "What is behavioral economics?",
+    "options": [
+      "Study of consumer behavior only",
+      "Study of firm behavior only",
+      "Study of consumer behavior integrated with psychology",
+      "Study of market mechanisms only"
+    ],
+    "correct_answer_text": "Study of consumer behavior integrated with psychology"
+  },
+  {
+    "question_number": 42,
+    "question": "What is asymmetric information?",
+    "options": [
+      "Equal access to relevant information",
+      "Unequal access to relevant information",
+      "Complete lack of information",
+      "Irrelevant information"
+    ],
+    "correct_answer_text": "Unequal access to relevant information"
+  },
+  {
+    "question_number": 43,
+    "question": "What is adverse selection?",
+    "options": [
+      "The risk of buying low-quality goods due to information asymmetry",
+      "The risk of selling low-quality goods",
+      "A market failure due to high transaction costs",
+      "A type of moral hazard"
+    ],
+    "correct_answer_text": "The risk of buying low-quality goods due to information asymmetry"
+  },
+  {
+    "question_number": 44,
+    "question": "What is signalling?",
+    "options": [
+      "Action by uninformed party",
+      "Action by informed party to reveal private information",
+      "Action to hide information",
+      "A form of market regulation"
+    ],
+    "correct_answer_text": "Action by informed party to reveal private information"
+  },
+  {
+    "question_number": 45,
+    "question": "What is screening?",
+    "options": [
+      "Action by informed party",
+      "Action by uninformed party to induce information",
+      "Action to hide information",
+      "A market equilibrium"
+    ],
+    "correct_answer_text": "Action by uninformed party to induce information"
+  },
+  {
+    "question_number": 46,
+    "question": "What is a characteristic of a good signal?",
+    "options": [
+      "Easy to fake",
+      "Cheap to produce",
+      "Costly to prevent rampant usage",
+      "Unrelated to quality"
+    ],
+    "correct_answer_text": "Costly to prevent rampant usage"
+  },
+  {
+    "question_number": 47,
+    "question": "What is a key insight from psychology incorporated into behavioral economics?",
+    "options": [
+      "Consumers always maximize utility",
+      "Consumers have complete information",
+      "Consumers are always rational",
+      "Consumers are not always rational"
+    ],
+    "correct_answer_text": "Consumers are not always rational"
+  },
+  {
+    "question_number": 48,
+    "question": "What is 'good enough' decision-making?",
+    "options": [
+      "Maximizing utility",
+      "Satisficing",
+      "Always choosing the best option",
+      "Ignoring all information"
+    ],
+    "correct_answer_text": "Satisficing"
+  },
+  {
+    "question_number": 49,
+    "question": "What is overconfidence?",
+    "options": [
+      "Accurate self-assessment",
+      "Underestimating one's abilities",
+      "Overestimating one's abilities",
+      "Lack of self-awareness"
+    ],
+    "correct_answer_text": "Overestimating one's abilities"
+  },
+  {
+    "question_number": 50,
+    "question": "What is an affect heuristic?",
+    "options": [
+      "Decision making based on logic",
+      "Decision making based on emotion",
+      "Decision making based on statistical data",
+      "Decision making based on past experience"
+    ],
+    "correct_answer_text": "Decision making based on emotion"
+  },
+  {
+    "question_number": 51,
+    "question": "What is an availability heuristic?",
+    "options": [
+      "Decision based on easily recalled information",
+      "Decision based on irrelevant information",
+      "Decision based on statistical analysis",
+      "Decision based on future predictions"
+    ],
+    "correct_answer_text": "Decision based on easily recalled information"
+  },
+  {
+    "question_number": 52,
+    "question": "What is an effort heuristic?",
+    "options": [
+      "Valuing things based on effort expended",
+      "Valuing things based on cost",
+      "Valuing things based on appearance",
+      "Valuing things based on rarity"
+    ],
+    "correct_answer_text": "Valuing things based on effort expended"
+  },
+  {
+    "question_number": 53,
+    "question": "What is escalation of commitment?",
+    "options": [
+      "Reducing investment in a decision",
+      "Justifying further investment due to prior investment",
+      "Making rational decisions",
+      "Ignoring sunk costs"
+    ],
+    "correct_answer_text": "Justifying further investment due to prior investment"
+  },
+  {
+    "question_number": 54,
+    "question": "What is a familiarity heuristic?",
+    "options": [
+      "Preferring the unknown",
+      "Preferring familiarity",
+      "Avoiding risk",
+      "Seeking novelty"
+    ],
+    "correct_answer_text": "Preferring familiarity"
+  },
+  {
+    "question_number": 55,
+    "question": "What is a cognitive bias?",
+    "options": [
+      "Rational decision-making",
+      "Systematic deviation from rationality",
+      "Perfect information processing",
+      "Unbiased judgment"
+    ],
+    "correct_answer_text": "Systematic deviation from rationality"
+  },
+  {
+    "question_number": 56,
+    "question": "What is confirmation bias?",
+    "options": [
+      "Ignoring information confirming existing beliefs",
+      "Favoring information confirming existing beliefs",
+      "Seeking new information",
+      "Being open-minded"
+    ],
+    "correct_answer_text": "Favoring information confirming existing beliefs"
+  },
+  {
+    "question_number": 57,
+    "question": "What is the halo effect?",
+    "options": [
+      "Negative influence on opinion",
+      "Positive influence on opinion across areas",
+      "Lack of influence",
+      "Ignoring all information"
+    ],
+    "correct_answer_text": "Positive influence on opinion across areas"
+  },
+  {
+    "question_number": 58,
+    "question": "What is the horn effect?",
+    "options": [
+      "Positive influence on opinion",
+      "Negative influence on opinion across areas",
+      "Ignoring all information",
+      "Making rational decisions"
+    ],
+    "correct_answer_text": "Negative influence on opinion across areas"
+  },
+  {
+    "question_number": 59,
+    "question": "What is fundamental attribution error?",
+    "options": [
+      "Attributing success to oneself and failure to others",
+      "Attributing success and failure to external factors",
+      "Attributing success to external factors and failure to oneself",
+      "Differentiating situational and innate attributions for self and others"
+    ],
+    "correct_answer_text": "Differentiating situational and innate attributions for self and others"
+  },
+  {
+    "question_number": 60,
+    "question": "What is priming?",
+    "options": [
+      "Ignoring stimuli",
+      "Exposure to one stimulus influencing response to another",
+      "Making rational decisions",
+      "Being open-minded"
+    ],
+    "correct_answer_text": "Exposure to one stimulus influencing response to another"
+  },
+  {
+    "question_number": 61,
+    "question": "What is affinity bias?",
+    "options": [
+      "Bias against people like oneself",
+      "Bias towards people unlike oneself",
+      "Bias towards people like oneself",
+      "Lack of bias"
+    ],
+    "correct_answer_text": "Bias towards people like oneself"
+  },
+  {
+    "question_number": 62,
+    "question": "What is self-serving bias?",
+    "options": [
+      "Taking responsibility for failures",
+      "Avoiding responsibility for success",
+      "Taking more responsibility for success than failure",
+      "Being objective in assessment"
+    ],
+    "correct_answer_text": "Taking more responsibility for success than failure"
+  },
+  {
+    "question_number": 63,
+    "question": "What is the framing effect?",
+    "options": [
+      "Making objective decisions",
+      "Decision based on presentation",
+      "Ignoring presentation",
+      "Making rational decisions"
+    ],
+    "correct_answer_text": "Decision based on presentation"
+  },
+  {
+    "question_number": 64,
+    "question": "What is hindsight bias?",
+    "options": [
+      "Overestimating past predictability",
+      "Underestimating past predictability",
+      "Accurate prediction",
+      "Ignoring past events"
+    ],
+    "correct_answer_text": "Overestimating past predictability"
+  },
+  {
+    "question_number": 65,
+    "question": "What is gambler's fallacy?",
+    "options": [
+      "Accurate probability assessment",
+      "Misjudging probability of future events",
+      "Ignoring past events",
+      "Making rational decisions"
+    ],
+    "correct_answer_text": "Misjudging probability of future events"
+  },
+  {
+    "question_number": 66,
+    "question": "What is optimism bias?",
+    "options": [
+      "Overestimating negative outcomes",
+      "Underestimating negative outcomes",
+      "Accurate risk assessment",
+      "Ignoring risk"
+    ],
+    "correct_answer_text": "Underestimating negative outcomes"
+  },
+  {
+    "question_number": 67,
+    "question": "What is herd mentality?",
+    "options": [
+      "Independent decision-making",
+      "Following the crowd",
+      "Making rational decisions",
+      "Avoiding risk"
+    ],
+    "correct_answer_text": "Following the crowd"
+  },
+  {
+    "question_number": 68,
+    "question": "What are biotic resources?",
+    "options": [
+      "Resources from non-living matter",
+      "Resources from living matter",
+      "Man-made resources",
+      "Fossil fuels"
+    ],
+    "correct_answer_text": "Resources from living matter"
+  },
+  {
+    "question_number": 69,
+    "question": "What are abiotic resources?",
+    "options": [
+      "Resources from living matter",
+      "Resources from non-living matter",
+      "Man-made resources",
+      "Renewable resources"
+    ],
+    "correct_answer_text": "Resources from non-living matter"
+  },
+  {
+    "question_number": 70,
+    "question": "What are potential resources?",
+    "options": [
+      "Currently used resources",
+      "Resources that may be used in the future",
+      "Resources that are exhausted",
+      "Resources that are non-renewable"
+    ],
+    "correct_answer_text": "Resources that may be used in the future"
+  },
+  {
+    "question_number": 71,
+    "question": "What are actual resources?",
+    "options": [
+      "Resources that may be used in the future",
+      "Currently used resources",
+      "Resources that are exhausted",
+      "Resources that are non-renewable"
+    ],
+    "correct_answer_text": "Currently used resources"
+  },
+  {
+    "question_number": 72,
+    "question": "What are reserve resources?",
+    "options": [
+      "Part of actual resources that can be profitably developed in the future",
+      "Resources that cannot be used",
+      "Resources that are currently being used",
+      "Resources that are already exhausted"
+    ],
+    "correct_answer_text": "Part of actual resources that can be profitably developed in the future"
+  },
+  {
+    "question_number": 73,
+    "question": "What are stock resources?",
+    "options": [
+      "Resources that have been surveyed but cannot be used profitably",
+      "Resources that are already exhausted",
+      "Resources that are currently being used",
+      "Resources that have been surveyed, but lack the technology for use"
+    ],
+    "correct_answer_text": "Resources that have been surveyed, but lack the technology for use"
+  }
+]

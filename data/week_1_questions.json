@@ -1,0 +1,1102 @@
+[
+  {
+    "question_number": 1,
+    "question": "Who is the instructor of the Conservation Economics course?",
+    "options": [
+      "An unknown professor",
+      "Dr. Ankur Awadhiya, IFS",
+      "A student of IIT Kanpur",
+      "A member of the Department of Biotechnology"
+    ],
+    "correct_answer_text": "Dr. Ankur Awadhiya, IFS"
+  },
+  {
+    "question_number": 2,
+    "question": "What is the primary goal of the Conservation Economics course?",
+    "options": [
+      "To teach only economics principles",
+      "To solely focus on conservation techniques",
+      "To understand the interlink between conservation and economics",
+      "To explore only funding for conservation"
+    ],
+    "correct_answer_text": "To understand the interlink between conservation and economics"
+  },
+  {
+    "question_number": 3,
+    "question": "What is the course structure?",
+    "options": [
+      "A single lecture",
+      "One module with a single lecture",
+      "Several modules, each with 3-4 lectures",
+      "A continuous stream of lectures"
+    ],
+    "correct_answer_text": "Several modules, each with 3-4 lectures"
+  },
+  {
+    "question_number": 4,
+    "question": "What does the word 'conservation' mean etymologically?",
+    "options": [
+      "To protect wildlife only",
+      "To manage scarce resources",
+      "To keep together",
+      "To destroy the environment"
+    ],
+    "correct_answer_text": "To keep together"
+  },
+  {
+    "question_number": 5,
+    "question": "Why are tigers important for forest conservation?",
+    "options": [
+      "Because of human affection for tigers",
+      "Because tigers are ferocious animals",
+      "Because tigers protect forests by controlling herbivore populations",
+      "Because tigers are loved by humans throughout history"
+    ],
+    "correct_answer_text": "Because tigers protect forests by controlling herbivore populations"
+  },
+  {
+    "question_number": 6,
+    "question": "What is the role of herbivores in forest ecosystems?",
+    "options": [
+      "They only deplete young plants",
+      "They have no significant role",
+      "They aid in seed dispersal and germination",
+      "They cause forest fires and diseases"
+    ],
+    "correct_answer_text": "They aid in seed dispersal and germination"
+  },
+  {
+    "question_number": 7,
+    "question": "What is a potential drawback of human intervention to control herbivore populations?",
+    "options": [
+      "It promotes forest growth",
+      "It always leads to sustainable outcomes",
+      "It often leads to the killing of the healthiest animals",
+      "It is always a cost-effective solution"
+    ],
+    "correct_answer_text": "It often leads to the killing of the healthiest animals"
+  },
+  {
+    "question_number": 8,
+    "question": "Where are many new disease cures often found?",
+    "options": [
+      "In agricultural monocultures",
+      "From synthetic chemicals only",
+      "From different plants found in forests",
+      "Exclusively from tiger parts"
+    ],
+    "correct_answer_text": "From different plants found in forests"
+  },
+  {
+    "question_number": 9,
+    "question": "What is the etymological meaning of 'Economics'?",
+    "options": [
+      "The study of money",
+      "The study of markets",
+      "The study of how to manage a household",
+      "The study of government policies"
+    ],
+    "correct_answer_text": "The study of how to manage a household"
+  },
+  {
+    "question_number": 10,
+    "question": "What is a key element that creates the need for economic decisions?",
+    "options": [
+      "Unlimited resources",
+      "Abundant resources",
+      "Scarcity of resources",
+      "Lack of wants"
+    ],
+    "correct_answer_text": "Scarcity of resources"
+  },
+  {
+    "question_number": 11,
+    "question": "What are externalities in economics?",
+    "options": [
+      "Benefits to factory owners only",
+      "Costs incurred by the factory owners",
+      "Impacts of one person's actions on others' welfare",
+      "Benefits solely to the environment"
+    ],
+    "correct_answer_text": "Impacts of one person's actions on others' welfare"
+  },
+  {
+    "question_number": 12,
+    "question": "What is an example of a negative externality mentioned in the text?",
+    "options": [
+      "Factory providing jobs",
+      "Clean air and water",
+      "Noise and pollution from a factory",
+      "Increased tiger population"
+    ],
+    "correct_answer_text": "Noise and pollution from a factory"
+  },
+  {
+    "question_number": 13,
+    "question": "What is the Coase theorem related to?",
+    "options": [
+      "Promoting pollution",
+      "Ignoring externalities",
+      "Solving the problem of externalities",
+      "Increasing factory profits"
+    ],
+    "correct_answer_text": "Solving the problem of externalities"
+  },
+  {
+    "question_number": 14,
+    "question": "What is an example of an economic decision leading to ecosystem collapse?",
+    "options": [
+      "Sustainable fishing practices",
+      "Protecting forests",
+      "Overharvesting of whales",
+      "Planting trees"
+    ],
+    "correct_answer_text": "Overharvesting of whales"
+  },
+  {
+    "question_number": 15,
+    "question": "Why is conservation important for economic well-being?",
+    "options": [
+      "It solely benefits wildlife",
+      "It doesn't impact economic well-being",
+      "It provides essential resources and services at a cheaper cost",
+      "It increases the cost of amenities"
+    ],
+    "correct_answer_text": "It provides essential resources and services at a cheaper cost"
+  },
+  {
+    "question_number": 16,
+    "question": "What is the anthropocene?",
+    "options": [
+      "The age of dinosaurs",
+      "The age of human beings",
+      "The ice age",
+      "The age of tigers"
+    ],
+    "correct_answer_text": "The age of human beings"
+  },
+  {
+    "question_number": 17,
+    "question": "What is sustainable development?",
+    "options": [
+      "Using resources for short-term benefits only",
+      "Exploiting all resources immediately",
+      "Meeting present needs without compromising future needs",
+      "Ignoring the needs of future generations"
+    ],
+    "correct_answer_text": "Meeting present needs without compromising future needs"
+  },
+  {
+    "question_number": 18,
+    "question": "What is an example of unsustainable development?",
+    "options": [
+      "Planting trees",
+      "Conserving water",
+      "Killing a goose that lays golden eggs for all its eggs",
+      "Investing in renewable energy"
+    ],
+    "correct_answer_text": "Killing a goose that lays golden eggs for all its eggs"
+  },
+  {
+    "question_number": 19,
+    "question": "What are some modern impacts necessitating conservation?",
+    "options": [
+      "Increased tiger population",
+      "Abundant rainfall",
+      "Climate change, plastics, and oil spills",
+      "Decreased human population"
+    ],
+    "correct_answer_text": "Climate change, plastics, and oil spills"
+  },
+  {
+    "question_number": 20,
+    "question": "What are push and pull factors in relation to wildlife?",
+    "options": [
+      "Factors unrelated to conservation",
+      "Factors determining species extinction",
+      "Factors determining species migration and survival",
+      "Factors promoting species growth"
+    ],
+    "correct_answer_text": "Factors determining species migration and survival"
+  },
+  {
+    "question_number": 21,
+    "question": "What is ecotoxicology concerned with?",
+    "options": [
+      "The benefits of toxins",
+      "The positive impacts of development",
+      "The negative impacts of toxins on ecosystems",
+      "The growth of plants"
+    ],
+    "correct_answer_text": "The negative impacts of toxins on ecosystems"
+  },
+  {
+    "question_number": 22,
+    "question": "What is a key aspect of understanding Economics for effective conservation?",
+    "options": [
+      "Ignoring economic decisions",
+      "Understanding only conservation methods",
+      "Understanding how economic decisions are made",
+      "Focusing on only profits"
+    ],
+    "correct_answer_text": "Understanding how economic decisions are made"
+  },
+  {
+    "question_number": 23,
+    "question": "What is a factor influencing market outcomes?",
+    "options": [
+      "Only consumer preferences",
+      "Only producer decisions",
+      "Government policies",
+      "Lack of regulation"
+    ],
+    "correct_answer_text": "Government policies"
+  },
+  {
+    "question_number": 24,
+    "question": "What are externalities related to?",
+    "options": [
+      "Only individual well-being",
+      "Only environmental impact",
+      "Impacts on the welfare of bystanders",
+      "Only economic profits"
+    ],
+    "correct_answer_text": "Impacts on the welfare of bystanders"
+  },
+  {
+    "question_number": 25,
+    "question": "What is a key consideration in industrial organization and conservation?",
+    "options": [
+      "Ignoring cost-cutting measures",
+      "Promoting only profits",
+      "Understanding cost-cutting measures and their impact",
+      "Ignoring competition"
+    ],
+    "correct_answer_text": "Understanding cost-cutting measures and their impact"
+  },
+  {
+    "question_number": 26,
+    "question": "What is a factor that can lead to environmental pressure?",
+    "options": [
+      "High productivity of people",
+      "High income levels",
+      "Poverty and low productivity",
+      "Abundant resources"
+    ],
+    "correct_answer_text": "Poverty and low productivity"
+  },
+  {
+    "question_number": 27,
+    "question": "What is behavioural economics concerned with?",
+    "options": [
+      "Only rational decision making",
+      "Only market dynamics",
+      "The role of psychology in economic decisions",
+      "Ignoring human behaviour"
+    ],
+    "correct_answer_text": "The role of psychology in economic decisions"
+  },
+  {
+    "question_number": 28,
+    "question": "What is opportunity cost?",
+    "options": [
+      "The explicit cost of a good",
+      "The cost of producing something",
+      "The next best alternative forgone",
+      "The profit from a decision"
+    ],
+    "correct_answer_text": "The next best alternative forgone"
+  },
+  {
+    "question_number": 29,
+    "question": "What is a trade-off?",
+    "options": [
+      "Getting everything you want",
+      "Unlimited resources",
+      "Giving up something to get something else",
+      "Having no limitations"
+    ],
+    "correct_answer_text": "Giving up something to get something else"
+  },
+  {
+    "question_number": 30,
+    "question": "What is an example of a trade-off at the societal level?",
+    "options": [
+      "Choosing between ice cream and chocolates",
+      "Deciding between guns and butter",
+      "Deciding what to eat for dinner",
+      "Choosing what clothes to wear"
+    ],
+    "correct_answer_text": "Deciding between guns and butter"
+  },
+  {
+    "question_number": 31,
+    "question": "What is a production possibility frontier?",
+    "options": [
+      "A line showing unlimited production possibilities",
+      "A line showing the maximum possible output",
+      "A map of a country",
+      "A graph of consumer preferences"
+    ],
+    "correct_answer_text": "A line showing the maximum possible output"
+  },
+  {
+    "question_number": 32,
+    "question": "What is the difference between efficiency and equality?",
+    "options": [
+      "They are always equal",
+      "They are unrelated concepts",
+      "Efficiency is maximizing output, equality is uniform distribution of wealth",
+      "Efficiency is always prioritized over equality"
+    ],
+    "correct_answer_text": "Efficiency is maximizing output, equality is uniform distribution of wealth"
+  },
+  {
+    "question_number": 33,
+    "question": "What is explicit cost?",
+    "options": [
+      "A cost that requires an outlay of money",
+      "A cost that does not require an outlay of money",
+      "An opportunity cost",
+      "A hidden cost"
+    ],
+    "correct_answer_text": "A cost that requires an outlay of money"
+  },
+  {
+    "question_number": 34,
+    "question": "What is implicit cost?",
+    "options": [
+      "A cost that requires an outlay of money",
+      "A cost that does not require an outlay of money",
+      "An opportunity cost",
+      "An explicit cost"
+    ],
+    "correct_answer_text": "A cost that does not require an outlay of money"
+  },
+  {
+    "question_number": 35,
+    "question": "What does it mean to think at the margin?",
+    "options": [
+      "Thinking about long-term effects only",
+      "Considering only large changes",
+      "Considering small incremental adjustments",
+      "Ignoring trade-offs"
+    ],
+    "correct_answer_text": "Considering small incremental adjustments"
+  },
+  {
+    "question_number": 36,
+    "question": "What is an example of thinking at the margin for an airline?",
+    "options": [
+      "Refusing to sell a seat below average price",
+      "Considering the marginal cost of adding one more passenger",
+      "Ignoring the cost of additional fuel",
+      "Selling tickets at a fixed price"
+    ],
+    "correct_answer_text": "Considering the marginal cost of adding one more passenger"
+  },
+  {
+    "question_number": 37,
+    "question": "Why do people face tradeoffs?",
+    "options": [
+      "Unlimited resources",
+      "Abundant resources",
+      "Scarcity of resources",
+      "Lack of wants"
+    ],
+    "correct_answer_text": "Scarcity of resources"
+  },
+  {
+    "question_number": 38,
+    "question": "What is the definition of cost?",
+    "options": [
+      "Something you gain",
+      "Something you give up to get something else",
+      "The profit you make",
+      "Something that is free"
+    ],
+    "correct_answer_text": "Something you give up to get something else"
+  },
+  {
+    "question_number": 39,
+    "question": "What are incentives?",
+    "options": [
+      "Things that do not influence behavior",
+      "Things that influence people to act",
+      "Things that have no impact",
+      "Things that are not rewards or punishments"
+    ],
+    "correct_answer_text": "Things that influence people to act"
+  },
+  {
+    "question_number": 40,
+    "question": "What is a type of incentive mentioned in the text?",
+    "options": [
+      "Ignoring market prices",
+      "Subsidies",
+      "Not responding to market signals",
+      "Ignoring government regulations"
+    ],
+    "correct_answer_text": "Subsidies"
+  },
+  {
+    "question_number": 41,
+    "question": "How do prices act as incentives?",
+    "options": [
+      "They have no impact on behavior",
+      "They influence both consumer and producer behavior",
+      "They only affect consumers",
+      "They only affect producers"
+    ],
+    "correct_answer_text": "They influence both consumer and producer behavior"
+  },
+  {
+    "question_number": 42,
+    "question": "What is one way trade can benefit everyone?",
+    "options": [
+      "It limits specialization",
+      "It reduces overall production",
+      "It allows specialization and increased efficiency",
+      "It only benefits producers"
+    ],
+    "correct_answer_text": "It allows specialization and increased efficiency"
+  },
+  {
+    "question_number": 43,
+    "question": "What is comparative advantage?",
+    "options": [
+      "Producing at a higher cost",
+      "Producing at the same cost",
+      "Producing at a lower opportunity cost",
+      "Not being able to produce"
+    ],
+    "correct_answer_text": "Producing at a lower opportunity cost"
+  },
+  {
+    "question_number": 44,
+    "question": "How does specialization increase efficiency?",
+    "options": [
+      "It reduces overall output",
+      "It uses resources more effectively",
+      "It does not affect efficiency",
+      "It increases opportunity cost"
+    ],
+    "correct_answer_text": "It uses resources more effectively"
+  },
+  {
+    "question_number": 45,
+    "question": "What is a market economy?",
+    "options": [
+      "An economy with a central planner",
+      "An economy that allocates resources through decentralized decisions",
+      "An economy with no interaction",
+      "An economy with only one producer"
+    ],
+    "correct_answer_text": "An economy that allocates resources through decentralized decisions"
+  },
+  {
+    "question_number": 46,
+    "question": "What guides decisions in a market economy?",
+    "options": [
+      "Benevolence only",
+      "Government control",
+      "Prices and self-interest",
+      "Random chance"
+    ],
+    "correct_answer_text": "Prices and self-interest"
+  },
+  {
+    "question_number": 47,
+    "question": "What does the 'invisible hand' refer to in a market economy?",
+    "options": [
+      "Government intervention",
+      "Central planning",
+      "Self-regulating market forces",
+      "Lack of regulation"
+    ],
+    "correct_answer_text": "Self-regulating market forces"
+  },
+  {
+    "question_number": 48,
+    "question": "What does the first principle of economics state?",
+    "options": [
+      "People always get what they want",
+      "People have unlimited resources",
+      "People face trade-offs",
+      "People ignore costs"
+    ],
+    "correct_answer_text": "People face trade-offs"
+  },
+  {
+    "question_number": 49,
+    "question": "What is the definition of cost in economics?",
+    "options": [
+      "What you gain",
+      "What you give up to get something",
+      "The profit from a deal",
+      "A monetary expense only"
+    ],
+    "correct_answer_text": "What you give up to get something"
+  },
+  {
+    "question_number": 50,
+    "question": "What does it mean to think at the margin?",
+    "options": [
+      "Making large decisions only",
+      "Ignoring small changes",
+      "Considering small incremental changes",
+      "Not making decisions"
+    ],
+    "correct_answer_text": "Considering small incremental changes"
+  },
+  {
+    "question_number": 51,
+    "question": "What is an incentive?",
+    "options": [
+      "Something that has no impact",
+      "Something that encourages or discourages action",
+      "A random event",
+      "Something that is always positive"
+    ],
+    "correct_answer_text": "Something that encourages or discourages action"
+  },
+  {
+    "question_number": 52,
+    "question": "What is an example of an incentive used by governments?",
+    "options": [
+      "Ignoring taxes",
+      "Taxation on cigarettes",
+      "Not regulating markets",
+      "Not providing subsidies"
+    ],
+    "correct_answer_text": "Taxation on cigarettes"
+  },
+  {
+    "question_number": 53,
+    "question": "How does trade generally affect economic well-being?",
+    "options": [
+      "It always harms everyone",
+      "It only helps producers",
+      "It makes everyone better off",
+      "It has no significant impact"
+    ],
+    "correct_answer_text": "It makes everyone better off"
+  },
+  {
+    "question_number": 54,
+    "question": "What is comparative advantage based on?",
+    "options": [
+      "Highest production cost",
+      "Equal opportunity cost",
+      "Lower opportunity cost",
+      "Ignoring opportunity cost"
+    ],
+    "correct_answer_text": "Lower opportunity cost"
+  },
+  {
+    "question_number": 55,
+    "question": "How does specialization affect efficiency?",
+    "options": [
+      "It reduces efficiency",
+      "It has no impact on efficiency",
+      "It increases efficiency",
+      "It is not related to efficiency"
+    ],
+    "correct_answer_text": "It increases efficiency"
+  },
+  {
+    "question_number": 56,
+    "question": "What characterizes a market economy?",
+    "options": [
+      "Centralized planning",
+      "Decentralized decision-making",
+      "No interaction between firms",
+      "Only one producer"
+    ],
+    "correct_answer_text": "Decentralized decision-making"
+  },
+  {
+    "question_number": 57,
+    "question": "What guides decisions in a market economy?",
+    "options": [
+      "Only altruism",
+      "Government mandates",
+      "Prices and self-interest",
+      "Random factors"
+    ],
+    "correct_answer_text": "Prices and self-interest"
+  },
+  {
+    "question_number": 58,
+    "question": "What is the 'invisible hand' in economics?",
+    "options": [
+      "Government regulation",
+      "Central planning",
+      "Self-regulating market forces",
+      "Unforeseen consequences"
+    ],
+    "correct_answer_text": "Self-regulating market forces"
+  },
+  {
+    "question_number": 59,
+    "question": "What is the main idea behind the first principle of economics?",
+    "options": [
+      "Unlimited resources",
+      "Lack of choices",
+      "Trade-offs due to limited resources",
+      "No need for decisions"
+    ],
+    "correct_answer_text": "Trade-offs due to limited resources"
+  },
+  {
+    "question_number": 60,
+    "question": "What does 'cost' represent in economics?",
+    "options": [
+      "Only monetary expenses",
+      "What is gained",
+      "What is given up to obtain something",
+      "Something that is free"
+    ],
+    "correct_answer_text": "What is given up to obtain something"
+  },
+  {
+    "question_number": 61,
+    "question": "What does 'thinking at the margin' involve?",
+    "options": [
+      "Ignoring small changes",
+      "Considering only large-scale impacts",
+      "Analyzing small incremental changes",
+      "Making irrational decisions"
+    ],
+    "correct_answer_text": "Analyzing small incremental changes"
+  },
+  {
+    "question_number": 62,
+    "question": "What are incentives in economics?",
+    "options": [
+      "Factors with no impact on behavior",
+      "Factors that influence people's actions",
+      "Random events",
+      "Only positive rewards"
+    ],
+    "correct_answer_text": "Factors that influence people's actions"
+  },
+  {
+    "question_number": 63,
+    "question": "Give an example of a government-implemented incentive.",
+    "options": [
+      "Ignoring market signals",
+      "Subsidizing education",
+      "Not regulating pollution",
+      "Ignoring consumer needs"
+    ],
+    "correct_answer_text": "Subsidizing education"
+  },
+  {
+    "question_number": 64,
+    "question": "How does trade typically impact economic well-being?",
+    "options": [
+      "It always harms consumers",
+      "It only benefits producers",
+      "It improves overall economic well-being",
+      "It has no effect"
+    ],
+    "correct_answer_text": "It improves overall economic well-being"
+  },
+  {
+    "question_number": 65,
+    "question": "What is the basis of comparative advantage?",
+    "options": [
+      "High production costs",
+      "Equal opportunity costs",
+      "Lower opportunity costs",
+      "Ignoring opportunity costs"
+    ],
+    "correct_answer_text": "Lower opportunity costs"
+  },
+  {
+    "question_number": 66,
+    "question": "How does specialization relate to efficiency?",
+    "options": [
+      "It decreases efficiency",
+      "It has no impact on efficiency",
+      "It increases efficiency",
+      "It is unrelated to efficiency"
+    ],
+    "correct_answer_text": "It increases efficiency"
+  },
+  {
+    "question_number": 67,
+    "question": "What characterizes a market economy?",
+    "options": [
+      "Centralized control",
+      "Decentralized decision-making",
+      "Absence of interaction",
+      "Only one producer"
+    ],
+    "correct_answer_text": "Decentralized decision-making"
+  },
+  {
+    "question_number": 68,
+    "question": "What guides economic decisions in a market economy?",
+    "options": [
+      "Altruism only",
+      "Government regulations only",
+      "Prices and self-interest",
+      "Random factors only"
+    ],
+    "correct_answer_text": "Prices and self-interest"
+  },
+  {
+    "question_number": 69,
+    "question": "What is the 'invisible hand'?",
+    "options": [
+      "Government intervention",
+      "Central planning",
+      "Self-regulating market forces",
+      "Unpredictable outcomes"
+    ],
+    "correct_answer_text": "Self-regulating market forces"
+  },
+  {
+    "question_number": 70,
+    "question": "What is the core concept of the first principle of economics?",
+    "options": [
+      "Unlimited resources",
+      "Lack of choices",
+      "Trade-offs due to resource scarcity",
+      "No need for decisions"
+    ],
+    "correct_answer_text": "Trade-offs due to resource scarcity"
+  },
+  {
+    "question_number": 71,
+    "question": "What is the meaning of 'cost' in economics?",
+    "options": [
+      "Only monetary costs",
+      "What you gain",
+      "What you give up to get something",
+      "Something always free"
+    ],
+    "correct_answer_text": "What you give up to get something"
+  },
+  {
+    "question_number": 72,
+    "question": "What is 'thinking at the margin'?",
+    "options": [
+      "Ignoring minor changes",
+      "Focusing only on large-scale effects",
+      "Considering incremental changes",
+      "Making illogical choices"
+    ],
+    "correct_answer_text": "Considering incremental changes"
+  },
+  {
+    "question_number": 73,
+    "question": "What are 'incentives'?",
+    "options": [
+      "Factors that don't affect behavior",
+      "Factors that influence behavior",
+      "Random happenings",
+      "Only positive reinforcements"
+    ],
+    "correct_answer_text": "Factors that influence behavior"
+  },
+  {
+    "question_number": 74,
+    "question": "Provide an example of a government incentive.",
+    "options": [
+      "Ignoring market signals",
+      "Providing education subsidies",
+      "Deregulating industries",
+      "Ignoring consumer demands"
+    ],
+    "correct_answer_text": "Providing education subsidies"
+  },
+  {
+    "question_number": 75,
+    "question": "Generally, how does trade impact economic well-being?",
+    "options": [
+      "It harms consumers",
+      "It only benefits producers",
+      "It improves overall welfare",
+      "It has no effect"
+    ],
+    "correct_answer_text": "It improves overall welfare"
+  },
+  {
+    "question_number": 76,
+    "question": "What is 'comparative advantage' based on?",
+    "options": [
+      "Highest production costs",
+      "Identical opportunity costs",
+      "Lower opportunity costs",
+      "Ignoring opportunity costs"
+    ],
+    "correct_answer_text": "Lower opportunity costs"
+  },
+  {
+    "question_number": 77,
+    "question": "How does specialization affect efficiency?",
+    "options": [
+      "It reduces efficiency",
+      "It has no effect on efficiency",
+      "It enhances efficiency",
+      "It's unrelated to efficiency"
+    ],
+    "correct_answer_text": "It enhances efficiency"
+  },
+  {
+    "question_number": 78,
+    "question": "What is a characteristic of a market economy?",
+    "options": [
+      "Centralized planning",
+      "Decentralized decision-making",
+      "No interaction",
+      "One producer"
+    ],
+    "correct_answer_text": "Decentralized decision-making"
+  },
+  {
+    "question_number": 79,
+    "question": "What guides decisions in a market economy?",
+    "options": [
+      "Solely altruism",
+      "Only government mandates",
+      "Prices and self-interest",
+      "Completely random factors"
+    ],
+    "correct_answer_text": "Prices and self-interest"
+  },
+  {
+    "question_number": 80,
+    "question": "What is the 'invisible hand'?",
+    "options": [
+      "Government intervention",
+      "Central planning",
+      "Self-regulating market forces",
+      "Uncertain outcomes"
+    ],
+    "correct_answer_text": "Self-regulating market forces"
+  },
+  {
+    "question_number": 81,
+    "question": "What is the central idea of the first principle of economics?",
+    "options": [
+      "Unlimited resources",
+      "Absence of choices",
+      "Resource scarcity leading to trade-offs",
+      "No need for decisions"
+    ],
+    "correct_answer_text": "Resource scarcity leading to trade-offs"
+  },
+  {
+    "question_number": 82,
+    "question": "What is the meaning of 'cost' in economics?",
+    "options": [
+      "Monetary expenses only",
+      "What you gain",
+      "What is sacrificed to get something",
+      "Something always free"
+    ],
+    "correct_answer_text": "What is sacrificed to get something"
+  },
+  {
+    "question_number": 83,
+    "question": "What does 'thinking at the margin' entail?",
+    "options": [
+      "Ignoring minor adjustments",
+      "Focusing only on large-scale changes",
+      "Considering incremental adjustments",
+      "Making irrational decisions"
+    ],
+    "correct_answer_text": "Considering incremental adjustments"
+  },
+  {
+    "question_number": 84,
+    "question": "What are 'incentives'?",
+    "options": [
+      "Factors having no impact",
+      "Factors influencing behavior",
+      "Random occurrences",
+      "Only positive rewards"
+    ],
+    "correct_answer_text": "Factors influencing behavior"
+  },
+  {
+    "question_number": 85,
+    "question": "Give an example of a government-used incentive.",
+    "options": [
+      "Ignoring market trends",
+      "Providing tax breaks",
+      "Deregulating markets",
+      "Ignoring consumer needs"
+    ],
+    "correct_answer_text": "Providing tax breaks"
+  },
+  {
+    "question_number": 86,
+    "question": "How does trade generally affect economic well-being?",
+    "options": [
+      "It always harms everyone",
+      "It benefits only producers",
+      "It improves overall welfare",
+      "It is neutral"
+    ],
+    "correct_answer_text": "It improves overall welfare"
+  },
+  {
+    "question_number": 87,
+    "question": "On what is 'comparative advantage' based?",
+    "options": [
+      "High production costs",
+      "Equal opportunity costs",
+      "Lower opportunity costs",
+      "Disregarding opportunity costs"
+    ],
+    "correct_answer_text": "Lower opportunity costs"
+  },
+  {
+    "question_number": 88,
+    "question": "How does specialization influence efficiency?",
+    "options": [
+      "Decreased efficiency",
+      "No change in efficiency",
+      "Increased efficiency",
+      "Irrelevant to efficiency"
+    ],
+    "correct_answer_text": "Increased efficiency"
+  },
+  {
+    "question_number": 89,
+    "question": "What characterizes a market economy?",
+    "options": [
+      "Centralized control",
+      "Decentralized decision-making",
+      "No economic interaction",
+      "Single producer"
+    ],
+    "correct_answer_text": "Decentralized decision-making"
+  },
+  {
+    "question_number": 90,
+    "question": "What guides decisions in a market economy?",
+    "options": [
+      "Pure altruism",
+      "Government commands",
+      "Prices and self-interest",
+      "Pure chance"
+    ],
+    "correct_answer_text": "Prices and self-interest"
+  },
+  {
+    "question_number": 91,
+    "question": "What is the 'invisible hand' in economics?",
+    "options": [
+      "Government control",
+      "Central planning",
+      "Self-regulating market mechanisms",
+      "Uncertain results"
+    ],
+    "correct_answer_text": "Self-regulating market mechanisms"
+  },
+  {
+    "question_number": 92,
+    "question": "What is the main point of the first principle of economics?",
+    "options": [
+      "Unlimited resources",
+      "Limited choices",
+      "Trade-offs due to resource scarcity",
+      "Decisions are unnecessary"
+    ],
+    "correct_answer_text": "Trade-offs due to resource scarcity"
+  },
+  {
+    "question_number": 93,
+    "question": "What does 'cost' represent in economics?",
+    "options": [
+      "Only monetary costs",
+      "What you acquire",
+      "What you give up to get something",
+      "Something that is always free"
+    ],
+    "correct_answer_text": "What you give up to get something"
+  },
+  {
+    "question_number": 94,
+    "question": "What is 'marginal thinking'?",
+    "options": [
+      "Ignoring small details",
+      "Focusing solely on major changes",
+      "Considering incremental adjustments",
+      "Making illogical choices"
+    ],
+    "correct_answer_text": "Considering incremental adjustments"
+  },
+  {
+    "question_number": 95,
+    "question": "What are 'incentives'?",
+    "options": [
+      "Factors with no behavioral influence",
+      "Factors that influence behavior",
+      "Random events",
+      "Only positive motivations"
+    ],
+    "correct_answer_text": "Factors that influence behavior"
+  },
+  {
+    "question_number": 96,
+    "question": "What is an example of a government incentive?",
+    "options": [
+      "Ignoring market cues",
+      "Offering tax incentives",
+      "Deregulating industries",
+      "Ignoring consumer desires"
+    ],
+    "correct_answer_text": "Offering tax incentives"
+  },
+  {
+    "question_number": 97,
+    "question": "How does trade generally impact economic well-being?",
+    "options": [
+      "It always results in losses",
+      "It benefits only producers",
+      "It usually increases overall welfare",
+      "It has a neutral impact"
+    ],
+    "correct_answer_text": "It usually increases overall welfare"
+  },
+  {
+    "question_number": 98,
+    "question": "What is 'comparative advantage' based on?",
+    "options": [
+      "High production costs",
+      "Similar opportunity costs",
+      "Lower opportunity costs",
+      "Ignoring opportunity costs"
+    ],
+    "correct_answer_text": "Lower opportunity costs"
+  },
+  {
+    "question_number": 99,
+    "question": "How does specialization affect efficiency?",
+    "options": [
+      "Decreases efficiency",
+      "Has no effect on efficiency",
+      "Increases efficiency",
+      "Is irrelevant to efficiency"
+    ],
+    "correct_answer_text": "Increases efficiency"
+  },
+  {
+    "question_number": 100,
+    "question": "What characterizes a market economy?",
+    "options": [
+      "Centralized decision-making",
+      "Decentralized decision-making",
+      "Lack of interaction",
+      "Single producer"
+    ],
+    "correct_answer_text": "Decentralized decision-making"
+  }
+]

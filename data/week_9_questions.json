@@ -1,0 +1,893 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the primary focus of Module 9?",
+    "options": [
+      "Cost-benefit analysis",
+      "Industrial organization and conservation",
+      "Competition and monopoly",
+      "The Bhopal gas tragedy"
+    ],
+    "correct_answer_text": "Industrial organization and conservation"
+  },
+  {
+    "question_number": 2,
+    "question": "What are the three lectures included in Module 9?",
+    "options": [
+      "Costs of production, competition, and environmental disasters",
+      "Cost-benefit analysis, market equilibrium, and monopoly",
+      "The cost of production, competition, and monopoly",
+      "Explicit costs, implicit costs, and profit maximization"
+    ],
+    "correct_answer_text": "The cost of production, competition, and monopoly"
+  },
+  {
+    "question_number": 3,
+    "question": "What economic principle underlies rational decision-making?",
+    "options": [
+      "Profit maximization",
+      "Cost-benefit analysis",
+      "Marginal product",
+      "Diminishing marginal returns"
+    ],
+    "correct_answer_text": "Cost-benefit analysis"
+  },
+  {
+    "question_number": 4,
+    "question": "What is a key consequence of cost-cutting that is highlighted?",
+    "options": [
+      "Increased profits",
+      "Environmental disasters",
+      "Higher wages",
+      "Improved product quality"
+    ],
+    "correct_answer_text": "Environmental disasters"
+  },
+  {
+    "question_number": 5,
+    "question": "Which environmental disaster is discussed as a consequence of cost-cutting?",
+    "options": [
+      "The Chernobyl disaster",
+      "The Love Canal tragedy",
+      "The Fukushima Daiichi disaster",
+      "The Three Mile Island accident"
+    ],
+    "correct_answer_text": "The Love Canal tragedy"
+  },
+  {
+    "question_number": 6,
+    "question": "What insecticide was involved in the Bhopal gas tragedy?",
+    "options": [
+      "Methyl isocyanate",
+      "Dioxin",
+      "Methyl mercury",
+      "DDT"
+    ],
+    "correct_answer_text": "Methyl isocyanate"
+  },
+  {
+    "question_number": 7,
+    "question": "What percentage of its capacity was the Union Carbide plant operating at?",
+    "options": [
+      "20%",
+      "50%",
+      "80%",
+      "100%"
+    ],
+    "correct_answer_text": "20%"
+  },
+  {
+    "question_number": 8,
+    "question": "What was a key cost-cutting measure in the Bhopal gas tragedy?",
+    "options": [
+      "Increased worker training",
+      "Improved safety equipment",
+      "Shutting down the refrigeration system",
+      "Increased production of insecticide"
+    ],
+    "correct_answer_text": "Shutting down the refrigeration system"
+  },
+  {
+    "question_number": 9,
+    "question": "What type of reaction was involved in the Bhopal gas tragedy?",
+    "options": [
+      "Endothermic",
+      "Exothermic",
+      "Neutral",
+      "Isothermic"
+    ],
+    "correct_answer_text": "Exothermic"
+  },
+  {
+    "question_number": 10,
+    "question": "What was a failing safety mechanism in the Bhopal plant?",
+    "options": [
+      "Working alarms",
+      "Functional neutralizing towers",
+      "Operational flare tower",
+      "Computerized sensors"
+    ],
+    "correct_answer_text": "Computerized sensors"
+  },
+  {
+    "question_number": 11,
+    "question": "In the Love Canal tragedy, what was dumped into the canal?",
+    "options": [
+      "Treated industrial waste",
+      "Untreated industrial waste",
+      "Agricultural runoff",
+      "Household garbage"
+    ],
+    "correct_answer_text": "Untreated industrial waste"
+  },
+  {
+    "question_number": 12,
+    "question": "What was built on the Love Canal dump site?",
+    "options": [
+      "A factory",
+      "A park",
+      "A school",
+      "A housing development"
+    ],
+    "correct_answer_text": "A school"
+  },
+  {
+    "question_number": 13,
+    "question": "What corporation was responsible for the Minamata disease incident?",
+    "options": [
+      "Union Carbide",
+      "Chisso Corporation",
+      "BP",
+      "De Beers"
+    ],
+    "correct_answer_text": "Chisso Corporation"
+  },
+  {
+    "question_number": 14,
+    "question": "What substance was dumped into the sea in the Minamata disaster?",
+    "options": [
+      "Dioxin",
+      "Methyl mercury",
+      "Methyl isocyanate",
+      "Untreated industrial waste"
+    ],
+    "correct_answer_text": "Methyl mercury"
+  },
+  {
+    "question_number": 15,
+    "question": "What is the main point regarding cost-cutting and environmental disasters?",
+    "options": [
+      "Cost-cutting always leads to environmental disasters",
+      "Cost-cutting is never justified",
+      "Short-term rationality can have long-term environmental consequences",
+      "Firms should never cut costs"
+    ],
+    "correct_answer_text": "Short-term rationality can have long-term environmental consequences"
+  },
+  {
+    "question_number": 16,
+    "question": "What is total revenue?",
+    "options": [
+      "Total cost minus profit",
+      "Market value of inputs",
+      "Amount received for sale of output",
+      "Explicit costs plus implicit costs"
+    ],
+    "correct_answer_text": "Amount received for sale of output"
+  },
+  {
+    "question_number": 17,
+    "question": "What is total cost?",
+    "options": [
+      "Amount received for sale of output",
+      "Profit minus total revenue",
+      "Market value of inputs used in production",
+      "Explicit costs only"
+    ],
+    "correct_answer_text": "Market value of inputs used in production"
+  },
+  {
+    "question_number": 18,
+    "question": "How is profit calculated?",
+    "options": [
+      "Total cost + total revenue",
+      "Total revenue - total cost",
+      "Total cost - total revenue",
+      "Explicit costs - implicit costs"
+    ],
+    "correct_answer_text": "Total revenue - total cost"
+  },
+  {
+    "question_number": 19,
+    "question": "What are explicit costs?",
+    "options": [
+      "Input costs not requiring money outlay",
+      "Opportunity costs",
+      "Input costs requiring money outlay",
+      "Implicit costs"
+    ],
+    "correct_answer_text": "Input costs requiring money outlay"
+  },
+  {
+    "question_number": 20,
+    "question": "What are implicit costs?",
+    "options": [
+      "Input costs requiring money outlay",
+      "Opportunity costs",
+      "Costs that do not vary with output",
+      "Explicit costs"
+    ],
+    "correct_answer_text": "Opportunity costs"
+  },
+  {
+    "question_number": 21,
+    "question": "What is an example of an implicit cost?",
+    "options": [
+      "Wages paid to workers",
+      "Cost of raw materials",
+      "Opportunity cost of foregone income",
+      "Rent paid for factory space"
+    ],
+    "correct_answer_text": "Opportunity cost of foregone income"
+  },
+  {
+    "question_number": 22,
+    "question": "What is economic profit?",
+    "options": [
+      "Total revenue - explicit costs",
+      "Total revenue - (explicit costs + implicit costs)",
+      "Total revenue - implicit costs",
+      "Explicit costs - implicit costs"
+    ],
+    "correct_answer_text": "Total revenue - (explicit costs + implicit costs)"
+  },
+  {
+    "question_number": 23,
+    "question": "What is accounting profit?",
+    "options": [
+      "Total revenue - total costs",
+      "Total revenue - explicit costs",
+      "Total revenue - implicit costs",
+      "Explicit costs - implicit costs"
+    ],
+    "correct_answer_text": "Total revenue - explicit costs"
+  },
+  {
+    "question_number": 24,
+    "question": "What is the difference between economic and accounting profit?",
+    "options": [
+      "Economic profit includes implicit costs; accounting profit does not.",
+      "Accounting profit includes implicit costs; economic profit does not.",
+      "There is no difference.",
+      "Economic profit is always higher."
+    ],
+    "correct_answer_text": "Economic profit includes implicit costs; accounting profit does not."
+  },
+  {
+    "question_number": 25,
+    "question": "What is marginal product?",
+    "options": [
+      "Increase in input from an additional unit of output",
+      "Decrease in output from an additional unit of input",
+      "Increase in output from an additional unit of input",
+      "Total output divided by total input"
+    ],
+    "correct_answer_text": "Increase in output from an additional unit of input"
+  },
+  {
+    "question_number": 26,
+    "question": "What is diminishing marginal product?",
+    "options": [
+      "Marginal product increases with increased input",
+      "Marginal product remains constant with increased input",
+      "Marginal product decreases with increased input",
+      "Total output increases linearly with input"
+    ],
+    "correct_answer_text": "Marginal product decreases with increased input"
+  },
+  {
+    "question_number": 27,
+    "question": "What is a production function?",
+    "options": [
+      "Relationship between quantity of inputs and quantity of output",
+      "Total cost divided by quantity of output",
+      "Relationship between price and quantity demanded",
+      "Marginal cost divided by quantity of output"
+    ],
+    "correct_answer_text": "Relationship between quantity of inputs and quantity of output"
+  },
+  {
+    "question_number": 28,
+    "question": "What are fixed costs?",
+    "options": [
+      "Costs that vary with quantity of output",
+      "Costs that do not vary with quantity of output",
+      "Costs that increase proportionally with output",
+      "Costs that decrease with output"
+    ],
+    "correct_answer_text": "Costs that do not vary with quantity of output"
+  },
+  {
+    "question_number": 29,
+    "question": "What are variable costs?",
+    "options": [
+      "Costs that do not vary with quantity of output",
+      "Costs that vary with quantity of output",
+      "Fixed costs plus implicit costs",
+      "Costs that remain constant regardless of output"
+    ],
+    "correct_answer_text": "Costs that vary with quantity of output"
+  },
+  {
+    "question_number": 30,
+    "question": "What is marginal cost?",
+    "options": [
+      "Increase in total cost from an extra unit of production",
+      "Total cost divided by quantity of output",
+      "Fixed cost divided by quantity of output",
+      "Variable cost divided by quantity of output"
+    ],
+    "correct_answer_text": "Increase in total cost from an extra unit of production"
+  },
+  {
+    "question_number": 31,
+    "question": "What is average fixed cost?",
+    "options": [
+      "Fixed cost divided by quantity of output",
+      "Variable cost divided by quantity of output",
+      "Total cost divided by quantity of output",
+      "Marginal cost divided by quantity of output"
+    ],
+    "correct_answer_text": "Fixed cost divided by quantity of output"
+  },
+  {
+    "question_number": 32,
+    "question": "What is average variable cost?",
+    "options": [
+      "Fixed cost divided by quantity of output",
+      "Variable cost divided by quantity of output",
+      "Total cost divided by quantity of output",
+      "Marginal cost divided by quantity of output"
+    ],
+    "correct_answer_text": "Variable cost divided by quantity of output"
+  },
+  {
+    "question_number": 33,
+    "question": "What is average total cost?",
+    "options": [
+      "Fixed cost divided by quantity of output",
+      "Variable cost divided by quantity of output",
+      "Total cost divided by quantity of output",
+      "Marginal cost divided by quantity of output"
+    ],
+    "correct_answer_text": "Total cost divided by quantity of output"
+  },
+  {
+    "question_number": 34,
+    "question": "What is the shape of the average total cost curve?",
+    "options": [
+      "Linear",
+      "U-shaped",
+      "Inverted U-shaped",
+      "Exponential"
+    ],
+    "correct_answer_text": "U-shaped"
+  },
+  {
+    "question_number": 35,
+    "question": "What is efficient scale?",
+    "options": [
+      "Quantity of output that maximizes average total cost",
+      "Quantity of output that minimizes average total cost",
+      "Quantity of output that maximizes marginal cost",
+      "Quantity of output where marginal cost equals average variable cost"
+    ],
+    "correct_answer_text": "Quantity of output that minimizes average total cost"
+  },
+  {
+    "question_number": 36,
+    "question": "How does the marginal cost curve relate to the average total cost curve?",
+    "options": [
+      "Marginal cost always exceeds average total cost",
+      "Marginal cost always equals average total cost",
+      "Marginal cost curve intersects average total cost curve at its minimum",
+      "There is no relationship"
+    ],
+    "correct_answer_text": "Marginal cost curve intersects average total cost curve at its minimum"
+  },
+  {
+    "question_number": 37,
+    "question": "What are economies of scale?",
+    "options": [
+      "Long-run average total cost rises as output increases",
+      "Long-run average total cost falls as output increases",
+      "Long-run average total cost stays the same as output increases",
+      "Short-run average total cost falls as output increases"
+    ],
+    "correct_answer_text": "Long-run average total cost falls as output increases"
+  },
+  {
+    "question_number": 38,
+    "question": "What are diseconomies of scale?",
+    "options": [
+      "Long-run average total cost falls as output increases",
+      "Long-run average total cost rises as output increases",
+      "Long-run average total cost stays the same as output increases",
+      "Short-run average total cost falls as output increases"
+    ],
+    "correct_answer_text": "Long-run average total cost rises as output increases"
+  },
+  {
+    "question_number": 39,
+    "question": "What is a constant returns to scale?",
+    "options": [
+      "Long-run average total cost falls as output increases",
+      "Long-run average total cost rises as output increases",
+      "Long-run average total cost stays the same as output changes",
+      "Short-run average total cost falls as output increases"
+    ],
+    "correct_answer_text": "Long-run average total cost stays the same as output changes"
+  },
+  {
+    "question_number": 40,
+    "question": "What is a competitive market?",
+    "options": [
+      "Market with many buyers and sellers, each with negligible impact on price",
+      "Market with a single seller",
+      "Market with a few large firms",
+      "Market with government price controls"
+    ],
+    "correct_answer_text": "Market with many buyers and sellers, each with negligible impact on price"
+  },
+  {
+    "question_number": 41,
+    "question": "In a competitive market, are buyers and sellers price takers or price makers?",
+    "options": [
+      "Price makers",
+      "Price takers",
+      "Both",
+      "Neither"
+    ],
+    "correct_answer_text": "Price takers"
+  },
+  {
+    "question_number": 42,
+    "question": "What is profit in the context of a firm's decision-making?",
+    "options": [
+      "Total cost + total revenue",
+      "Total revenue - total cost",
+      "Total cost - total revenue",
+      "Explicit costs only"
+    ],
+    "correct_answer_text": "Total revenue - total cost"
+  },
+  {
+    "question_number": 43,
+    "question": "What is average revenue?",
+    "options": [
+      "Total revenue divided by quantity sold",
+      "Total revenue minus total cost",
+      "Total cost divided by quantity sold",
+      "Marginal revenue multiplied by quantity sold"
+    ],
+    "correct_answer_text": "Total revenue divided by quantity sold"
+  },
+  {
+    "question_number": 44,
+    "question": "What is marginal revenue?",
+    "options": [
+      "Change in total revenue from an additional unit sold",
+      "Average revenue divided by quantity sold",
+      "Total revenue minus total cost",
+      "Total cost divided by quantity sold"
+    ],
+    "correct_answer_text": "Change in total revenue from an additional unit sold"
+  },
+  {
+    "question_number": 45,
+    "question": "In a perfectly competitive firm, how do average revenue, marginal revenue, and price relate?",
+    "options": [
+      "AR > MR > P",
+      "AR < MR < P",
+      "AR = MR = P",
+      "AR + MR = P"
+    ],
+    "correct_answer_text": "AR = MR = P"
+  },
+  {
+    "question_number": 46,
+    "question": "How does a firm maximize profit?",
+    "options": [
+      "Setting marginal cost equal to marginal revenue",
+      "Setting marginal cost equal to average revenue",
+      "Setting average cost equal to marginal revenue",
+      "Setting average cost equal to average revenue"
+    ],
+    "correct_answer_text": "Setting marginal cost equal to marginal revenue"
+  },
+  {
+    "question_number": 47,
+    "question": "At what point is profit maximized?",
+    "options": [
+      "Where marginal revenue exceeds marginal cost",
+      "Where marginal cost exceeds marginal revenue",
+      "Where marginal revenue equals marginal cost",
+      "Where average revenue equals average cost"
+    ],
+    "correct_answer_text": "Where marginal revenue equals marginal cost"
+  },
+  {
+    "question_number": 48,
+    "question": "What is a sunk cost?",
+    "options": [
+      "A cost that can be recovered",
+      "A cost that cannot be recovered",
+      "A variable cost",
+      "A fixed cost that can be avoided"
+    ],
+    "correct_answer_text": "A cost that cannot be recovered"
+  },
+  {
+    "question_number": 49,
+    "question": "When should a firm shut down in the short run?",
+    "options": [
+      "When price is less than average total cost",
+      "When price is less than average variable cost",
+      "When price equals average total cost",
+      "When price equals average variable cost"
+    ],
+    "correct_answer_text": "When price is less than average variable cost"
+  },
+  {
+    "question_number": 50,
+    "question": "When should a firm shut down in the long run?",
+    "options": [
+      "When price is less than average variable cost",
+      "When price is less than average total cost",
+      "When price equals average variable cost",
+      "When price equals average total cost"
+    ],
+    "correct_answer_text": "When price is less than average total cost"
+  },
+  {
+    "question_number": 51,
+    "question": "What is a monopoly?",
+    "options": [
+      "Market with many buyers and sellers",
+      "Market with a single seller of a product without close substitutes",
+      "Market with a few dominant firms",
+      "Market with government price controls"
+    ],
+    "correct_answer_text": "Market with a single seller of a product without close substitutes"
+  },
+  {
+    "question_number": 52,
+    "question": "Is a monopolist a price taker or a price maker?",
+    "options": [
+      "Price taker",
+      "Price maker",
+      "Both",
+      "Neither"
+    ],
+    "correct_answer_text": "Price maker"
+  },
+  {
+    "question_number": 53,
+    "question": "What are three reasons for the existence of monopolies?",
+    "options": [
+      "Monopoly resources, government regulation, and economies of scale",
+      "Monopoly resources, government regulation, and natural monopolies",
+      "Economies of scale, diseconomies of scale, and constant returns to scale",
+      "Perfect competition, monopolistic competition, and oligopoly"
+    ],
+    "correct_answer_text": "Monopoly resources, government regulation, and natural monopolies"
+  },
+  {
+    "question_number": 54,
+    "question": "What is a monopoly resource?",
+    "options": [
+      "A resource owned by many firms",
+      "A resource owned by a single firm",
+      "A resource that is easily replaceable",
+      "A resource with no economic value"
+    ],
+    "correct_answer_text": "A resource owned by a single firm"
+  },
+  {
+    "question_number": 55,
+    "question": "How can government regulation create a monopoly?",
+    "options": [
+      "By promoting competition",
+      "By granting exclusive rights",
+      "By setting price ceilings",
+      "By subsidizing multiple firms"
+    ],
+    "correct_answer_text": "By granting exclusive rights"
+  },
+  {
+    "question_number": 56,
+    "question": "What are natural monopolies?",
+    "options": [
+      "Monopolies that occur naturally in the environment",
+      "Monopolies that arise due to economies of scale",
+      "Monopolies created by government regulation",
+      "Monopolies with no close substitutes"
+    ],
+    "correct_answer_text": "Monopolies that arise due to economies of scale"
+  },
+  {
+    "question_number": 58,
+    "question": "In a competitive market, what is the relationship between price and average total cost in the long",
+    "options": [
+      "Price > Average Total Cost",
+      "Price < Average Total Cost",
+      "Price = Average Total Cost",
+      "There is no relationship"
+    ],
+    "correct_answer_text": "Price = Average Total Cost"
+  },
+  {
+    "question_number": 59,
+    "question": "What is the long-run market supply curve in a perfectly competitive market?",
+    "options": [
+      "Downward sloping",
+      "Upward sloping",
+      "Horizontal",
+      "Vertical"
+    ],
+    "correct_answer_text": "Horizontal"
+  },
+  {
+    "question_number": 60,
+    "question": "What type of profit is zero in the long run in a perfectly competitive market?",
+    "options": [
+      "Accounting profit",
+      "Economic profit",
+      "Both accounting and economic profit",
+      "Neither accounting nor economic profit"
+    ],
+    "correct_answer_text": "Economic profit"
+  },
+  {
+    "question_number": 62,
+    "question": "What is comparative advantage?",
+    "options": [
+      "Ability to produce at a lower opportunity cost",
+      "Ability to produce more output with the same input",
+      "Ability to produce at a higher price",
+      "Ability to produce with fewer resources"
+    ],
+    "correct_answer_text": "Ability to produce at a lower opportunity cost"
+  },
+  {
+    "question_number": 63,
+    "question": "What is the impact of competition on efficiency?",
+    "options": [
+      "Reduces efficiency",
+      "Has no impact on efficiency",
+      "Increases efficiency",
+      "Unpredictable impact on efficiency"
+    ],
+    "correct_answer_text": "Increases efficiency"
+  },
+  {
+    "question_number": 64,
+    "question": "What is the impact of competition on prices?",
+    "options": [
+      "Increases prices",
+      "Has no impact on prices",
+      "Reduces prices",
+      "Unpredictable impact on prices"
+    ],
+    "correct_answer_text": "Reduces prices"
+  },
+  {
+    "question_number": 65,
+    "question": "What is the role of perfect information in a competitive market?",
+    "options": [
+      "It hinders efficient resource allocation.",
+      "It is irrelevant to market outcomes.",
+      "It ensures buyers and sellers have up-to-date information.",
+      "It leads to higher prices."
+    ],
+    "correct_answer_text": "It ensures buyers and sellers have up-to-date information."
+  },
+  {
+    "question_number": 66,
+    "question": "What is the role of well-defined property rights in a competitive market?",
+    "options": [
+      "They are irrelevant.",
+      "They hinder competition.",
+      "They protect the rights of buyers and sellers.",
+      "They lead to higher prices."
+    ],
+    "correct_answer_text": "They protect the rights of buyers and sellers."
+  },
+  {
+    "question_number": 67,
+    "question": "What is the role of free entry and exit in a competitive market?",
+    "options": [
+      "It limits competition.",
+      "It maintains the condition of many buyers and sellers.",
+      "It increases prices.",
+      "It has no impact on market outcomes."
+    ],
+    "correct_answer_text": "It maintains the condition of many buyers and sellers."
+  },
+  {
+    "question_number": 68,
+    "question": "What is the role of rationality in a competitive market?",
+    "options": [
+      "It leads to irrational market outcomes.",
+      "It is irrelevant to market behavior.",
+      "Buyers and sellers act to maximize their own welfare.",
+      "It has no predictable impact."
+    ],
+    "correct_answer_text": "Buyers and sellers act to maximize their own welfare."
+  },
+  {
+    "question_number": 69,
+    "question": "What is the role of zero transaction costs in a competitive market?",
+    "options": [
+      "They increase efficiency.",
+      "They have no impact on efficiency.",
+      "They reduce efficiency.",
+      "They are irrelevant."
+    ],
+    "correct_answer_text": "They increase efficiency."
+  },
+  {
+    "question_number": 70,
+    "question": "What is the relationship between total cost, fixed cost, and variable cost?",
+    "options": [
+      "Total cost = fixed cost - variable cost",
+      "Total cost = fixed cost + variable cost",
+      "Total cost = fixed cost / variable cost",
+      "Total cost = fixed cost * variable cost"
+    ],
+    "correct_answer_text": "Total cost = fixed cost + variable cost"
+  },
+  {
+    "question_number": 71,
+    "question": "What is the relationship between total revenue, price, and quantity?",
+    "options": [
+      "Total revenue = price / quantity",
+      "Total revenue = price + quantity",
+      "Total revenue = price * quantity",
+      "Total revenue = price - quantity"
+    ],
+    "correct_answer_text": "Total revenue = price * quantity"
+  },
+  {
+    "question_number": 72,
+    "question": "What is the relationship between average total cost, average fixed cost, and average variable cost?",
+    "options": [
+      "ATC = AFC - AVC",
+      "ATC = AFC + AVC",
+      "ATC = AFC * AVC",
+      "ATC = AFC / AVC"
+    ],
+    "correct_answer_text": "ATC = AFC + AVC"
+  },
+  {
+    "question_number": 74,
+    "question": "Why does the average variable cost curve typically increase as output increases?",
+    "options": [
+      "Diminishing marginal returns",
+      "Increasing marginal returns",
+      "Constant returns to scale",
+      "Economies of scale"
+    ],
+    "correct_answer_text": "Diminishing marginal returns"
+  },
+  {
+    "question_number": 75,
+    "question": "In what context is the term 'consumer surplus' mentioned?",
+    "options": [
+      "Cost-benefit analysis",
+      "Production function",
+      "Competitive market",
+      "Monopoly"
+    ],
+    "correct_answer_text": "Competitive market"
+  },
+  {
+    "question_number": 76,
+    "question": "In what context is the term 'producer surplus' mentioned?",
+    "options": [
+      "Cost-benefit analysis",
+      "Production function",
+      "Competitive market",
+      "Monopoly"
+    ],
+    "correct_answer_text": "Competitive market"
+  },
+  {
+    "question_number": 77,
+    "question": "What is the role of incentives in technological innovation?",
+    "options": [
+      "They have no impact.",
+      "They discourage innovation.",
+      "They encourage innovation.",
+      "They are irrelevant."
+    ],
+    "correct_answer_text": "They encourage innovation."
+  },
+  {
+    "question_number": 78,
+    "question": "What is the role of patents in promoting innovation?",
+    "options": [
+      "They discourage innovation.",
+      "They have no impact.",
+      "They protect intellectual property rights, encouraging investment in innovation.",
+      "They are irrelevant."
+    ],
+    "correct_answer_text": "They protect intellectual property rights, encouraging investment in innovation."
+  },
+  {
+    "question_number": 79,
+    "question": "What is the role of copyrights in promoting creative works?",
+    "options": [
+      "They have no impact.",
+      "They discourage creativity.",
+      "They protect intellectual property rights, encouraging creativity.",
+      "They are irrelevant."
+    ],
+    "correct_answer_text": "They protect intellectual property rights, encouraging creativity."
+  },
+  {
+    "question_number": 80,
+    "question": "Why might the government grant exclusive rights to produce or sell a product?",
+    "options": [
+      "To reduce competition",
+      "To promote social well-being and technological innovation",
+      "To favor certain firms",
+      "To increase prices"
+    ],
+    "correct_answer_text": "To promote social well-being and technological innovation"
+  },
+  {
+    "question_number": 81,
+    "question": "What is a key characteristic of a natural monopoly?",
+    "options": [
+      "High cost of production for a single firm",
+      "Low cost of production for multiple firms",
+      "Low cost of production for a single firm",
+      "High profits for multiple firms"
+    ],
+    "correct_answer_text": "Low cost of production for a single firm"
+  },
+  {
+    "question_number": 82,
+    "question": "What economic concept often leads to natural monopolies?",
+    "options": [
+      "Diseconomies of scale",
+      "Constant returns to scale",
+      "Economies of scale",
+      "Perfect competition"
+    ],
+    "correct_answer_text": "Economies of scale"
+  },
+  {
+    "question_number": 83,
+    "question": "What examples of natural monopolies are mentioned in the text?",
+    "options": [
+      "Retail stores",
+      "Restaurants",
+      "Water pipes and electricity lines",
+      "Small businesses"
+    ],
+    "correct_answer_text": "Water pipes and electricity lines"
+  },
+  {
+    "question_number": 84,
+    "question": "What is the shape of the long-run supply curve for a natural monopoly?",
+    "options": [
+      "Horizontal",
+      "Vertical",
+      "Upward sloping",
+      "Downward sloping"
+    ],
+    "correct_answer_text": "Vertical"
+  }
+]

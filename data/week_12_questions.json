@@ -1,0 +1,739 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the 12th module of the Conservation Economics course primarily focused on?",
+    "options": [
+      "Economics of Environmental Disasters Part II",
+      "Economics of Protected Areas",
+      "The Wildlife Protection Act of 1972",
+      "Keystone species"
+    ],
+    "correct_answer_text": "Economics of Protected Areas"
+  },
+  {
+    "question_number": 2,
+    "question": "According to the Wildlife Protection Act of 1972, what constitutes a protected area?",
+    "options": [
+      "A community reserve only",
+      "A national park, a sanctuary, a conservation reserve, or a community reserve",
+      "Any area with high species richness",
+      "Areas with large home ranges for umbrella species"
+    ],
+    "correct_answer_text": "A national park, a sanctuary, a conservation reserve, or a community reserve"
+  },
+  {
+    "question_number": 3,
+    "question": "What is the definition of wildlife according to the Wildlife Protection Act of 1972?",
+    "options": [
+      "Native fauna and flora of a region",
+      "Animals found in national parks",
+      "Any animal, aquatic or land vegetation which forms part of any habitat",
+      "Critically endangered species"
+    ],
+    "correct_answer_text": "Any animal, aquatic or land vegetation which forms part of any habitat"
+  },
+  {
+    "question_number": 4,
+    "question": "How many threat categories are used by the IUCN to classify wildlife?",
+    "options": [
+      "Five",
+      "Seven",
+      "Nine",
+      "Eleven"
+    ],
+    "correct_answer_text": "Nine"
+  },
+  {
+    "question_number": 5,
+    "question": "Which threat category indicates that an organism no longer exists?",
+    "options": [
+      "Critically Endangered",
+      "Endangered",
+      "Extinct",
+      "Data Deficient"
+    ],
+    "correct_answer_text": "Extinct"
+  },
+  {
+    "question_number": 6,
+    "question": "What is a keystone species?",
+    "options": [
+      "A species with a large home range",
+      "A charismatic species attracting public support",
+      "A species with an impact disproportionate to its abundance",
+      "A species found only in one area"
+    ],
+    "correct_answer_text": "A species with an impact disproportionate to its abundance"
+  },
+  {
+    "question_number": 7,
+    "question": "Give an example of a keystone species mentioned in the text.",
+    "options": [
+      "Elephant",
+      "Peacock",
+      "Amur Tiger",
+      "Banyan Tree"
+    ],
+    "correct_answer_text": "Banyan Tree"
+  },
+  {
+    "question_number": 8,
+    "question": "What characterizes an umbrella species?",
+    "options": [
+      "High public appeal",
+      "Critical ecological role",
+      "Large home range",
+      "High degree of endemism"
+    ],
+    "correct_answer_text": "Large home range"
+  },
+  {
+    "question_number": 9,
+    "question": "Which species is cited as both a keystone and umbrella species?",
+    "options": [
+      "Giant Panda",
+      "Gorilla",
+      "Tiger",
+      "Humpback Whale"
+    ],
+    "correct_answer_text": "Tiger"
+  },
+  {
+    "question_number": 11,
+    "question": "What is ex situ conservation?",
+    "options": [
+      "Conservation within the natural habitat",
+      "Conservation outside the natural habitat",
+      "Conservation focusing on keystone species",
+      "Conservation using gap analysis"
+    ],
+    "correct_answer_text": "Conservation outside the natural habitat"
+  },
+  {
+    "question_number": 12,
+    "question": "What is an example of ex situ conservation?",
+    "options": [
+      "National Park",
+      "Wildlife Sanctuary",
+      "Zoo",
+      "Tiger Reserve"
+    ],
+    "correct_answer_text": "Zoo"
+  },
+  {
+    "question_number": 13,
+    "question": "What is in situ conservation?",
+    "options": [
+      "Conservation in zoos",
+      "Conservation in controlled environments",
+      "Conservation within the natural habitat",
+      "Conservation focusing on flagship species"
+    ],
+    "correct_answer_text": "Conservation within the natural habitat"
+  },
+  {
+    "question_number": 14,
+    "question": "What is a significant advantage of in situ conservation?",
+    "options": [
+      "Intensive management",
+      "High cost-effectiveness",
+      "Better control of variables",
+      "Ease of captive breeding"
+    ],
+    "correct_answer_text": "High cost-effectiveness"
+  },
+  {
+    "question_number": 15,
+    "question": "What is a disadvantage of ex situ conservation?",
+    "options": [
+      "Low cost",
+      "Protection of natural habitat",
+      "Intensive management",
+      "Loss of natural behaviors"
+    ],
+    "correct_answer_text": "Loss of natural behaviors"
+  },
+  {
+    "question_number": 16,
+    "question": "What is species richness?",
+    "options": [
+      "The number of endemic species in an area",
+      "The number of threatened species in an area",
+      "The number of species per unit area",
+      "The total number of species in an area"
+    ],
+    "correct_answer_text": "The number of species per unit area"
+  },
+  {
+    "question_number": 17,
+    "question": "What are biodiversity hotspots?",
+    "options": [
+      "Areas with high species richness and endemism, and moderate threat",
+      "Areas with high human population density",
+      "Areas with low species diversity",
+      "Areas with only umbrella species"
+    ],
+    "correct_answer_text": "Areas with high species richness and endemism, and moderate threat"
+  },
+  {
+    "question_number": 18,
+    "question": "What is gap analysis in the context of protected areas?",
+    "options": [
+      "Identifying areas with high species richness",
+      "Identifying areas with high endemism",
+      "Identifying gaps in the existing network of protected areas",
+      "Identifying areas with high threat levels"
+    ],
+    "correct_answer_text": "Identifying gaps in the existing network of protected areas"
+  },
+  {
+    "question_number": 19,
+    "question": "According to the principles of reserve design, what is preferred: one large reserve or several small",
+    "options": [
+      "Several small reserves",
+      "One large reserve",
+      "It makes no difference",
+      "Depends on the species"
+    ],
+    "correct_answer_text": "One large reserve"
+  },
+  {
+    "question_number": 20,
+    "question": "What shape of reserve is considered most effective?",
+    "options": [
+      "Linear",
+      "Rectangular",
+      "Circular",
+      "Irregular"
+    ],
+    "correct_answer_text": "Circular"
+  },
+  {
+    "question_number": 21,
+    "question": "What are ecosystem services?",
+    "options": [
+      "Services provided by protected areas to the government",
+      "Benefits that people obtain from ecosystems",
+      "Services provided by keystone species",
+      "Services provided by flagship species"
+    ],
+    "correct_answer_text": "Benefits that people obtain from ecosystems"
+  },
+  {
+    "question_number": 22,
+    "question": "What type of ecosystem service is the regulation of local climate?",
+    "options": [
+      "Provisioning service",
+      "Regulating service",
+      "Supporting service",
+      "Cultural service"
+    ],
+    "correct_answer_text": "Regulating service"
+  },
+  {
+    "question_number": 23,
+    "question": "What type of ecosystem service is the provision of food?",
+    "options": [
+      "Regulating service",
+      "Supporting service",
+      "Cultural service",
+      "Provisioning service"
+    ],
+    "correct_answer_text": "Provisioning service"
+  },
+  {
+    "question_number": 24,
+    "question": "What is the InVEST model?",
+    "options": [
+      "A model for assessing the social cost of carbon",
+      "A GIS-based model for valuing ecosystem services",
+      "A model for identifying keystone species",
+      "A model for prioritizing conservation efforts"
+    ],
+    "correct_answer_text": "A GIS-based model for valuing ecosystem services"
+  },
+  {
+    "question_number": 25,
+    "question": "What is an investment multiplier in the context of protected areas?",
+    "options": [
+      "The ratio of direct to indirect benefits",
+      "The return on investment in a protected area",
+      "The total economic value of ecosystem services",
+      "The number of jobs created by a protected area"
+    ],
+    "correct_answer_text": "The return on investment in a protected area"
+  },
+  {
+    "question_number": 26,
+    "question": "What is a disaster, as defined in the text?",
+    "options": [
+      "Any event causing human suffering",
+      "An event beyond the coping capacity of the affected community",
+      "Any natural event causing significant damage",
+      "Any man-made event causing significant damage"
+    ],
+    "correct_answer_text": "An event beyond the coping capacity of the affected community"
+  },
+  {
+    "question_number": 27,
+    "question": "What is risk, as defined in the text?",
+    "options": [
+      "The probability of an event",
+      "The consequence of an event",
+      "The combination of the probability of an event and its consequence",
+      "The perception of an event’s consequence"
+    ],
+    "correct_answer_text": "The combination of the probability of an event and its consequence"
+  },
+  {
+    "question_number": 28,
+    "question": "What is risk perception?",
+    "options": [
+      "The objective assessment of risk",
+      "A stakeholder’s view of risk",
+      "The scientific understanding of risk",
+      "The government's assessment of risk"
+    ],
+    "correct_answer_text": "A stakeholder’s view of risk"
+  },
+  {
+    "question_number": 29,
+    "question": "What is a risk source?",
+    "options": [
+      "An event that causes a disaster",
+      "An element that can create risk",
+      "The consequence of a risk",
+      "A stakeholder’s perception of risk"
+    ],
+    "correct_answer_text": "An element that can create risk"
+  },
+  {
+    "question_number": 30,
+    "question": "What is a key principle of risk management?",
+    "options": [
+      "It should be reactive rather than proactive",
+      "It should be simple and easily implemented",
+      "It should be integrated into all organizational activities",
+      "It should focus solely on economic factors"
+    ],
+    "correct_answer_text": "It should be integrated into all organizational activities"
+  },
+  {
+    "question_number": 31,
+    "question": "Why is risk management considered dynamic?",
+    "options": [
+      "Risks remain constant over time",
+      "Risks are unpredictable and uncontrollable",
+      "Risks can emerge, change, or disappear",
+      "Risks are only relevant to large organizations"
+    ],
+    "correct_answer_text": "Risks can emerge, change, or disappear"
+  },
+  {
+    "question_number": 32,
+    "question": "What is a stakeholder?",
+    "options": [
+      "Only those directly involved in a project",
+      "Anyone affected by a decision or activity",
+      "Only government officials and experts",
+      "Only those who own property in the affected area"
+    ],
+    "correct_answer_text": "Anyone affected by a decision or activity"
+  },
+  {
+    "question_number": 33,
+    "question": "What is a key element of the risk management process?",
+    "options": [
+      "Ignoring stakeholder concerns",
+      "Ignoring potential uncertainties",
+      "Continuous monitoring and review",
+      "Focusing solely on immediate costs"
+    ],
+    "correct_answer_text": "Continuous monitoring and review"
+  },
+  {
+    "question_number": 34,
+    "question": "What was the primary cause of the Minamata disease?",
+    "options": [
+      "Industrial waste dumping into the sea",
+      "A natural disaster",
+      "A viral outbreak",
+      "Overfishing"
+    ],
+    "correct_answer_text": "Industrial waste dumping into the sea"
+  },
+  {
+    "question_number": 35,
+    "question": "What was the primary environmental impact of the Aral Sea disaster?",
+    "options": [
+      "Increased biodiversity",
+      "Improved water quality",
+      "Shrinking lake size and increased salinity",
+      "Creation of new wetlands"
+    ],
+    "correct_answer_text": "Shrinking lake size and increased salinity"
+  },
+  {
+    "question_number": 36,
+    "question": "What was a significant human consequence of the Aral Sea disaster?",
+    "options": [
+      "Improved health outcomes",
+      "Reduced poverty",
+      "Increased rates of diseases",
+      "Increased tourism"
+    ],
+    "correct_answer_text": "Increased rates of diseases"
+  },
+  {
+    "question_number": 37,
+    "question": "What was the primary cause of the Bhopal gas tragedy?",
+    "options": [
+      "A natural gas leak",
+      "An earthquake",
+      "The release of methyl isocyanate gas",
+      "A fire in the factory"
+    ],
+    "correct_answer_text": "The release of methyl isocyanate gas"
+  },
+  {
+    "question_number": 38,
+    "question": "What was a contributing factor to the Bhopal gas tragedy?",
+    "options": [
+      "Adequate safety procedures",
+      "Proper maintenance of equipment",
+      "Cost-cutting measures",
+      "Effective emergency planning"
+    ],
+    "correct_answer_text": "Cost-cutting measures"
+  },
+  {
+    "question_number": 39,
+    "question": "What is a major criticism of the morality surrounding pollution mentioned in the text?",
+    "options": [
+      "It emphasizes the importance of environmental protection",
+      "It holds individuals accountable for pollution",
+      "It considers pollution criminal only after legal conviction",
+      "It promotes responsible industrial practices"
+    ],
+    "correct_answer_text": "It considers pollution criminal only after legal conviction"
+  },
+  {
+    "question_number": 40,
+    "question": "What was the Chisso factory's role in the Minamata disaster?",
+    "options": [
+      "Providing clean water to the community",
+      "Implementing effective waste management",
+      "Dumping mercury-containing waste into the sea",
+      "Supporting local fishing industries"
+    ],
+    "correct_answer_text": "Dumping mercury-containing waste into the sea"
+  },
+  {
+    "question_number": 41,
+    "question": "What were the Soviet government's actions that led to the Aral Sea disaster?",
+    "options": [
+      "Protecting the Aral Sea ecosystem",
+      "Diverting river water for cotton production",
+      "Investing in sustainable agriculture",
+      "Promoting tourism in the region"
+    ],
+    "correct_answer_text": "Diverting river water for cotton production"
+  },
+  {
+    "question_number": 42,
+    "question": "What was a consequence of the shrinking Aral Sea?",
+    "options": [
+      "Increased rainfall in the region",
+      "Improved air quality",
+      "Increased dust storms",
+      "Reduced soil erosion"
+    ],
+    "correct_answer_text": "Increased dust storms"
+  },
+  {
+    "question_number": 43,
+    "question": "What aspect of the Union Carbide plant's operation contributed to the Bhopal gas tragedy?",
+    "options": [
+      "Regular safety drills",
+      "Efficient waste management",
+      "Cost-cutting measures",
+      "Overstaffing"
+    ],
+    "correct_answer_text": "Cost-cutting measures"
+  },
+  {
+    "question_number": 44,
+    "question": "What was a significant safety failure in the Union Carbide plant?",
+    "options": [
+      "The presence of an on-site hospital",
+      "Properly functioning gas scrubbers",
+      "The shutdown of the refrigeration unit",
+      "Regular communication with local communities"
+    ],
+    "correct_answer_text": "The shutdown of the refrigeration unit"
+  },
+  {
+    "question_number": 45,
+    "question": "What was the role of methyl isocyanate in the Bhopal gas tragedy?",
+    "options": [
+      "It was used in the production of fertilizer",
+      "It was a non-toxic gas",
+      "It was accidentally released causing widespread harm",
+      "It was effectively neutralized before release"
+    ],
+    "correct_answer_text": "It was accidentally released causing widespread harm"
+  },
+  {
+    "question_number": 46,
+    "question": "What is one of the direct benefits from protected areas?",
+    "options": [
+      "Climate regulation",
+      "Soil formation",
+      "Employment generation",
+      "Nutrient cycling"
+    ],
+    "correct_answer_text": "Employment generation"
+  },
+  {
+    "question_number": 47,
+    "question": "What method is used to estimate the economic value of gene pool benefits?",
+    "options": [
+      "Direct market valuation",
+      "Hedonic pricing",
+      "Contingent valuation",
+      "Benefit transfer method"
+    ],
+    "correct_answer_text": "Benefit transfer method"
+  },
+  {
+    "question_number": 48,
+    "question": "What is the social cost of carbon?",
+    "options": [
+      "The market price of carbon credits",
+      "The cost of removing carbon dioxide from the atmosphere",
+      "The cost of impacts caused by carbon dioxide emissions",
+      "The cost of sequestering carbon in protected areas"
+    ],
+    "correct_answer_text": "The cost of impacts caused by carbon dioxide emissions"
+  },
+  {
+    "question_number": 49,
+    "question": "What is one of the cultural services provided by protected areas?",
+    "options": [
+      "Water purification",
+      "Pollination",
+      "Recreation",
+      "Soil conservation"
+    ],
+    "correct_answer_text": "Recreation"
+  },
+  {
+    "question_number": 50,
+    "question": "What is a regulating service provided by protected areas?",
+    "options": [
+      "Food provision",
+      "Timber production",
+      "Biological pest control",
+      "Medicinal plant harvesting"
+    ],
+    "correct_answer_text": "Biological pest control"
+  },
+  {
+    "question_number": 51,
+    "question": "What is a supporting service provided by protected areas?",
+    "options": [
+      "Tourism",
+      "Fishing",
+      "Nutrient cycling",
+      "Recreation"
+    ],
+    "correct_answer_text": "Nutrient cycling"
+  },
+  {
+    "question_number": 52,
+    "question": "What is a provisioning service?",
+    "options": [
+      "Regulation of local climate",
+      "Soil formation",
+      "Food and medicines",
+      "Recreation"
+    ],
+    "correct_answer_text": "Food and medicines"
+  },
+  {
+    "question_number": 53,
+    "question": "What is a cultural service?",
+    "options": [
+      "Water purification",
+      "Pollination",
+      "Recreation",
+      "Nutrient cycling"
+    ],
+    "correct_answer_text": "Recreation"
+  },
+  {
+    "question_number": 54,
+    "question": "What is the meaning of dysarthria?",
+    "options": [
+      "Impairment of hearing",
+      "Deformation in the joints",
+      "Disturbance of sensation",
+      "Tremors"
+    ],
+    "correct_answer_text": "Deformation in the joints"
+  },
+  {
+    "question_number": 55,
+    "question": "What was the approximate flow benefits of Panna Tiger Reserve in a year?",
+    "options": [
+      "70 million rupees",
+      "70 billion rupees",
+      "700 million rupees",
+      "700 billion rupees"
+    ],
+    "correct_answer_text": "70 billion rupees"
+  },
+  {
+    "question_number": 56,
+    "question": "What is the investment multiplier for the Panna Tiger Reserve?",
+    "options": [
+      "19.39",
+      "193.9",
+      "1939.36",
+      "19393.6"
+    ],
+    "correct_answer_text": "1939.36"
+  },
+  {
+    "question_number": 57,
+    "question": "What are the two rivers that fed the Aral Sea?",
+    "options": [
+      "Ganges and Brahmaputra",
+      "Nile and Congo",
+      "Syr Darya and Amu Darya",
+      "Amazon and Mississippi"
+    ],
+    "correct_answer_text": "Syr Darya and Amu Darya"
+  },
+  {
+    "question_number": 58,
+    "question": "What was the initial salinity of the Aral Sea in grams per litre?",
+    "options": [
+      "300",
+      "10",
+      "100",
+      "30"
+    ],
+    "correct_answer_text": "10"
+  },
+  {
+    "question_number": 59,
+    "question": "What happened to the salinity of the Aral Sea after the diversion of river waters?",
+    "options": [
+      "It decreased",
+      "It stayed the same",
+      "It increased",
+      "It fluctuated wildly"
+    ],
+    "correct_answer_text": "It increased"
+  },
+  {
+    "question_number": 60,
+    "question": "In what year did the Bhopal gas tragedy occur?",
+    "options": [
+      "1982",
+      "1984",
+      "1986",
+      "1988"
+    ],
+    "correct_answer_text": "1984"
+  },
+  {
+    "question_number": 61,
+    "question": "What company owned the plant in Bhopal?",
+    "options": [
+      "Dow Chemical",
+      "Shell",
+      "Union Carbide",
+      "ExxonMobil"
+    ],
+    "correct_answer_text": "Union Carbide"
+  },
+  {
+    "question_number": 62,
+    "question": "What gas was released in the Bhopal gas tragedy?",
+    "options": [
+      "Carbon monoxide",
+      "Chlorine",
+      "Methyl isocyanate",
+      "Sulfur dioxide"
+    ],
+    "correct_answer_text": "Methyl isocyanate"
+  },
+  {
+    "question_number": 63,
+    "question": "What was the approximate number of deaths in the Bhopal gas tragedy?",
+    "options": [
+      "250",
+      "2500",
+      "25000",
+      "250000"
+    ],
+    "correct_answer_text": "2500"
+  },
+  {
+    "question_number": 64,
+    "question": "What was a major economic factor that contributed to the Bhopal gas tragedy?",
+    "options": [
+      "High demand for Sevin",
+      "Efficient plant operation",
+      "Cost-cutting measures",
+      "Investment in safety upgrades"
+    ],
+    "correct_answer_text": "Cost-cutting measures"
+  },
+  {
+    "question_number": 65,
+    "question": "What was one of the safety measures that was not functioning correctly or was absent in the",
+    "options": [
+      "Fully functional gas scrubbers",
+      "Adequate safety training for local communities",
+      "Properly functioning refrigeration unit",
+      "Regular communication with local communities"
+    ],
+    "correct_answer_text": "Properly functioning refrigeration unit"
+  },
+  {
+    "question_number": 66,
+    "question": "What was one of the reasons why the refrigeration unit was shut down in the Bhopal plant?",
+    "options": [
+      "Preventative maintenance",
+      "Energy conservation",
+      "Cost-cutting",
+      "Overcapacity"
+    ],
+    "correct_answer_text": "Cost-cutting"
+  },
+  {
+    "question_number": 67,
+    "question": "What was the approximate percentage of the plant capacity that was being utilized in Bhopal before",
+    "options": [
+      "10%",
+      "20%",
+      "50%",
+      "80%"
+    ],
+    "correct_answer_text": "20%"
+  },
+  {
+    "question_number": 68,
+    "question": "What is one of the key issues highlighted in the text about the morality surrounding pollution?",
+    "options": [
+      "Pollution is only considered criminal after a court conviction",
+      "Only those directly affected should be held responsible",
+      "The government should solely manage pollution issues",
+      "Economic costs should override environmental concerns"
+    ],
+    "correct_answer_text": "Pollution is only considered criminal after a court conviction"
+  }
+]

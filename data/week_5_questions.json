@@ -1,0 +1,585 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the primary goal of both economics and conservation, according to the text?",
+    "options": [
+      "Maximizing GDP",
+      "Protecting biodiversity",
+      "Maximizing resource efficiency",
+      "Maximizing the benefit of resources to mankind"
+    ],
+    "correct_answer_text": "Maximizing the benefit of resources to mankind"
+  },
+  {
+    "question_number": 2,
+    "question": "What analogy is used to illustrate the disconnect between economists and conservationists?",
+    "options": [
+      "Two ships sailing in opposite directions",
+      "Two trains on converging tracks",
+      "Two pilots with differing views of aircraft controls",
+      "Two hikers on separate trails"
+    ],
+    "correct_answer_text": "Two pilots with differing views of aircraft controls"
+  },
+  {
+    "question_number": 3,
+    "question": "What is the primary concern of Pilot 1 in the aircraft analogy?",
+    "options": [
+      "Fuel gauge",
+      "Air speed indicator",
+      "Altimeter, onboard radar, and wing flaps position",
+      "Cabin pressure dial"
+    ],
+    "correct_answer_text": "Altimeter, onboard radar, and wing flaps position"
+  },
+  {
+    "question_number": 4,
+    "question": "What is the primary concern of Pilot 2 in the aircraft analogy?",
+    "options": [
+      "Altimeter",
+      "Onboard radar",
+      "Fuel gauge, air speed indicator, and cabin pressure dial",
+      "Wing flaps position"
+    ],
+    "correct_answer_text": "Fuel gauge, air speed indicator, and cabin pressure dial"
+  },
+  {
+    "question_number": 5,
+    "question": "What crucial element is missing from the pilots' approach in the analogy?",
+    "options": [
+      "Communication and shared understanding",
+      "Advanced navigation systems",
+      "Meteorological data",
+      "Emergency procedures"
+    ],
+    "correct_answer_text": "Communication and shared understanding"
+  },
+  {
+    "question_number": 6,
+    "question": "What is the main point highlighted by the aircraft analogy concerning conservation?",
+    "options": [
+      "The need for advanced technology",
+      "The importance of pilot training",
+      "The need for a coherent approach involving all relevant factors",
+      "The danger of flying without a co-pilot"
+    ],
+    "correct_answer_text": "The need for a coherent approach involving all relevant factors"
+  },
+  {
+    "question_number": 7,
+    "question": "What is a key difference between the economic and ecological time horizons?",
+    "options": [
+      "Economists focus on the present, ecologists on the future.",
+      "Economists have a much longer time horizon than ecologists.",
+      "Economists focus on short-term gains, ecologists on long-term sustainability.",
+      "There is no significant difference in time horizons."
+    ],
+    "correct_answer_text": "Economists focus on short-term gains, ecologists on long-term sustainability."
+  },
+  {
+    "question_number": 8,
+    "question": "What time scale might an ecologist consider when making decisions?",
+    "options": [
+      "Next year",
+      "Next decade",
+      "Next century",
+      "Next hundreds or millions of years"
+    ],
+    "correct_answer_text": "Next hundreds or millions of years"
+  },
+  {
+    "question_number": 9,
+    "question": "What concept is defined as 'a development that meets the needs of the present without",
+    "options": [
+      "Utility",
+      "Utilitarianism",
+      "Economic growth",
+      "Sustainable development"
+    ],
+    "correct_answer_text": "Sustainable development"
+  },
+  {
+    "question_number": 10,
+    "question": "What is utility, as defined in the text?",
+    "options": [
+      "A measure of economic growth",
+      "A measure of environmental impact",
+      "A measure of happiness or satisfaction",
+      "A measure of sustainable development"
+    ],
+    "correct_answer_text": "A measure of happiness or satisfaction"
+  },
+  {
+    "question_number": 11,
+    "question": "What is utilitarianism, as defined in the text?",
+    "options": [
+      "A political philosophy aiming to maximize total utility of everyone in society.",
+      "An economic theory focused on resource efficiency.",
+      "An ecological principle emphasizing long-term sustainability.",
+      "A conservation strategy promoting biodiversity."
+    ],
+    "correct_answer_text": "A political philosophy aiming to maximize total utility of everyone in society."
+  },
+  {
+    "question_number": 12,
+    "question": "Does utilitarianism, as defined, explicitly consider the needs of future generations?",
+    "options": [
+      "Yes, it emphasizes intergenerational equity.",
+      "No, it focuses solely on the current society.",
+      "It partially considers future needs.",
+      "It does not mention future generations."
+    ],
+    "correct_answer_text": "No, it focuses solely on the current society."
+  },
+  {
+    "question_number": 13,
+    "question": "What are externalities?",
+    "options": [
+      "Government regulations",
+      "Market-based incentives",
+      "The impacts of one person's actions on the well-being of a bystander",
+      "International trade agreements"
+    ],
+    "correct_answer_text": "The impacts of one person's actions on the well-being of a bystander"
+  },
+  {
+    "question_number": 14,
+    "question": "What is a negative externality, as exemplified in the text?",
+    "options": [
+      "Education",
+      "Vaccination",
+      "Exhaust from industries or automobiles",
+      "Daily exercise"
+    ],
+    "correct_answer_text": "Exhaust from industries or automobiles"
+  },
+  {
+    "question_number": 15,
+    "question": "What is a positive externality, as exemplified in the text?",
+    "options": [
+      "Industrial pollution",
+      "Automobile emissions",
+      "Education",
+      "Deforestation"
+    ],
+    "correct_answer_text": "Education"
+  },
+  {
+    "question_number": 16,
+    "question": "What principle suggests that the polluter should pay for the costs of their actions?",
+    "options": [
+      "Coase Theorem",
+      "Pigouvian taxation",
+      "Utilitarianism",
+      "Polluter pays principle"
+    ],
+    "correct_answer_text": "Polluter pays principle"
+  },
+  {
+    "question_number": 17,
+    "question": "What is a command-and-control policy regarding externalities?",
+    "options": [
+      "Government subsidies",
+      "Pigouvian taxes",
+      "Government regulations",
+      "Tradable pollution permits"
+    ],
+    "correct_answer_text": "Government regulations"
+  },
+  {
+    "question_number": 18,
+    "question": "What are Pigouvian taxes and subsidies designed to do?",
+    "options": [
+      "Increase government revenue",
+      "Support specific industries",
+      "Incentivize desirable or undesirable actions",
+      "Reduce international trade"
+    ],
+    "correct_answer_text": "Incentivize desirable or undesirable actions"
+  },
+  {
+    "question_number": 19,
+    "question": "What is a tradable pollution permit?",
+    "options": [
+      "A government subsidy for pollution control",
+      "A tax on polluting industries",
+      "A permit allowing a certain level of pollution, which can be traded",
+      "A legal restriction on all pollution"
+    ],
+    "correct_answer_text": "A permit allowing a certain level of pollution, which can be traded"
+  },
+  {
+    "question_number": 20,
+    "question": "What is one benefit of tradable pollution permits for society?",
+    "options": [
+      "Increased government revenue",
+      "Reduced overall pollution at a lower cost",
+      "Increased profits for polluting industries",
+      "Elimination of all pollution"
+    ],
+    "correct_answer_text": "Reduced overall pollution at a lower cost"
+  },
+  {
+    "question_number": 21,
+    "question": "What are examples of private solutions to internalize externalities?",
+    "options": [
+      "Government regulations",
+      "Pigouvian taxes",
+      "Social norms and mores, charities, integrating businesses, bargaining",
+      "Tradable pollution permits"
+    ],
+    "correct_answer_text": "Social norms and mores, charities, integrating businesses, bargaining"
+  },
+  {
+    "question_number": 23,
+    "question": "What is an example of the Coase Theorem's application in the text?",
+    "options": [
+      "Pigouvian taxes",
+      "Government regulations",
+      "Bargaining over access to tiger reserves",
+      "Tradable pollution permits"
+    ],
+    "correct_answer_text": "Bargaining over access to tiger reserves"
+  },
+  {
+    "question_number": 24,
+    "question": "What is the Catskill watershed example illustrating?",
+    "options": [
+      "Command-and-control policies",
+      "Pigouvian taxes",
+      "The Coase Theorem in action",
+      "Tradable pollution permits"
+    ],
+    "correct_answer_text": "The Coase Theorem in action"
+  },
+  {
+    "question_number": 25,
+    "question": "What are the four categories of goods and services based on excludability and rivalry in",
+    "options": [
+      "Private, public, common, and club goods",
+      "Renewable, non-renewable, sustainable, and unsustainable goods",
+      "Tangible, intangible, scarce, and abundant goods",
+      "Imported, exported, domestic, and international goods"
+    ],
+    "correct_answer_text": "Private, public, common, and club goods"
+  },
+  {
+    "question_number": 26,
+    "question": "What type of good is clothing?",
+    "options": [
+      "Public good",
+      "Club good",
+      "Common resource",
+      "Private good"
+    ],
+    "correct_answer_text": "Private good"
+  },
+  {
+    "question_number": 27,
+    "question": "What type of good is fire protection?",
+    "options": [
+      "Private good",
+      "Club good",
+      "Common resource",
+      "Public good"
+    ],
+    "correct_answer_text": "Club good"
+  },
+  {
+    "question_number": 28,
+    "question": "What type of good is the environment?",
+    "options": [
+      "Private good",
+      "Club good",
+      "Common resource",
+      "Public good"
+    ],
+    "correct_answer_text": "Common resource"
+  },
+  {
+    "question_number": 29,
+    "question": "What type of good is national defense?",
+    "options": [
+      "Private good",
+      "Club good",
+      "Common resource",
+      "Public good"
+    ],
+    "correct_answer_text": "Public good"
+  },
+  {
+    "question_number": 30,
+    "question": "What is a key difference in the focus of economic and ecological thought processes regarding",
+    "options": [
+      "Economists focus on public goods, ecologists on private goods.",
+      "Economists focus on private goods, ecologists on common resources.",
+      "Both focus equally on all types of goods.",
+      "There is no significant difference in focus."
+    ],
+    "correct_answer_text": "Economists focus on private goods, ecologists on common resources."
+  },
+  {
+    "question_number": 31,
+    "question": "What is linear infrastructure?",
+    "options": [
+      "Infrastructure that is circular in design",
+      "Basic physical and organizational structures represented as lines",
+      "Infrastructure only found in urban areas",
+      "Infrastructure solely used for transportation"
+    ],
+    "correct_answer_text": "Basic physical and organizational structures represented as lines"
+  },
+  {
+    "question_number": 32,
+    "question": "What are some examples of linear infrastructure?",
+    "options": [
+      "Buildings and parks",
+      "Roads, railways, power lines",
+      "Hospitals and schools",
+      "Shopping malls and airports"
+    ],
+    "correct_answer_text": "Roads, railways, power lines"
+  },
+  {
+    "question_number": 34,
+    "question": "What is a human-wildlife conflict?",
+    "options": [
+      "When humans and wildlife coexist peacefully",
+      "When wildlife requirements encroach on human populations",
+      "When humans hunt wildlife illegally",
+      "When wildlife migrates to new areas"
+    ],
+    "correct_answer_text": "When wildlife requirements encroach on human populations"
+  },
+  {
+    "question_number": 35,
+    "question": "What are mitigation measures to reduce human-wildlife conflict?",
+    "options": [
+      "Increased hunting of wildlife",
+      "Relocation of human settlements",
+      "Underpasses, overpasses, canopy bridges",
+      "Ignoring the problem"
+    ],
+    "correct_answer_text": "Underpasses, overpasses, canopy bridges"
+  },
+  {
+    "question_number": 38,
+    "question": "According to the text, is the solution to environmental problems caused by economic decisions",
+    "options": [
+      "Less economics",
+      "More economics",
+      "No change in the economic approach",
+      "Irrelevant to economics"
+    ],
+    "correct_answer_text": "More economics"
+  },
+  {
+    "question_number": 39,
+    "question": "What is the main focus of Lecture 2?",
+    "options": [
+      "The ecological time horizon",
+      "The importance of sustainable development",
+      "Thinking like an economist",
+      "The Coase Theorem"
+    ],
+    "correct_answer_text": "Thinking like an economist"
+  },
+  {
+    "question_number": 40,
+    "question": "What is a market, as defined in the text?",
+    "options": [
+      "A physical store",
+      "A group of buyers and sellers of a particular good or service",
+      "A stock exchange",
+      "A location where goods are produced"
+    ],
+    "correct_answer_text": "A group of buyers and sellers of a particular good or service"
+  },
+  {
+    "question_number": 41,
+    "question": "What is quantity demanded?",
+    "options": [
+      "The amount of goods sellers are willing to sell",
+      "The amount of goods buyers are willing and able to purchase",
+      "The total amount of goods produced",
+      "The amount of goods available in the market"
+    ],
+    "correct_answer_text": "The amount of goods buyers are willing and able to purchase"
+  },
+  {
+    "question_number": 42,
+    "question": "What is quantity supplied?",
+    "options": [
+      "The amount of goods buyers are willing to purchase",
+      "The amount of goods sellers are willing and able to sell",
+      "The total amount of goods consumed",
+      "The amount of goods imported"
+    ],
+    "correct_answer_text": "The amount of goods sellers are willing and able to sell"
+  },
+  {
+    "question_number": 45,
+    "question": "What is a hypothesis?",
+    "options": [
+      "A proven fact",
+      "A possible explanation for an observation",
+      "A scientific law",
+      "A mathematical equation"
+    ],
+    "correct_answer_text": "A possible explanation for an observation"
+  },
+  {
+    "question_number": 46,
+    "question": "How are hypotheses tested?",
+    "options": [
+      "Through intuition",
+      "Through experiments or observations",
+      "Through theoretical calculations",
+      "Through guesswork"
+    ],
+    "correct_answer_text": "Through experiments or observations"
+  },
+  {
+    "question_number": 47,
+    "question": "What is a theory, as it relates to the scientific method?",
+    "options": [
+      "An unproven hypothesis",
+      "A confirmed hypothesis",
+      "A scientific law",
+      "A guess"
+    ],
+    "correct_answer_text": "A confirmed hypothesis"
+  },
+  {
+    "question_number": 48,
+    "question": "What is a natural experiment?",
+    "options": [
+      "A laboratory experiment",
+      "Naturally occurring variations used to test hypotheses",
+      "A computer simulation",
+      "A thought experiment"
+    ],
+    "correct_answer_text": "Naturally occurring variations used to test hypotheses"
+  },
+  {
+    "question_number": 49,
+    "question": "What is a model in economics?",
+    "options": [
+      "A complex representation of reality",
+      "A simplified depiction of reality",
+      "An exact replica of reality",
+      "A prediction of the future"
+    ],
+    "correct_answer_text": "A simplified depiction of reality"
+  },
+  {
+    "question_number": 50,
+    "question": "What is the circular flow diagram?",
+    "options": [
+      "A model showing the flow of money and goods between households and firms",
+      "A map of the global economy",
+      "A chart showing economic growth",
+      "A description of market equilibrium"
+    ],
+    "correct_answer_text": "A model showing the flow of money and goods between households and firms"
+  },
+  {
+    "question_number": 51,
+    "question": "What are the two main entities in the circular flow diagram?",
+    "options": [
+      "Governments and businesses",
+      "Households and firms",
+      "Buyers and sellers",
+      "Producers and consumers"
+    ],
+    "correct_answer_text": "Households and firms"
+  },
+  {
+    "question_number": 52,
+    "question": "What are factors of production?",
+    "options": [
+      "Goods and services",
+      "Money and capital",
+      "Land, labor, and capital",
+      "Taxes and subsidies"
+    ],
+    "correct_answer_text": "Land, labor, and capital"
+  },
+  {
+    "question_number": 53,
+    "question": "What is the production possibilities frontier?",
+    "options": [
+      "A graph showing combinations of output an economy can produce",
+      "A map of global production",
+      "A chart showing economic growth",
+      "A description of market supply"
+    ],
+    "correct_answer_text": "A graph showing combinations of output an economy can produce"
+  },
+  {
+    "question_number": 54,
+    "question": "What does the production possibilities frontier illustrate?",
+    "options": [
+      "Only what is currently being produced",
+      "The maximum output combinations given resources and technology",
+      "Only what can be produced in the future",
+      "Unlimited production possibilities"
+    ],
+    "correct_answer_text": "The maximum output combinations given resources and technology"
+  },
+  {
+    "question_number": 55,
+    "question": "What is opportunity cost?",
+    "options": [
+      "The total cost of production",
+      "What you give up to get something",
+      "The profit from production",
+      "The cost of resources"
+    ],
+    "correct_answer_text": "What you give up to get something"
+  },
+  {
+    "question_number": 56,
+    "question": "How does economic growth affect the production possibilities frontier?",
+    "options": [
+      "It shifts the curve inward",
+      "It has no effect on the curve",
+      "It shifts the curve outward",
+      "It changes the shape of the curve"
+    ],
+    "correct_answer_text": "It shifts the curve outward"
+  },
+  {
+    "question_number": 57,
+    "question": "What is microeconomics?",
+    "options": [
+      "The study of the overall economy",
+      "The study of individual economic agents and markets",
+      "The study of international trade",
+      "The study of government policies"
+    ],
+    "correct_answer_text": "The study of individual economic agents and markets"
+  },
+  {
+    "question_number": 58,
+    "question": "What is macroeconomics?",
+    "options": [
+      "The study of individual economic agents",
+      "The study of the overall economy",
+      "The study of microeconomic interactions",
+      "The study of market supply"
+    ],
+    "correct_answer_text": "The study of the overall economy"
+  },
+  {
+    "question_number": 59,
+    "question": "What macroeconomic phenomena are mentioned in the text?",
+    "options": [
+      "Inflation, unemployment, and economic growth",
+      "Supply and demand",
+      "Opportunity cost",
+      "Elasticity"
+    ],
+    "correct_answer_text": "Inflation, unemployment, and economic growth"
+  }
+]

@@ -1,0 +1,805 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the primary focus of Module 6?",
+    "options": [
+      "Elasticity",
+      "Government policy",
+      "Markets: Places where Economics works",
+      "Demand and supply"
+    ],
+    "correct_answer_text": "Markets: Places where Economics works"
+  },
+  {
+    "question_number": 2,
+    "question": "How many lectures are included in Module 6?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correct_answer_text": "Three"
+  },
+  {
+    "question_number": 3,
+    "question": "What defines a market?",
+    "options": [
+      "A single buyer and seller",
+      "A group of buyers only",
+      "A group of sellers only",
+      "A group of buyers and sellers of a particular good or service"
+    ],
+    "correct_answer_text": "A group of buyers and sellers of a particular good or service"
+  },
+  {
+    "question_number": 4,
+    "question": "Who determines the demand for a product?",
+    "options": [
+      "Sellers",
+      "Government",
+      "Buyers",
+      "Both buyers and sellers equally"
+    ],
+    "correct_answer_text": "Buyers"
+  },
+  {
+    "question_number": 5,
+    "question": "Who determines the supply for a product?",
+    "options": [
+      "Buyers",
+      "Government",
+      "Sellers",
+      "Both buyers and sellers equally"
+    ],
+    "correct_answer_text": "Sellers"
+  },
+  {
+    "question_number": 6,
+    "question": "Give an example of an organized market.",
+    "options": [
+      "Ice cream shops",
+      "Unorganized markets",
+      "Stock markets",
+      "Food grain markets"
+    ],
+    "correct_answer_text": "Food grain markets"
+  },
+  {
+    "question_number": 7,
+    "question": "Give an example of an unorganized market.",
+    "options": [
+      "Food grain markets",
+      "Organized markets",
+      "Stock markets",
+      "Ice cream shops"
+    ],
+    "correct_answer_text": "Ice cream shops"
+  },
+  {
+    "question_number": 8,
+    "question": "What characterizes a competitive market?",
+    "options": [
+      "Few buyers, few sellers",
+      "Single buyer, many sellers",
+      "Many buyers, many sellers, with negligible impact on market price",
+      "Single seller, many buyers"
+    ],
+    "correct_answer_text": "Many buyers, many sellers, with negligible impact on market price"
+  },
+  {
+    "question_number": 10,
+    "question": "What is a characteristic of a perfectly competitive market regarding goods offered for sale?",
+    "options": [
+      "Goods are of varying quality",
+      "Goods are branded",
+      "Goods are exactly the same",
+      "Goods are non-uniform"
+    ],
+    "correct_answer_text": "Goods are exactly the same"
+  },
+  {
+    "question_number": 11,
+    "question": "What are price takers?",
+    "options": [
+      "Buyers who influence market prices",
+      "Sellers who influence market prices",
+      "Buyers and sellers who accept the market price",
+      "Government agencies that set prices"
+    ],
+    "correct_answer_text": "Buyers and sellers who accept the market price"
+  },
+  {
+    "question_number": 12,
+    "question": "What does perfect information transfer regarding prices mean?",
+    "options": [
+      "Buyers and sellers have limited knowledge of prices",
+      "Only sellers know all prices",
+      "Only buyers know all prices",
+      "All buyers and sellers know who is buying and selling at what price"
+    ],
+    "correct_answer_text": "All buyers and sellers know who is buying and selling at what price"
+  },
+  {
+    "question_number": 13,
+    "question": "What is essential for a perfectly competitive market to function?",
+    "options": [
+      "Undefined property rights",
+      "Limited information transfer",
+      "Well-defined property rights",
+      "Restricted entry and exit"
+    ],
+    "correct_answer_text": "Well-defined property rights"
+  },
+  {
+    "question_number": 14,
+    "question": "What does free entry and exit mean in a perfectly competitive market?",
+    "options": [
+      "Restrictions on the number of buyers and sellers",
+      "No restrictions on the number of buyers and sellers",
+      "Only certain sellers can participate",
+      "Only certain buyers can participate"
+    ],
+    "correct_answer_text": "No restrictions on the number of buyers and sellers"
+  },
+  {
+    "question_number": 15,
+    "question": "What assumption does a perfectly competitive market make about buyers and sellers?",
+    "options": [
+      "Irrational decision-making",
+      "Maximizing their utility",
+      "Minimizing their utility",
+      "Ignoring market prices"
+    ],
+    "correct_answer_text": "Maximizing their utility"
+  },
+  {
+    "question_number": 16,
+    "question": "What is assumed about transaction costs in a perfectly competitive market?",
+    "options": [
+      "High transaction costs",
+      "Zero transaction costs",
+      "Moderate transaction costs",
+      "Variable transaction costs"
+    ],
+    "correct_answer_text": "Zero transaction costs"
+  },
+  {
+    "question_number": 17,
+    "question": "Why is a perfectly competitive market a theoretical concept?",
+    "options": [
+      "It accurately reflects all real-world markets",
+      "It ignores real-world factors like transaction costs",
+      "It is too complex to model",
+      "It is outdated"
+    ],
+    "correct_answer_text": "It ignores real-world factors like transaction costs"
+  },
+  {
+    "question_number": 18,
+    "question": "What is quantity demanded?",
+    "options": [
+      "Amount buyers want to buy, regardless of ability",
+      "Amount buyers are willing and able to purchase",
+      "Amount sellers are willing to sell",
+      "Amount of goods available in the market"
+    ],
+    "correct_answer_text": "Amount buyers are willing and able to purchase"
+  },
+  {
+    "question_number": 19,
+    "question": "What is the law of demand?",
+    "options": [
+      "Quantity demanded increases with price increase",
+      "Quantity demanded remains constant with price change",
+      "Quantity demanded falls when price rises (other things being equal)",
+      "Quantity demanded has no relation to price"
+    ],
+    "correct_answer_text": "Quantity demanded falls when price rises (other things being equal)"
+  },
+  {
+    "question_number": 20,
+    "question": "What is a demand curve?",
+    "options": [
+      "A table showing price and quantity supplied",
+      "A graph showing the relationship between price and quantity demanded",
+      "A table showing price and quantity demanded",
+      "A graph showing the relationship between price and quantity supplied"
+    ],
+    "correct_answer_text": "A graph showing the relationship between price and quantity demanded"
+  },
+  {
+    "question_number": 21,
+    "question": "What is a demand schedule?",
+    "options": [
+      "A graph showing price and quantity supplied",
+      "A graph showing the relationship between price and quantity demanded",
+      "A table showing the relationship between price and quantity demanded",
+      "A table showing price and quantity supplied"
+    ],
+    "correct_answer_text": "A table showing the relationship between price and quantity demanded"
+  },
+  {
+    "question_number": 22,
+    "question": "What happens to quantity demanded when the value of a good is greater than its price?",
+    "options": [
+      "Quantity demanded is infinite",
+      "Quantity demanded is zero",
+      "Quantity demanded is limited",
+      "Quantity demanded is unpredictable"
+    ],
+    "correct_answer_text": "Quantity demanded is limited"
+  },
+  {
+    "question_number": 23,
+    "question": "How is market demand derived?",
+    "options": [
+      "Subtracting individual demand schedules",
+      "Averaging individual demand schedules",
+      "Summing individual demand schedules",
+      "Ignoring individual demand schedules"
+    ],
+    "correct_answer_text": "Summing individual demand schedules"
+  },
+  {
+    "question_number": 24,
+    "question": "What does a rightward shift of the demand curve indicate?",
+    "options": [
+      "Decrease in demand",
+      "Increase in demand",
+      "No change in demand",
+      "Movement along the curve"
+    ],
+    "correct_answer_text": "Increase in demand"
+  },
+  {
+    "question_number": 25,
+    "question": "What does a leftward shift of the demand curve indicate?",
+    "options": [
+      "Increase in demand",
+      "Decrease in demand",
+      "No change in demand",
+      "Movement along the curve"
+    ],
+    "correct_answer_text": "Decrease in demand"
+  },
+  {
+    "question_number": 26,
+    "question": "What is a normal good?",
+    "options": [
+      "Good for which demand decreases with income increase",
+      "Good for which demand increases with income increase",
+      "Good for which demand is not affected by income",
+      "Good with fluctuating demand"
+    ],
+    "correct_answer_text": "Good for which demand increases with income increase"
+  },
+  {
+    "question_number": 27,
+    "question": "What is an inferior good?",
+    "options": [
+      "Good for which demand increases with income increase",
+      "Good for which demand decreases with income increase",
+      "Good for which demand is not affected by income",
+      "Good with fluctuating demand"
+    ],
+    "correct_answer_text": "Good for which demand decreases with income increase"
+  },
+  {
+    "question_number": 29,
+    "question": "What are complements?",
+    "options": [
+      "Goods consumed together",
+      "Goods for which an increase in the price of one leads to an increase in demand for the other",
+      "Goods with no relation to each other",
+      "Goods that are never consumed together"
+    ],
+    "correct_answer_text": "Goods consumed together"
+  },
+  {
+    "question_number": 31,
+    "question": "What is quantity supplied?",
+    "options": [
+      "Amount sellers want to sell, regardless of ability",
+      "Amount sellers are willing and able to sell",
+      "Amount buyers are willing to buy",
+      "Amount of goods available in the market"
+    ],
+    "correct_answer_text": "Amount sellers are willing and able to sell"
+  },
+  {
+    "question_number": 32,
+    "question": "What is the law of supply?",
+    "options": [
+      "Quantity supplied falls when price rises (other things being equal)",
+      "Quantity supplied remains constant with price change",
+      "Quantity supplied increases when price rises (other things being equal)",
+      "Quantity supplied has no relation to price"
+    ],
+    "correct_answer_text": "Quantity supplied increases when price rises (other things being equal)"
+  },
+  {
+    "question_number": 33,
+    "question": "What is a supply curve?",
+    "options": [
+      "A table showing price and quantity demanded",
+      "A graph showing the relationship between price and quantity supplied",
+      "A table showing price and quantity supplied",
+      "A graph showing the relationship between price and quantity demanded"
+    ],
+    "correct_answer_text": "A graph showing the relationship between price and quantity supplied"
+  },
+  {
+    "question_number": 34,
+    "question": "What is a supply schedule?",
+    "options": [
+      "A graph showing price and quantity demanded",
+      "A table showing price and quantity demanded",
+      "A graph showing price and quantity supplied",
+      "A table showing price and quantity supplied"
+    ],
+    "correct_answer_text": "A table showing price and quantity supplied"
+  },
+  {
+    "question_number": 35,
+    "question": "What happens to quantity supplied when production costs increase?",
+    "options": [
+      "Quantity supplied increases",
+      "Quantity supplied remains the same",
+      "Quantity supplied decreases",
+      "Quantity supplied is unpredictable"
+    ],
+    "correct_answer_text": "Quantity supplied decreases"
+  },
+  {
+    "question_number": 36,
+    "question": "How is market supply derived?",
+    "options": [
+      "Subtracting individual supply schedules",
+      "Averaging individual supply schedules",
+      "Summing individual supply schedules",
+      "Ignoring individual supply schedules"
+    ],
+    "correct_answer_text": "Summing individual supply schedules"
+  },
+  {
+    "question_number": 37,
+    "question": "What does a rightward shift of the supply curve indicate?",
+    "options": [
+      "Decrease in supply",
+      "Increase in supply",
+      "No change in supply",
+      "Movement along the curve"
+    ],
+    "correct_answer_text": "Increase in supply"
+  },
+  {
+    "question_number": 38,
+    "question": "What does a leftward shift of the supply curve indicate?",
+    "options": [
+      "Increase in supply",
+      "Decrease in supply",
+      "No change in supply",
+      "Movement along the curve"
+    ],
+    "correct_answer_text": "Decrease in supply"
+  },
+  {
+    "question_number": 39,
+    "question": "What can cause shifts in the supply curve?",
+    "options": [
+      "Only changes in price",
+      "Changes in input prices, technology, expectations, number of sellers",
+      "Only changes in input prices",
+      "Only changes in technology"
+    ],
+    "correct_answer_text": "Changes in input prices, technology, expectations, number of sellers"
+  },
+  {
+    "question_number": 40,
+    "question": "What is equilibrium?",
+    "options": [
+      "When quantity demanded exceeds quantity supplied",
+      "When quantity supplied exceeds quantity demanded",
+      "When quantity supplied equals quantity demanded",
+      "When there is no market interaction"
+    ],
+    "correct_answer_text": "When quantity supplied equals quantity demanded"
+  },
+  {
+    "question_number": 41,
+    "question": "What is the equilibrium price?",
+    "options": [
+      "Price at which quantity demanded is less than quantity supplied",
+      "Price at which quantity supplied is less than quantity demanded",
+      "Price at which quantity supplied equals quantity demanded",
+      "Price determined by the government"
+    ],
+    "correct_answer_text": "Price at which quantity supplied equals quantity demanded"
+  },
+  {
+    "question_number": 42,
+    "question": "What is the equilibrium quantity?",
+    "options": [
+      "Quantity demanded at any price",
+      "Quantity supplied at any price",
+      "Quantity demanded and supplied at the equilibrium price",
+      "Quantity determined by the government"
+    ],
+    "correct_answer_text": "Quantity demanded and supplied at the equilibrium price"
+  },
+  {
+    "question_number": 43,
+    "question": "What is the law of supply and demand?",
+    "options": [
+      "Price adjusts to balance quantity supplied and demanded",
+      "Price remains constant regardless of supply and demand",
+      "Price is determined solely by supply",
+      "Price is determined solely by demand"
+    ],
+    "correct_answer_text": "Price adjusts to balance quantity supplied and demanded"
+  },
+  {
+    "question_number": 44,
+    "question": "What happens to price and quantity when demand increases and supply remains constant?",
+    "options": [
+      "Price decreases, quantity decreases",
+      "Price increases, quantity increases",
+      "Price increases, quantity decreases",
+      "Price decreases, quantity increases"
+    ],
+    "correct_answer_text": "Price increases, quantity increases"
+  },
+  {
+    "question_number": 45,
+    "question": "What happens to price and quantity when supply decreases and demand remains constant?",
+    "options": [
+      "Price increases, quantity increases",
+      "Price decreases, quantity decreases",
+      "Price increases, quantity decreases",
+      "Price decreases, quantity increases"
+    ],
+    "correct_answer_text": "Price increases, quantity decreases"
+  },
+  {
+    "question_number": 46,
+    "question": "What happens to price when demand increases and supply decreases?",
+    "options": [
+      "Price decreases",
+      "Price remains the same",
+      "Price increases",
+      "Price is unpredictable"
+    ],
+    "correct_answer_text": "Price increases"
+  },
+  {
+    "question_number": 47,
+    "question": "What happens to quantity when demand increases and supply decreases?",
+    "options": [
+      "Quantity always increases",
+      "Quantity always decreases",
+      "Quantity may increase or decrease",
+      "Quantity remains the same"
+    ],
+    "correct_answer_text": "Quantity may increase or decrease"
+  },
+  {
+    "question_number": 48,
+    "question": "What is elasticity?",
+    "options": [
+      "A measure of how buyers and sellers respond to market changes",
+      "A measure of market size",
+      "A measure of government intervention",
+      "A measure of production costs"
+    ],
+    "correct_answer_text": "A measure of how buyers and sellers respond to market changes"
+  },
+  {
+    "question_number": 49,
+    "question": "What is price elasticity of demand?",
+    "options": [
+      "Responsiveness of quantity supplied to price change",
+      "Responsiveness of quantity demanded to price change",
+      "Responsiveness of price to quantity demanded",
+      "Responsiveness of price to quantity supplied"
+    ],
+    "correct_answer_text": "Responsiveness of quantity demanded to price change"
+  },
+  {
+    "question_number": 50,
+    "question": "How is price elasticity of demand computed?",
+    "options": [
+      "Percentage change in price / percentage change in quantity demanded",
+      "Percentage change in quantity demanded / percentage change in price",
+      "Price / quantity demanded",
+      "Quantity demanded / price"
+    ],
+    "correct_answer_text": "Percentage change in quantity demanded / percentage change in price"
+  },
+  {
+    "question_number": 51,
+    "question": "What does inelastic demand mean?",
+    "options": [
+      "Small price change leads to large quantity demanded change",
+      "Large price change leads to small quantity demanded change",
+      "Price change has no effect on quantity demanded",
+      "Quantity demanded changes proportionally to price change"
+    ],
+    "correct_answer_text": "Large price change leads to small quantity demanded change"
+  },
+  {
+    "question_number": 52,
+    "question": "What does elastic demand mean?",
+    "options": [
+      "Large price change leads to small quantity demanded change",
+      "Small price change leads to large quantity demanded change",
+      "Price change has no effect on quantity demanded",
+      "Quantity demanded changes proportionally to price change"
+    ],
+    "correct_answer_text": "Small price change leads to large quantity demanded change"
+  },
+  {
+    "question_number": 53,
+    "question": "What does a perfectly inelastic demand curve look like?",
+    "options": [
+      "Horizontal",
+      "Diagonal",
+      "Vertical",
+      "Curved"
+    ],
+    "correct_answer_text": "Vertical"
+  },
+  {
+    "question_number": 54,
+    "question": "What does a perfectly elastic demand curve look like?",
+    "options": [
+      "Vertical",
+      "Diagonal",
+      "Curved",
+      "Horizontal"
+    ],
+    "correct_answer_text": "Horizontal"
+  },
+  {
+    "question_number": 55,
+    "question": "What determines price elasticity of demand?",
+    "options": [
+      "Availability of substitutes, necessity vs. luxury, market definition, time horizon",
+      "Only availability of substitutes",
+      "Only necessity vs. luxury",
+      "Only market definition"
+    ],
+    "correct_answer_text": "Availability of substitutes, necessity vs. luxury, market definition, time horizon"
+  },
+  {
+    "question_number": 56,
+    "question": "How does the availability of close substitutes affect price elasticity of demand?",
+    "options": [
+      "Makes demand more inelastic",
+      "Makes demand more elastic",
+      "Has no effect on demand elasticity",
+      "Makes demand unpredictable"
+    ],
+    "correct_answer_text": "Makes demand more elastic"
+  },
+  {
+    "question_number": 57,
+    "question": "How does the necessity vs. luxury nature of a good affect price elasticity of demand?",
+    "options": [
+      "Luxuries have less elastic demand than necessities",
+      "Necessity and luxury have equal elasticity",
+      "Luxuries have more elastic demand than necessities",
+      "There is no relation between necessity/luxury and demand elasticity"
+    ],
+    "correct_answer_text": "Luxuries have more elastic demand than necessities"
+  },
+  {
+    "question_number": 58,
+    "question": "How does market definition affect price elasticity of demand?",
+    "options": [
+      "Narrower market definitions lead to more inelastic demand",
+      "Narrower market definitions lead to more elastic demand",
+      "Market definition has no effect on demand elasticity",
+      "Wider market definitions lead to more elastic demand"
+    ],
+    "correct_answer_text": "Narrower market definitions lead to more elastic demand"
+  },
+  {
+    "question_number": 59,
+    "question": "How does time horizon affect price elasticity of demand?",
+    "options": [
+      "Elasticity decreases over longer time horizons",
+      "Elasticity increases over longer time horizons",
+      "Time horizon has no effect on demand elasticity",
+      "Elasticity is constant regardless of time horizon"
+    ],
+    "correct_answer_text": "Elasticity increases over longer time horizons"
+  },
+  {
+    "question_number": 60,
+    "question": "What is income elasticity of demand?",
+    "options": [
+      "Responsiveness of quantity supplied to income change",
+      "Responsiveness of quantity demanded to income change",
+      "Responsiveness of income to quantity demanded",
+      "Responsiveness of income to quantity supplied"
+    ],
+    "correct_answer_text": "Responsiveness of quantity demanded to income change"
+  },
+  {
+    "question_number": 61,
+    "question": "How is income elasticity of demand computed?",
+    "options": [
+      "Percentage change in income / percentage change in quantity demanded",
+      "Percentage change in quantity demanded / percentage change in income",
+      "Income / quantity demanded",
+      "Quantity demanded / income"
+    ],
+    "correct_answer_text": "Percentage change in quantity demanded / percentage change in income"
+  },
+  {
+    "question_number": 64,
+    "question": "What is price elasticity of supply?",
+    "options": [
+      "Responsiveness of quantity demanded to price change",
+      "Responsiveness of quantity supplied to price change",
+      "Responsiveness of price to quantity demanded",
+      "Responsiveness of price to quantity supplied"
+    ],
+    "correct_answer_text": "Responsiveness of quantity supplied to price change"
+  },
+  {
+    "question_number": 65,
+    "question": "How is price elasticity of supply computed?",
+    "options": [
+      "Percentage change in price / percentage change in quantity supplied",
+      "Percentage change in quantity supplied / percentage change in price",
+      "Price / quantity supplied",
+      "Quantity supplied / price"
+    ],
+    "correct_answer_text": "Percentage change in quantity supplied / percentage change in price"
+  },
+  {
+    "question_number": 66,
+    "question": "What does inelastic supply mean?",
+    "options": [
+      "Small price change leads to large quantity supplied change",
+      "Large price change leads to small quantity supplied change",
+      "Price change has no effect on quantity supplied",
+      "Quantity supplied changes proportionally to price change"
+    ],
+    "correct_answer_text": "Large price change leads to small quantity supplied change"
+  },
+  {
+    "question_number": 67,
+    "question": "What does elastic supply mean?",
+    "options": [
+      "Large price change leads to small quantity supplied change",
+      "Small price change leads to large quantity supplied change",
+      "Price change has no effect on quantity supplied",
+      "Quantity supplied changes proportionally to price change"
+    ],
+    "correct_answer_text": "Small price change leads to large quantity supplied change"
+  },
+  {
+    "question_number": 68,
+    "question": "What does a perfectly inelastic supply curve look like?",
+    "options": [
+      "Horizontal",
+      "Diagonal",
+      "Vertical",
+      "Curved"
+    ],
+    "correct_answer_text": "Vertical"
+  },
+  {
+    "question_number": 69,
+    "question": "What does a perfectly elastic supply curve look like?",
+    "options": [
+      "Vertical",
+      "Diagonal",
+      "Curved",
+      "Horizontal"
+    ],
+    "correct_answer_text": "Horizontal"
+  },
+  {
+    "question_number": 70,
+    "question": "What determines price elasticity of supply?",
+    "options": [
+      "Ability of sellers to change quantity supplied, time horizon",
+      "Only ability of sellers to change quantity supplied",
+      "Only time horizon",
+      "Neither ability nor time horizon"
+    ],
+    "correct_answer_text": "Ability of sellers to change quantity supplied, time horizon"
+  },
+  {
+    "question_number": 71,
+    "question": "How does time horizon affect price elasticity of supply?",
+    "options": [
+      "Elasticity increases over longer time horizons",
+      "Elasticity decreases over longer time horizons",
+      "Time horizon has no effect on supply elasticity",
+      "Elasticity is constant regardless of time horizon"
+    ],
+    "correct_answer_text": "Elasticity increases over longer time horizons"
+  },
+  {
+    "question_number": 72,
+    "question": "Why is elasticity important?",
+    "options": [
+      "It determines market outcomes and seller power",
+      "It determines government policy",
+      "It is irrelevant to market analysis",
+      "It is only useful in theoretical models"
+    ],
+    "correct_answer_text": "It determines market outcomes and seller power"
+  },
+  {
+    "question_number": 73,
+    "question": "What happens to farmer revenue with a bumper harvest and inelastic demand?",
+    "options": [
+      "Revenue increases",
+      "Revenue remains the same",
+      "Revenue decreases",
+      "Revenue is unpredictable"
+    ],
+    "correct_answer_text": "Revenue decreases"
+  },
+  {
+    "question_number": 74,
+    "question": "How does inelastic demand affect seller market power?",
+    "options": [
+      "Increases seller power",
+      "Decreases seller power",
+      "Has no effect on seller power",
+      "Makes seller power unpredictable"
+    ],
+    "correct_answer_text": "Increases seller power"
+  },
+  {
+    "question_number": 75,
+    "question": "How does seller market power change in the long run?",
+    "options": [
+      "Remains constant",
+      "Increases significantly",
+      "Decreases significantly",
+      "Becomes unpredictable"
+    ],
+    "correct_answer_text": "Decreases significantly"
+  },
+  {
+    "question_number": 76,
+    "question": "What are the prerequisites for a properly functioning market?",
+    "options": [
+      "Property rights, institutions, no externalities",
+      "Government regulation",
+      "Perfect competition",
+      "Absence of competition"
+    ],
+    "correct_answer_text": "Property rights, institutions, no externalities"
+  },
+  {
+    "question_number": 77,
+    "question": "What is an externality?",
+    "options": [
+      "A factor that only affects the producer",
+      "A factor that only affects the consumer",
+      "A factor that affects a bystander not involved in the action",
+      "A factor that has no external effects"
+    ],
+    "correct_answer_text": "A factor that affects a bystander not involved in the action"
+  },
+  {
+    "question_number": 78,
+    "question": "Why might a government intervene in a market?",
+    "options": [
+      "To improve market outcomes",
+      "To decrease market efficiency",
+      "To create monopolies",
+      "To hinder competition"
+    ],
+    "correct_answer_text": "To improve market outcomes"
+  }
+]

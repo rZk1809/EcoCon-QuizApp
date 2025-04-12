@@ -1,0 +1,651 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the primary focus of Module 4?",
+    "options": [
+      "Push and pull factors in biogeography",
+      "Threats to wildlife",
+      "Ecotoxicology and developmental hazards",
+      "Habitat selection in chipping sparrows"
+    ],
+    "correct_answer_text": "Threats to wildlife"
+  },
+  {
+    "question_number": 2,
+    "question": "What field studies the geographical distribution of life on Earth?",
+    "options": [
+      "Ecology",
+      "Conservation Economics",
+      "Biogeography",
+      "Ecotoxicology"
+    ],
+    "correct_answer_text": "Biogeography"
+  },
+  {
+    "question_number": 3,
+    "question": "What is the 'range' of a species?",
+    "options": [
+      "The species' average lifespan",
+      "The geographical area where the species is found",
+      "The number of individuals in a species",
+      "The species' preferred habitat"
+    ],
+    "correct_answer_text": "The geographical area where the species is found"
+  },
+  {
+    "question_number": 4,
+    "question": "Which habitat is characterized by cold mountainous areas and grasslands?",
+    "options": [
+      "Alpine forest",
+      "Moist deciduous forest",
+      "Alpine meadow",
+      "Scrub forest"
+    ],
+    "correct_answer_text": "Alpine meadow"
+  },
+  {
+    "question_number": 5,
+    "question": "What type of trees are most common in Alpine forests?",
+    "options": [
+      "Deciduous trees",
+      "Sal trees",
+      "Teak trees",
+      "Coniferous trees"
+    ],
+    "correct_answer_text": "Coniferous trees"
+  },
+  {
+    "question_number": 6,
+    "question": "What characterizes a deciduous forest?",
+    "options": [
+      "Trees that retain their leaves year-round",
+      "Trees that shed their leaves seasonally",
+      "Trees found only in hot climates",
+      "Trees found only in cold climates"
+    ],
+    "correct_answer_text": "Trees that shed their leaves seasonally"
+  },
+  {
+    "question_number": 7,
+    "question": "Which type of forest is a good habitat for tigers?",
+    "options": [
+      "Alpine meadow",
+      "Alpine forest",
+      "Moist deciduous forest",
+      "Scrub forest"
+    ],
+    "correct_answer_text": "Moist deciduous forest"
+  },
+  {
+    "question_number": 8,
+    "question": "What is a characteristic feature of scrub forests?",
+    "options": [
+      "Abundant rainfall",
+      "Large, tall trees",
+      "Scarcity of water",
+      "High altitude"
+    ],
+    "correct_answer_text": "Scarcity of water"
+  },
+  {
+    "question_number": 9,
+    "question": "What is an endemic species?",
+    "options": [
+      "A species found worldwide",
+      "A species found only in one area",
+      "A species that migrates seasonally",
+      "A species that is invasive"
+    ],
+    "correct_answer_text": "A species found only in one area"
+  },
+  {
+    "question_number": 10,
+    "question": "Where are sand dunes typically found?",
+    "options": [
+      "Areas with abundant rainfall",
+      "Areas with high altitude",
+      "Very dry areas",
+      "Estuaries"
+    ],
+    "correct_answer_text": "Very dry areas"
+  },
+  {
+    "question_number": 11,
+    "question": "What are estuaries?",
+    "options": [
+      "Areas where rivers meet the sea",
+      "Areas of high altitude",
+      "Areas of dense scrub vegetation",
+      "Areas of sand dunes"
+    ],
+    "correct_answer_text": "Areas where rivers meet the sea"
+  },
+  {
+    "question_number": 12,
+    "question": "What is a characteristic feature of a Rann region?",
+    "options": [
+      "High altitude",
+      "Dense forest cover",
+      "Flat terrain that floods seasonally",
+      "Abundant freshwater"
+    ],
+    "correct_answer_text": "Flat terrain that floods seasonally"
+  },
+  {
+    "question_number": 13,
+    "question": "What is a characteristic of Chilika Lake?",
+    "options": [
+      "High altitude",
+      "Deep water",
+      "A gradient of salinity",
+      "Abundant freshwater"
+    ],
+    "correct_answer_text": "A gradient of salinity"
+  },
+  {
+    "question_number": 14,
+    "question": "What type of habitat are Brahmaputra floodplains?",
+    "options": [
+      "Desert",
+      "Mangrove",
+      "Floodplain",
+      "Estuary"
+    ],
+    "correct_answer_text": "Floodplain"
+  },
+  {
+    "question_number": 15,
+    "question": "What is a unique characteristic of shola forests?",
+    "options": [
+      "Dominated by coniferous trees",
+      "Found in very dry areas",
+      "A dynamic equilibrium between grasses and trees",
+      "Inundated with water seasonally"
+    ],
+    "correct_answer_text": "A dynamic equilibrium between grasses and trees"
+  },
+  {
+    "question_number": 16,
+    "question": "Where are equatorial forests found in India?",
+    "options": [
+      "Himalayan region",
+      "Deccan plateau",
+      "Andaman and Nicobar Islands",
+      "Western Ghats"
+    ],
+    "correct_answer_text": "Andaman and Nicobar Islands"
+  },
+  {
+    "question_number": 17,
+    "question": "What is vivipary?",
+    "options": [
+      "A type of mangrove tree",
+      "A type of forest fire",
+      "Germination of seeds while still on the tree",
+      "A type of competition between species"
+    ],
+    "correct_answer_text": "Germination of seeds while still on the tree"
+  },
+  {
+    "question_number": 18,
+    "question": "What is a pneumatophore?",
+    "options": [
+      "A type of mangrove root",
+      "A type of bird",
+      "A type of plant",
+      "A type of fish"
+    ],
+    "correct_answer_text": "A type of mangrove root"
+  },
+  {
+    "question_number": 19,
+    "question": "What major factor influences species distribution?",
+    "options": [
+      "Soil type",
+      "Habitat selection",
+      "Climate",
+      "Predation"
+    ],
+    "correct_answer_text": "Climate"
+  },
+  {
+    "question_number": 20,
+    "question": "What is altitudinal zonation?",
+    "options": [
+      "The distribution of species based on altitude",
+      "The distribution of species based on latitude",
+      "The distribution of species based on rainfall",
+      "The distribution of species based on temperature"
+    ],
+    "correct_answer_text": "The distribution of species based on altitude"
+  },
+  {
+    "question_number": 21,
+    "question": "What are pull factors?",
+    "options": [
+      "Conditions that repel organisms",
+      "Conditions that attract organisms",
+      "Conditions that limit growth",
+      "Conditions that cause disease"
+    ],
+    "correct_answer_text": "Conditions that attract organisms"
+  },
+  {
+    "question_number": 22,
+    "question": "What are push factors?",
+    "options": [
+      "Conditions that attract organisms",
+      "Conditions that repel organisms",
+      "Conditions that promote growth",
+      "Conditions that increase biodiversity"
+    ],
+    "correct_answer_text": "Conditions that repel organisms"
+  },
+  {
+    "question_number": 23,
+    "question": "What does Liebig's Law of the Minimum state?",
+    "options": [
+      "Growth is limited by the most abundant factor",
+      "Growth is limited by the least abundant factor",
+      "Growth is limited by competition",
+      "Growth is limited by predation"
+    ],
+    "correct_answer_text": "Growth is limited by the least abundant factor"
+  },
+  {
+    "question_number": 25,
+    "question": "What is Allelopathy?",
+    "options": [
+      "A type of symbiotic relationship",
+      "The secretion of chemicals that inhibit growth",
+      "A type of competition",
+      "A type of predation"
+    ],
+    "correct_answer_text": "The secretion of chemicals that inhibit growth"
+  },
+  {
+    "question_number": 26,
+    "question": "What is predation?",
+    "options": [
+      "One species benefiting from another without harming it",
+      "One species killing and eating another",
+      "Competition for resources",
+      "Symbiotic relationship"
+    ],
+    "correct_answer_text": "One species killing and eating another"
+  },
+  {
+    "question_number": 27,
+    "question": "What is interspecific competition?",
+    "options": [
+      "Competition between individuals of the same species",
+      "Competition between individuals of different species",
+      "Competition for mates",
+      "Competition for territory"
+    ],
+    "correct_answer_text": "Competition between individuals of different species"
+  },
+  {
+    "question_number": 28,
+    "question": "What is habitat selection?",
+    "options": [
+      "Random choice of habitat",
+      "A hierarchical process of behavioral responses influencing habitat use",
+      "Adaptation to a specific habitat",
+      "Migration to a new habitat"
+    ],
+    "correct_answer_text": "A hierarchical process of behavioral responses influencing habitat use"
+  },
+  {
+    "question_number": 29,
+    "question": "What is dispersal?",
+    "options": [
+      "Seasonal movement of animals",
+      "Movement of individuals away from their birthplace",
+      "Competition for resources",
+      "Predation"
+    ],
+    "correct_answer_text": "Movement of individuals away from their birthplace"
+  },
+  {
+    "question_number": 30,
+    "question": "What is the difference between dispersal and migration?",
+    "options": [
+      "Dispersal is seasonal, migration is not",
+      "Dispersal is not seasonal, migration is",
+      "Both are the same",
+      "Dispersal is random, migration follows fixed routes"
+    ],
+    "correct_answer_text": "Dispersal is random, migration follows fixed routes"
+  },
+  {
+    "question_number": 31,
+    "question": "What are the three types of dispersal mentioned?",
+    "options": [
+      "Diffusion, Jump dispersal, Secular dispersal",
+      "Migration, Emigration, Immigration",
+      "Active, Passive, Assisted",
+      "Random, Directional, Cyclic"
+    ],
+    "correct_answer_text": "Diffusion, Jump dispersal, Secular dispersal"
+  },
+  {
+    "question_number": 32,
+    "question": "What are anthropogenic factors?",
+    "options": [
+      "Natural factors affecting species distribution",
+      "Man-made factors affecting species distribution",
+      "Factors related to climate change",
+      "Factors related to disease"
+    ],
+    "correct_answer_text": "Man-made factors affecting species distribution"
+  },
+  {
+    "question_number": 33,
+    "question": "What is the purpose of transplantation experiments?",
+    "options": [
+      "To study migration patterns",
+      "To determine factors limiting species distribution",
+      "To study habitat selection",
+      "To study dispersal"
+    ],
+    "correct_answer_text": "To determine factors limiting species distribution"
+  },
+  {
+    "question_number": 34,
+    "question": "What are the main categories of push factors discussed in Lecture 2?",
+    "options": [
+      "Habitat, competition, predation",
+      "Habitat, competition, human activity",
+      "Competition, predation, disease",
+      "Habitat, climate, disease"
+    ],
+    "correct_answer_text": "Habitat, competition, human activity"
+  },
+  {
+    "question_number": 35,
+    "question": "What is the Allee effect?",
+    "options": [
+      "An effect that occurs when populations are large",
+      "An effect that occurs when populations are small",
+      "A type of competition",
+      "A type of predation"
+    ],
+    "correct_answer_text": "An effect that occurs when populations are small"
+  },
+  {
+    "question_number": 36,
+    "question": "What are stochastic deaths?",
+    "options": [
+      "Predictable deaths",
+      "Random deaths",
+      "Deaths due to disease",
+      "Deaths due to predation"
+    ],
+    "correct_answer_text": "Random deaths"
+  },
+  {
+    "question_number": 37,
+    "question": "What are the two paradigms discussed in relation to push factors?",
+    "options": [
+      "Declining population paradigm, Small population paradigm",
+      "Large population paradigm, Small population paradigm",
+      "Growing population paradigm, Stable population paradigm",
+      "Declining population paradigm, Growing population paradigm"
+    ],
+    "correct_answer_text": "Declining population paradigm, Small population paradigm"
+  },
+  {
+    "question_number": 38,
+    "question": "What are deterministic factors?",
+    "options": [
+      "Factors that act randomly",
+      "Factors that act predictably",
+      "Factors that affect small populations",
+      "Factors that affect large populations only"
+    ],
+    "correct_answer_text": "Factors that act predictably"
+  },
+  {
+    "question_number": 39,
+    "question": "What are stochastic factors?",
+    "options": [
+      "Factors that act predictably",
+      "Factors that act randomly",
+      "Factors that affect large populations only",
+      "Factors that affect small populations only"
+    ],
+    "correct_answer_text": "Factors that act randomly"
+  },
+  {
+    "question_number": 40,
+    "question": "What is demographic stochasticity?",
+    "options": [
+      "Random events related to population demographics",
+      "Predictable changes in birth rates",
+      "Changes in environmental conditions",
+      "Catastrophic events"
+    ],
+    "correct_answer_text": "Random events related to population demographics"
+  },
+  {
+    "question_number": 41,
+    "question": "What is inbreeding depression?",
+    "options": [
+      "Increased genetic diversity",
+      "Reduced genetic diversity",
+      "Improved fitness",
+      "Increased adaptability"
+    ],
+    "correct_answer_text": "Reduced genetic diversity"
+  },
+  {
+    "question_number": 42,
+    "question": "What does the acronym HIPPO represent in the context of extinction threats?",
+    "options": [
+      "Habitat loss, Invasive species, Pollution, Population, Overharvesting",
+      "Habitat loss, Invasive species, Pollution, Predation, Overgrazing",
+      "Habitat loss, Infection, Parasites, Pollution, Overexploitation",
+      "Habitat loss, Invasive species, Pollution, Population, Overgrazing"
+    ],
+    "correct_answer_text": "Habitat loss, Invasive species, Pollution, Population, Overharvesting"
+  },
+  {
+    "question_number": 43,
+    "question": "What factor determines the sensitivity of a species to human impact?",
+    "options": [
+      "Size of the species",
+      "Adaptability and resilience",
+      "Geographic location",
+      "Diet"
+    ],
+    "correct_answer_text": "Adaptability and resilience"
+  },
+  {
+    "question_number": 44,
+    "question": "What is the Island Biogeography model?",
+    "options": [
+      "A model predicting species richness based on island area",
+      "A model predicting species richness based on island shape",
+      "A model predicting species richness based on island age",
+      "A model predicting species richness based on island climate"
+    ],
+    "correct_answer_text": "A model predicting species richness based on island area"
+  },
+  {
+    "question_number": 45,
+    "question": "What is habitat degradation?",
+    "options": [
+      "Complete loss of habitat",
+      "Reduction in habitat quality",
+      "Fragmentation of habitat",
+      "Displacement of habitat"
+    ],
+    "correct_answer_text": "Reduction in habitat quality"
+  },
+  {
+    "question_number": 46,
+    "question": "What is eutrophication?",
+    "options": [
+      "Reduction in nutrient levels",
+      "Increase in nutrient levels",
+      "Pollution from pesticides",
+      "Habitat fragmentation"
+    ],
+    "correct_answer_text": "Increase in nutrient levels"
+  },
+  {
+    "question_number": 47,
+    "question": "What is bioaccumulation?",
+    "options": [
+      "The decrease in toxin concentration as you move up the food chain",
+      "The increase in toxin concentration as you move up the food chain",
+      "The accumulation of toxins in an organism's body",
+      "The breakdown of toxins in the environment"
+    ],
+    "correct_answer_text": "The accumulation of toxins in an organism's body"
+  },
+  {
+    "question_number": 48,
+    "question": "What is biomagnification?",
+    "options": [
+      "The decrease in toxin concentration as you move up the food chain",
+      "The increase in toxin concentration as you move up the food chain",
+      "The accumulation of toxins in an organism's body",
+      "The breakdown of toxins in the environment"
+    ],
+    "correct_answer_text": "The increase in toxin concentration as you move up the food chain"
+  },
+  {
+    "question_number": 49,
+    "question": "What are ghost nets?",
+    "options": [
+      "Abandoned fishing nets",
+      "Types of fishing boats",
+      "Types of birds",
+      "Types of marine plants"
+    ],
+    "correct_answer_text": "Abandoned fishing nets"
+  },
+  {
+    "question_number": 50,
+    "question": "What is habitat loss?",
+    "options": [
+      "Reduction in habitat quality",
+      "Complete loss of habitat",
+      "Fragmentation of habitat",
+      "Displacement of habitat"
+    ],
+    "correct_answer_text": "Complete loss of habitat"
+  },
+  {
+    "question_number": 51,
+    "question": "What is habitat fragmentation?",
+    "options": [
+      "Reduction in habitat quality",
+      "Complete loss of habitat",
+      "Breaking up of a habitat into smaller patches",
+      "Displacement of habitat"
+    ],
+    "correct_answer_text": "Breaking up of a habitat into smaller patches"
+  },
+  {
+    "question_number": 52,
+    "question": "What is habitat displacement?",
+    "options": [
+      "Reduction in habitat quality",
+      "Complete loss of habitat",
+      "Breaking up of a habitat into smaller patches",
+      "Shifting of wildlife to sub-prime habitats"
+    ],
+    "correct_answer_text": "Shifting of wildlife to sub-prime habitats"
+  },
+  {
+    "question_number": 53,
+    "question": "What are the stages of habitat fragmentation mentioned?",
+    "options": [
+      "Dissection, Perforation, Attrition",
+      "Degradation, Fragmentation, Loss",
+      "Loss, Fragmentation, Degradation",
+      "Dissection, Perforation, Displacement"
+    ],
+    "correct_answer_text": "Dissection, Perforation, Attrition"
+  },
+  {
+    "question_number": 54,
+    "question": "What is dissection in the context of habitat fragmentation?",
+    "options": [
+      "Creation of smaller habitats",
+      "Loss of habitat",
+      "Initial division of habitat by linear structures",
+      "Displacement of species"
+    ],
+    "correct_answer_text": "Initial division of habitat by linear structures"
+  },
+  {
+    "question_number": 55,
+    "question": "What is perforation in the context of habitat fragmentation?",
+    "options": [
+      "Creation of smaller habitats",
+      "Loss of habitat",
+      "Initial division of habitat by linear structures",
+      "Encroachment into existing habitats"
+    ],
+    "correct_answer_text": "Encroachment into existing habitats"
+  },
+  {
+    "question_number": 56,
+    "question": "What is attrition in the context of habitat fragmentation?",
+    "options": [
+      "Creation of smaller habitats",
+      "Reduction in size of existing habitats",
+      "Initial division of habitat by linear structures",
+      "Displacement of species"
+    ],
+    "correct_answer_text": "Reduction in size of existing habitats"
+  },
+  {
+    "question_number": 57,
+    "question": "What is the difference between economic growth and economic development?",
+    "options": [
+      "They are the same",
+      "Growth is increase in size, development is increase in well-being",
+      "Growth is increase in well-being, development is increase in size",
+      "Growth is qualitative, development is quantitative"
+    ],
+    "correct_answer_text": "Growth is increase in size, development is increase in well-being"
+  },
+  {
+    "question_number": 58,
+    "question": "What is a key concern regarding economic development and wildlife?",
+    "options": [
+      "Increased biodiversity",
+      "Improved habitat quality",
+      "Potential negative impacts on wildlife",
+      "Increased economic growth"
+    ],
+    "correct_answer_text": "Potential negative impacts on wildlife"
+  },
+  {
+    "question_number": 59,
+    "question": "What is the focus of Lecture 3?",
+    "options": [
+      "Push and pull factors",
+      "Threats to species",
+      "Ecotoxicology and developmental hazards",
+      "Habitat selection"
+    ],
+    "correct_answer_text": "Ecotoxicology and developmental hazards"
+  },
+  {
+    "question_number": 60,
+    "question": "What is the main difference between growth and development?",
+    "options": [
+      "Growth focuses on quantity, development on quality",
+      "Growth focuses on quality, development on quantity",
+      "They are essentially the same",
+      "Growth is faster than development"
+    ],
+    "correct_answer_text": "Growth focuses on quantity, development on quality"
+  }
+]

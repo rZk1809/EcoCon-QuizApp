@@ -1,0 +1,1080 @@
+[
+  {
+    "question_number": 1,
+    "question": "What are the two Latin word roots of 'conservation'?",
+    "options": [
+      "'conservare' and 'servare'",
+      "'con' and 'servus'",
+      "'conservare' and 'ervare'",
+      "'con' and 'servare'"
+    ],
+    "correct_answer_text": "'con' and 'servare'"
+  },
+  {
+    "question_number": 2,
+    "question": "What does 'con' mean in Latin?",
+    "options": [
+      "To protect",
+      "To keep",
+      "Together",
+      "To preserve"
+    ],
+    "correct_answer_text": "Together"
+  },
+  {
+    "question_number": 3,
+    "question": "What does 'servare' mean in Latin?",
+    "options": [
+      "To grow",
+      "Together",
+      "To keep",
+      "To restore"
+    ],
+    "correct_answer_text": "To keep"
+  },
+  {
+    "question_number": 4,
+    "question": "What are the three components of conservation mentioned?",
+    "options": [
+      "Protection, restoration, and sustainability",
+      "Preservation, protection, and restoration",
+      "Preservation, protection, and consumption",
+      "Restoration, consumption, and sustainability"
+    ],
+    "correct_answer_text": "Preservation, protection, and restoration"
+  },
+  {
+    "question_number": 5,
+    "question": "What is the Anthropocene?",
+    "options": [
+      "A proposed geological epoch",
+      "A type of ecosystem",
+      "A method of conservation",
+      "A Latin word"
+    ],
+    "correct_answer_text": "A proposed geological epoch"
+  },
+  {
+    "question_number": 6,
+    "question": "What marks the beginning of the Anthropocene?",
+    "options": [
+      "The Industrial Revolution",
+      "The invention of agriculture",
+      "Significant human impact on Earth",
+      "The writing of Malthus's essay"
+    ],
+    "correct_answer_text": "Significant human impact on Earth"
+  },
+  {
+    "question_number": 7,
+    "question": "What is one major human impact on the environment mentioned?",
+    "options": [
+      "Habitat creation",
+      "Ozone replenishment",
+      "Overconsumption",
+      "Sustainable development"
+    ],
+    "correct_answer_text": "Overconsumption"
+  },
+  {
+    "question_number": 8,
+    "question": "What is overconsumption?",
+    "options": [
+      "Removing organisms at a rate less than population growth",
+      "Conserving natural resources",
+      "Removing organisms at a rate greater than population growth",
+      "Using resources sustainably"
+    ],
+    "correct_answer_text": "Removing organisms at a rate greater than population growth"
+  },
+  {
+    "question_number": 9,
+    "question": "What is habitat destruction?",
+    "options": [
+      "The creation of new habitats",
+      "The protection of habitats",
+      "The natural home of an organism",
+      "The damage or destruction of an organism's home"
+    ],
+    "correct_answer_text": "The damage or destruction of an organism's home"
+  },
+  {
+    "question_number": 10,
+    "question": "What is desertification?",
+    "options": [
+      "Turning lands into forests",
+      "The growth of deserts",
+      "Overconsumption of soil",
+      "Turning lands into deserts"
+    ],
+    "correct_answer_text": "Turning lands into deserts"
+  },
+  {
+    "question_number": 11,
+    "question": "What is a major factor in desertification?",
+    "options": [
+      "Reforestation",
+      "Overgrazing",
+      "Undergrazing",
+      "Sustainable agriculture"
+    ],
+    "correct_answer_text": "Overgrazing"
+  },
+  {
+    "question_number": 12,
+    "question": "What is ocean acidification?",
+    "options": [
+      "Increasing the pH of oceans",
+      "Decreasing the pH of oceans",
+      "Increasing the temperature of oceans",
+      "Decreasing the salinity of oceans"
+    ],
+    "correct_answer_text": "Decreasing the pH of oceans"
+  },
+  {
+    "question_number": 13,
+    "question": "What is a major cause of ocean acidification?",
+    "options": [
+      "Release of oxygen",
+      "Release of carbon dioxide",
+      "Release of nitrogen",
+      "Release of hydrogen"
+    ],
+    "correct_answer_text": "Release of carbon dioxide"
+  },
+  {
+    "question_number": 14,
+    "question": "What is ozone depletion caused by?",
+    "options": [
+      "Increased oxygen levels",
+      "Use of chlorofluorocarbons",
+      "Increased carbon dioxide",
+      "Sustainable practices"
+    ],
+    "correct_answer_text": "Use of chlorofluorocarbons"
+  },
+  {
+    "question_number": 15,
+    "question": "What does ozone protect life from?",
+    "options": [
+      "Carbon dioxide",
+      "Greenhouse gases",
+      "UV rays of the Sun",
+      "Ocean acidification"
+    ],
+    "correct_answer_text": "UV rays of the Sun"
+  },
+  {
+    "question_number": 16,
+    "question": "What are biogeochemical cycles?",
+    "options": [
+      "Cycles of money",
+      "Cycles through which nutrients move",
+      "Cycles of human population growth",
+      "Cycles of technological advancement"
+    ],
+    "correct_answer_text": "Cycles through which nutrients move"
+  },
+  {
+    "question_number": 17,
+    "question": "What is eutrophication?",
+    "options": [
+      "Reduction of nutrients in water bodies",
+      "Adding nutrients to water bodies",
+      "Cleaning of water bodies",
+      "Decreasing algae growth in water bodies"
+    ],
+    "correct_answer_text": "Adding nutrients to water bodies"
+  },
+  {
+    "question_number": 18,
+    "question": "What is one impact of eutrophication?",
+    "options": [
+      "Increased oxygen levels in water",
+      "Rapid growth of plant material in water",
+      "Decreased algae growth",
+      "Improved water quality"
+    ],
+    "correct_answer_text": "Rapid growth of plant material in water"
+  },
+  {
+    "question_number": 19,
+    "question": "What is a major cause of loss of biodiversity?",
+    "options": [
+      "Sustainable practices",
+      "Habitat creation",
+      "Rampant poaching",
+      "Ozone replenishment"
+    ],
+    "correct_answer_text": "Rampant poaching"
+  },
+  {
+    "question_number": 20,
+    "question": "What is a major causal factor of climate change?",
+    "options": [
+      "Release of oxygen",
+      "Release of greenhouse gases",
+      "Sustainable agriculture",
+      "Ozone replenishment"
+    ],
+    "correct_answer_text": "Release of greenhouse gases"
+  },
+  {
+    "question_number": 21,
+    "question": "What is a greenhouse gas mentioned?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correct_answer_text": "Carbon dioxide"
+  },
+  {
+    "question_number": 22,
+    "question": "What does the formula I = P x A x T represent?",
+    "options": [
+      "The impact of human activity on the environment",
+      "The growth of human population",
+      "The level of affluence in a society",
+      "The level of technological advancement"
+    ],
+    "correct_answer_text": "The impact of human activity on the environment"
+  },
+  {
+    "question_number": 23,
+    "question": "In I = P x A x T, what does 'P' represent?",
+    "options": [
+      "Affluence",
+      "Technology",
+      "Population",
+      "Impact"
+    ],
+    "correct_answer_text": "Population"
+  },
+  {
+    "question_number": 24,
+    "question": "In I = P x A x T, what does 'A' represent?",
+    "options": [
+      "Affluence",
+      "Technology",
+      "Population",
+      "Impact"
+    ],
+    "correct_answer_text": "Affluence"
+  },
+  {
+    "question_number": 25,
+    "question": "In I = P x A x T, what does 'T' represent?",
+    "options": [
+      "Affluence",
+      "Technology",
+      "Population",
+      "Impact"
+    ],
+    "correct_answer_text": "Technology"
+  },
+  {
+    "question_number": 26,
+    "question": "What is affluence generally measured through?",
+    "options": [
+      "Population size",
+      "Technological advancement",
+      "GDP per capita",
+      "Amount of rainfall"
+    ],
+    "correct_answer_text": "GDP per capita"
+  },
+  {
+    "question_number": 27,
+    "question": "What is one example of an invasive species?",
+    "options": [
+      "Elephant",
+      "Tiger",
+      "Lantana camara",
+      "Rhizobium"
+    ],
+    "correct_answer_text": "Lantana camara"
+  },
+  {
+    "question_number": 28,
+    "question": "What is coral bleaching?",
+    "options": [
+      "The growth of corals",
+      "The death of corals",
+      "The protection of corals",
+      "The creation of coral reefs"
+    ],
+    "correct_answer_text": "The death of corals"
+  },
+  {
+    "question_number": 29,
+    "question": "What is traditionally taken as the beginning of the Anthropocene?",
+    "options": [
+      "The Industrial Revolution",
+      "The invention of writing",
+      "The Trinity explosion in 1945",
+      "The first use of fire"
+    ],
+    "correct_answer_text": "The Trinity explosion in 1945"
+  },
+  {
+    "question_number": 30,
+    "question": "What is one of the earliest works on human population growth?",
+    "options": [
+      "The Origin of Species",
+      "Silent Spring",
+      "An Essay on the Principle of Population",
+      "The Population Bomb"
+    ],
+    "correct_answer_text": "An Essay on the Principle of Population"
+  },
+  {
+    "question_number": 31,
+    "question": "Who wrote 'An Essay on the Principle of Population'?",
+    "options": [
+      "Charles Darwin",
+      "Rachel Carson",
+      "Thomas Robert Malthus",
+      "Paul Ehrlich"
+    ],
+    "correct_answer_text": "Thomas Robert Malthus"
+  },
+  {
+    "question_number": 32,
+    "question": "According to Malthus, how does human population grow?",
+    "options": [
+      "Arithmetic progression",
+      "Geometric progression",
+      "Linear progression",
+      "Exponential decay"
+    ],
+    "correct_answer_text": "Geometric progression"
+  },
+  {
+    "question_number": 33,
+    "question": "According to Malthus, how does food supply increase?",
+    "options": [
+      "Geometric progression",
+      "Arithmetic progression",
+      "Exponential decay",
+      "Logistic growth"
+    ],
+    "correct_answer_text": "Arithmetic progression"
+  },
+  {
+    "question_number": 34,
+    "question": "What are Malthus's 'positive checks'?",
+    "options": [
+      "Moral restraint",
+      "Late marriage",
+      "Famine and disease",
+      "Celibacy"
+    ],
+    "correct_answer_text": "Famine and disease"
+  },
+  {
+    "question_number": 35,
+    "question": "What are Malthus's 'preventive checks'?",
+    "options": [
+      "Famine and disease",
+      "Moral restraint",
+      "War and pestilence",
+      "Natural calamities"
+    ],
+    "correct_answer_text": "Moral restraint"
+  },
+  {
+    "question_number": 36,
+    "question": "What is the doubling time in Malthus's theory?",
+    "options": [
+      "50 years",
+      "100 years",
+      "25 years",
+      "10 years"
+    ],
+    "correct_answer_text": "25 years"
+  },
+  {
+    "question_number": 37,
+    "question": "What is the formula for exponential population growth?",
+    "options": [
+      "P[t] = P[0] x e^(kt)",
+      "P[t] = P[0] + kt",
+      "P[t] = P[0] x 2^t",
+      "P[t] = P[0] / e^(kt)"
+    ],
+    "correct_answer_text": "P[t] = P[0] x e^(kt)"
+  },
+  {
+    "question_number": 38,
+    "question": "In the exponential growth formula, what does 'k' represent?",
+    "options": [
+      "Initial population",
+      "Doubling time",
+      "A positive constant",
+      "Carrying capacity"
+    ],
+    "correct_answer_text": "A positive constant"
+  },
+  {
+    "question_number": 39,
+    "question": "What is the formula for doubling time (td)?",
+    "options": [
+      "td = k x log2",
+      "td = log2 / k",
+      "td = 2 / k",
+      "td = k / 2"
+    ],
+    "correct_answer_text": "td = log2 / k"
+  },
+  {
+    "question_number": 40,
+    "question": "What is a criticism of Malthus's theory?",
+    "options": [
+      "Population growth is always exponential",
+      "Agricultural growth is always arithmetic",
+      "Doubling time is constant",
+      "Population growth is not always exponential and doubling time is not constant"
+    ],
+    "correct_answer_text": "Population growth is not always exponential and doubling time is not constant"
+  },
+  {
+    "question_number": 41,
+    "question": "What is carrying capacity?",
+    "options": [
+      "The minimum number of individuals an environment can support",
+      "The maximum number of individuals an environment can support",
+      "The average number of individuals in an environment",
+      "The number of predators in an environment"
+    ],
+    "correct_answer_text": "The maximum number of individuals an environment can support"
+  },
+  {
+    "question_number": 42,
+    "question": "What type of growth does the logistic growth equation describe?",
+    "options": [
+      "Exponential growth only",
+      "Arithmetic growth only",
+      "S-shaped growth",
+      "Linear growth only"
+    ],
+    "correct_answer_text": "S-shaped growth"
+  },
+  {
+    "question_number": 43,
+    "question": "What is the formula for logistic growth?",
+    "options": [
+      "dN/dt = rN(K-N)/K",
+      "dN/dt = rN",
+      "dN/dt = rN + K",
+      "dN/dt = r(K-N)"
+    ],
+    "correct_answer_text": "dN/dt = rN(K-N)/K"
+  },
+  {
+    "question_number": 44,
+    "question": "In the logistic growth equation, what does 'K' represent?",
+    "options": [
+      "Initial population",
+      "Growth rate",
+      "Carrying capacity",
+      "Time"
+    ],
+    "correct_answer_text": "Carrying capacity"
+  },
+  {
+    "question_number": 45,
+    "question": "What is one factor that affects the net reproductive rate?",
+    "options": [
+      "Weather",
+      "Availability of food",
+      "Temperature",
+      "Rainfall"
+    ],
+    "correct_answer_text": "Availability of food"
+  },
+  {
+    "question_number": 46,
+    "question": "What is net reproductive rate?",
+    "options": [
+      "Number of offspring per individual",
+      "Number of female offspring per female per generation",
+      "Number of male offspring per male per generation",
+      "Number of deaths per generation"
+    ],
+    "correct_answer_text": "Number of female offspring per female per generation"
+  },
+  {
+    "question_number": 47,
+    "question": "What does Gandhi say about the world's resources?",
+    "options": [
+      "There are unlimited resources",
+      "There are enough resources for everyone's needs, not everyone's greed",
+      "Resources are only enough for the wealthy",
+      "Resources should be equally divided"
+    ],
+    "correct_answer_text": "There are enough resources for everyone's needs, not everyone's greed"
+  },
+  {
+    "question_number": 48,
+    "question": "What is sustainable development?",
+    "options": [
+      "Meeting present needs without compromising future needs",
+      "Meeting greed without compromising needs",
+      "Unlimited economic growth",
+      "Environmental protection only"
+    ],
+    "correct_answer_text": "Meeting present needs without compromising future needs"
+  },
+  {
+    "question_number": 49,
+    "question": "What are the three pillars of sustainability?",
+    "options": [
+      "Environmental, economic, and social",
+      "Political, economic, and environmental",
+      "Social, cultural, and economic",
+      "Environmental, technological, and social"
+    ],
+    "correct_answer_text": "Environmental, economic, and social"
+  },
+  {
+    "question_number": 50,
+    "question": "What are ecosystem services?",
+    "options": [
+      "Services provided by humans",
+      "Services provided by ecosystems",
+      "Economic services only",
+      "Social services only"
+    ],
+    "correct_answer_text": "Services provided by ecosystems"
+  },
+  {
+    "question_number": 51,
+    "question": "What is an example of an ecosystem service?",
+    "options": [
+      "Pollution",
+      "Deforestation",
+      "Provisioning of goods like wood",
+      "Habitat destruction"
+    ],
+    "correct_answer_text": "Provisioning of goods like wood"
+  },
+  {
+    "question_number": 52,
+    "question": "What is green chemistry?",
+    "options": [
+      "Manufacturing goods with high pollution",
+      "Manufacturing goods with low pollution",
+      "Using only natural resources",
+      "Ignoring environmental impact"
+    ],
+    "correct_answer_text": "Manufacturing goods with low pollution"
+  },
+  {
+    "question_number": 53,
+    "question": "What is a topic discussed in relation to environmental sustainability?",
+    "options": [
+      "Population growth only",
+      "Economic growth only",
+      "Quality of air and water",
+      "Technological advancement only"
+    ],
+    "correct_answer_text": "Quality of air and water"
+  },
+  {
+    "question_number": 54,
+    "question": "According to the text, what is the relationship between population and technology in the impact",
+    "options": [
+      "Technology is independent of population",
+      "Population is independent of technology",
+      "Technology is somewhat dependent on population",
+      "There is no relationship between population and technology"
+    ],
+    "correct_answer_text": "Technology is somewhat dependent on population"
+  },
+  {
+    "question_number": 55,
+    "question": "What is a factor that affects the rate of agricultural production increase?",
+    "options": [
+      "Only land availability",
+      "Only technology",
+      "Both land availability and technology",
+      "Neither land availability nor technology"
+    ],
+    "correct_answer_text": "Both land availability and technology"
+  },
+  {
+    "question_number": 56,
+    "question": "What is a criticism of Malthus's theory regarding agricultural growth?",
+    "options": [
+      "It assumes exponential agricultural growth",
+      "It assumes arithmetic agricultural growth",
+      "It ignores technological advancements",
+      "Both B and C"
+    ],
+    "correct_answer_text": "Both B and C"
+  },
+  {
+    "question_number": 57,
+    "question": "What is a criticism of Malthus's theory regarding positive checks?",
+    "options": [
+      "They only occur in high-population areas",
+      "They only occur in low-population areas",
+      "They never occur",
+      "They occur regardless of population density"
+    ],
+    "correct_answer_text": "They occur regardless of population density"
+  },
+  {
+    "question_number": 58,
+    "question": "What is demographic transition?",
+    "options": [
+      "A shift in population growth patterns",
+      "A type of ecosystem",
+      "A method of conservation",
+      "A type of economic system"
+    ],
+    "correct_answer_text": "A shift in population growth patterns"
+  },
+  {
+    "question_number": 59,
+    "question": "What is one stage in demographic transition characterized by?",
+    "options": [
+      "Low birth rate and high death rate",
+      "High birth rate and low death rate",
+      "Low birth rate and low death rate",
+      "High birth rate and high death rate"
+    ],
+    "correct_answer_text": "High birth rate and high death rate"
+  },
+  {
+    "question_number": 60,
+    "question": "What is one factor that influences the birth rate in demographic transition?",
+    "options": [
+      "Access to healthcare",
+      "Access to contraceptives",
+      "Access to education",
+      "All of the above"
+    ],
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "question_number": 61,
+    "question": "What is a silver lining mentioned regarding population growth?",
+    "options": [
+      "The rate of population growth is increasing",
+      "The rate of population growth has peaked and is decreasing",
+      "The population is stabilizing at 5 billion",
+      "The population is stabilizing at 2 billion"
+    ],
+    "correct_answer_text": "The rate of population growth has peaked and is decreasing"
+  },
+  {
+    "question_number": 62,
+    "question": "What is a trend observed regarding fertility rates?",
+    "options": [
+      "Fertility rates are increasing",
+      "Fertility rates are stable",
+      "Fertility rates are decreasing",
+      "Fertility rates are unpredictable"
+    ],
+    "correct_answer_text": "Fertility rates are decreasing"
+  },
+  {
+    "question_number": 63,
+    "question": "What is one example of a change in the population pyramid mentioned?",
+    "options": [
+      "The base is getting wider",
+      "The base is getting narrower",
+      "The pyramid is becoming more irregular",
+      "The pyramid is becoming more stable"
+    ],
+    "correct_answer_text": "The base is getting narrower"
+  },
+  {
+    "question_number": 64,
+    "question": "What is a factor that influences the death rate in demographic transition?",
+    "options": [
+      "Access to healthcare",
+      "Access to education",
+      "Access to technology",
+      "All of the above"
+    ],
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "question_number": 65,
+    "question": "What is one trend observed in the use of fertilisers?",
+    "options": [
+      "Fertiliser use is decreasing globally",
+      "Fertiliser use is stable globally",
+      "Fertiliser use is increasing globally",
+      "Fertiliser use is unpredictable globally"
+    ],
+    "correct_answer_text": "Fertiliser use is increasing globally"
+  },
+  {
+    "question_number": 66,
+    "question": "What is a trend observed in the use of pesticides?",
+    "options": [
+      "Pesticide use is decreasing globally",
+      "Pesticide use is stable globally",
+      "Pesticide use is increasing globally",
+      "Pesticide use is unpredictable globally"
+    ],
+    "correct_answer_text": "Pesticide use is increasing globally"
+  },
+  {
+    "question_number": 67,
+    "question": "What is a trend observed in the amount of water used for agriculture?",
+    "options": [
+      "Water use for agriculture is decreasing globally",
+      "Water use for agriculture is stable globally",
+      "Water use for agriculture is increasing globally",
+      "Water use for agriculture is unpredictable globally"
+    ],
+    "correct_answer_text": "Water use for agriculture is increasing globally"
+  },
+  {
+    "question_number": 68,
+    "question": "What is a trend observed in the land area needed to produce the same amount of food?",
+    "options": [
+      "It is increasing",
+      "It is stable",
+      "It is decreasing",
+      "It is unpredictable"
+    ],
+    "correct_answer_text": "It is decreasing"
+  },
+  {
+    "question_number": 69,
+    "question": "What is one way to increase food production without increasing land use?",
+    "options": [
+      "Decrease fertiliser use",
+      "Decrease pesticide use",
+      "Increase crop productivity",
+      "Decrease irrigation"
+    ],
+    "correct_answer_text": "Increase crop productivity"
+  },
+  {
+    "question_number": 70,
+    "question": "What is a criticism of Malthus's theory concerning the relationship between population and food",
+    "options": [
+      "Population is linked to food only",
+      "Population is linked to total wealth",
+      "Population is linked to technology only",
+      "Population is linked to rainfall only"
+    ],
+    "correct_answer_text": "Population is linked to total wealth"
+  },
+  {
+    "question_number": 71,
+    "question": "What is a factor mentioned that leads to a decrease in the death rate?",
+    "options": [
+      "Lack of access to healthcare",
+      "Lack of access to technology",
+      "Improved access to healthcare",
+      "Increased poverty"
+    ],
+    "correct_answer_text": "Improved access to healthcare"
+  },
+  {
+    "question_number": 72,
+    "question": "What is a factor mentioned that leads to a decrease in the birth rate?",
+    "options": [
+      "Lack of access to education",
+      "Improved access to education",
+      "Increased poverty",
+      "Lack of access to contraceptives"
+    ],
+    "correct_answer_text": "Improved access to education"
+  },
+  {
+    "question_number": 73,
+    "question": "What is one reason why couples in earlier times had more children?",
+    "options": [
+      "High survival rates of children",
+      "Low survival rates of children",
+      "Easy access to childcare",
+      "Abundance of resources"
+    ],
+    "correct_answer_text": "Low survival rates of children"
+  },
+  {
+    "question_number": 74,
+    "question": "What is one factor that contributes to a stable population in the fourth stage of demographic",
+    "options": [
+      "High birth rate and high death rate",
+      "High birth rate and low death rate",
+      "Low birth rate and high death rate",
+      "Low birth rate and low death rate"
+    ],
+    "correct_answer_text": "Low birth rate and low death rate"
+  },
+  {
+    "question_number": 75,
+    "question": "What is one method mentioned for reducing birth rates besides moral restraint?",
+    "options": [
+      "Increasing poverty",
+      "Decreasing access to healthcare",
+      "Using contraceptives",
+      "Reducing access to education"
+    ],
+    "correct_answer_text": "Using contraceptives"
+  },
+  {
+    "question_number": 76,
+    "question": "What is one example of a positive check that might occur even in low-population countries?",
+    "options": [
+      "Earthquake",
+      "Famine",
+      "Disease",
+      "War"
+    ],
+    "correct_answer_text": "Earthquake"
+  },
+  {
+    "question_number": 77,
+    "question": "What is one reason why understanding wildlife population ecology is crucial for conservation?",
+    "options": [
+      "It helps predict weather patterns",
+      "It helps predict economic trends",
+      "It helps make informed conservation decisions",
+      "It helps predict technological advancements"
+    ],
+    "correct_answer_text": "It helps make informed conservation decisions"
+  },
+  {
+    "question_number": 78,
+    "question": "What is one characteristic of exponential growth?",
+    "options": [
+      "Constant rate of increase",
+      "Decreasing rate of increase",
+      "Increasing rate of increase",
+      "No rate of increase"
+    ],
+    "correct_answer_text": "Increasing rate of increase"
+  },
+  {
+    "question_number": 79,
+    "question": "What is the term for the maximum number of individuals an environment can sustain?",
+    "options": [
+      "Carrying capacity",
+      "Population density",
+      "Net reproductive rate",
+      "Doubling time"
+    ],
+    "correct_answer_text": "Carrying capacity"
+  },
+  {
+    "question_number": 80,
+    "question": "What is a problem of statics in population ecology?",
+    "options": [
+      "How populations change with time",
+      "What determines average population values",
+      "How to increase carrying capacity",
+      "How to predict future population growth"
+    ],
+    "correct_answer_text": "What determines average population values"
+  },
+  {
+    "question_number": 81,
+    "question": "What is a problem of dynamics in population ecology?",
+    "options": [
+      "What determines average population values",
+      "How populations change with time",
+      "How to increase carrying capacity",
+      "How to predict future population growth"
+    ],
+    "correct_answer_text": "How populations change with time"
+  },
+  {
+    "question_number": 82,
+    "question": "What is one factor that influences the impact of humans on the environment, besides population",
+    "options": [
+      "Rainfall",
+      "Temperature",
+      "Affluence",
+      "Soil type"
+    ],
+    "correct_answer_text": "Affluence"
+  },
+  {
+    "question_number": 83,
+    "question": "What is one way that modern technology can affect the impact formula?",
+    "options": [
+      "Increase 'P'",
+      "Increase 'A'",
+      "Increase or decrease 'I'",
+      "Decrease 'T'"
+    ],
+    "correct_answer_text": "Increase or decrease 'I'"
+  },
+  {
+    "question_number": 84,
+    "question": "What is one example of a preventive check according to Malthus?",
+    "options": [
+      "War",
+      "Famine",
+      "Moral restraint",
+      "Disease"
+    ],
+    "correct_answer_text": "Moral restraint"
+  },
+  {
+    "question_number": 85,
+    "question": "What is one example of a positive check according to Malthus?",
+    "options": [
+      "Moral restraint",
+      "Late marriage",
+      "Famine",
+      "Celibacy"
+    ],
+    "correct_answer_text": "Famine"
+  },
+  {
+    "question_number": 86,
+    "question": "What is one way humans have increased carrying capacity?",
+    "options": [
+      "Reducing technology",
+      "Decreasing crop productivity",
+      "Bringing more land under cultivation",
+      "Ignoring environmental concerns"
+    ],
+    "correct_answer_text": "Bringing more land under cultivation"
+  },
+  {
+    "question_number": 87,
+    "question": "What is a potential outcome of unsustainable development?",
+    "options": [
+      "Increased biodiversity",
+      "Improved ecosystem services",
+      "Overconsumption",
+      "Sustainable resource use"
+    ],
+    "correct_answer_text": "Overconsumption"
+  },
+  {
+    "question_number": 88,
+    "question": "What is one way to achieve environmental sustainability?",
+    "options": [
+      "Ignoring pollution",
+      "Promoting deforestation",
+      "Using green engineering",
+      "Overusing resources"
+    ],
+    "correct_answer_text": "Using green engineering"
+  },
+  {
+    "question_number": 89,
+    "question": "What is one example of economic sustainability?",
+    "options": [
+      "Depleting natural resources",
+      "Ignoring social needs",
+      "Promoting sustainable businesses",
+      "Promoting overconsumption"
+    ],
+    "correct_answer_text": "Promoting sustainable businesses"
+  },
+  {
+    "question_number": 90,
+    "question": "What is one example of social sustainability?",
+    "options": [
+      "Ignoring environmental concerns",
+      "Promoting social equity",
+      "Exploiting labor",
+      "Promoting unsustainable businesses"
+    ],
+    "correct_answer_text": "Promoting social equity"
+  },
+  {
+    "question_number": 91,
+    "question": "What is one consequence of unsustainable development mentioned in the text?",
+    "options": [
+      "Increased biodiversity",
+      "Improved air quality",
+      "Ocean acidification",
+      "Sustainable resource management"
+    ],
+    "correct_answer_text": "Ocean acidification"
+  },
+  {
+    "question_number": 92,
+    "question": "What is one consequence of habitat destruction?",
+    "options": [
+      "Increased biodiversity",
+      "Improved ecosystem health",
+      "Species extinction",
+      "Sustainable development"
+    ],
+    "correct_answer_text": "Species extinction"
+  },
+  {
+    "question_number": 93,
+    "question": "What is one consequence of overconsumption of water resources?",
+    "options": [
+      "Improved water quality",
+      "Desertification",
+      "Increased biodiversity",
+      "Sustainable water management"
+    ],
+    "correct_answer_text": "Desertification"
+  },
+  {
+    "question_number": 94,
+    "question": "What is one example of an unsustainable practice mentioned in the text?",
+    "options": [
+      "Recycling plastics",
+      "Using green chemistry",
+      "Overgrazing",
+      "Sustainable agriculture"
+    ],
+    "correct_answer_text": "Overgrazing"
+  },
+  {
+    "question_number": 95,
+    "question": "What is one way to reduce the impact of human activities on the environment?",
+    "options": [
+      "Increase population growth",
+      "Increase consumption",
+      "Increase technological advancement without considering sustainability",
+      "Promote sustainable development"
+    ],
+    "correct_answer_text": "Promote sustainable development"
+  },
+  {
+    "question_number": 96,
+    "question": "What does the text suggest is the overriding priority in sustainable development?",
+    "options": [
+      "Meeting the needs of the wealthy",
+      "Meeting the needs of the present",
+      "Meeting the needs of future generations only",
+      "Ignoring the needs of the poor"
+    ],
+    "correct_answer_text": "Meeting the needs of the present"
+  },
+  {
+    "question_number": 97,
+    "question": "What concept is emphasized in the definition of sustainable development regarding resource use?",
+    "options": [
+      "Unlimited resource availability",
+      "The concept of limitations",
+      "Ignoring future generations' needs",
+      "Meeting only present needs"
+    ],
+    "correct_answer_text": "The concept of limitations"
+  },
+  {
+    "question_number": 98,
+    "question": "What is one factor limiting the ability of the environment to meet present and future needs?",
+    "options": [
+      "Unlimited resources",
+      "The state of technology and social organization",
+      "Ignoring environmental concerns",
+      "Promoting overconsumption"
+    ],
+    "correct_answer_text": "The state of technology and social organization"
+  }
+]
